@@ -1,0 +1,13 @@
+.MainLayout {
+   width: 100dvw;
+   height: 100dvh;
+
+   .mainlayout-header {
+      background-color: var(--primary-color);
+   }
+
+   .mainlayout-body {
+      height: calc(100dvh - 74px);
+      overflow-y: auto;
+   }
+}
