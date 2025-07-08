@@ -20,9 +20,9 @@ const Navbar = () => {
             </div>
             <div className={`navbar-right ${open ? "open" : ""}`}>
                 <NavLink className={"nav__link"} to={"/"} onClick={() => setOpen(false)}>Trang chủ</NavLink>
-                <NavLink className={"nav__link"} to={"/gioi-thieu"} onClick={() => setOpen(false)}>Giới thiệu</NavLink>
                 <NavLink className={"nav__link"} to={"/viet-nam"} onClick={() => setOpen(false)}>Việt Nam</NavLink>
-                <NavLink className={"nav__link"} to={"/phan-hoi"} onClick={() => setOpen(false)}>Phản hồi</NavLink>
+                <NavLink className={"nav__link"} to={"/dak-lak"} onClick={() => setOpen(false)}>Đăk Lăk</NavLink>
+                <NavLink className={"nav__link"} to={"/dan-toc"} onClick={() => setOpen(false)}>Dân tộc</NavLink>
             </div>
 
         </div>
