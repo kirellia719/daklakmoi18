@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./style.scss"
 import { RiCloseLine, RiMenuLine } from "@remixicon/react";
 import Logo from "../../components/Logo"
+import BackgroundMusic from "../../components/BackgroundMusic"
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
@@ -23,6 +24,7 @@ const Navbar = () => {
                 <NavLink className={"nav__link"} to={"/viet-nam"} onClick={() => setOpen(false)}>Việt Nam</NavLink>
                 <NavLink className={"nav__link"} to={"/dak-lak"} onClick={() => setOpen(false)}>Đăk Lăk</NavLink>
                 <NavLink className={"nav__link"} to={"/dan-toc"} onClick={() => setOpen(false)}>Dân tộc</NavLink>
+                <BackgroundMusic />
             </div>
 
         </div>

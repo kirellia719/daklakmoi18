@@ -9,7 +9,7 @@ import ZoomableImage from "../../components/ZoomableImage"
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
 
-import dataTinhThanh from "../ThongTinTinh/dulieutinhthanh";
+import dataTinhThanh from "../ThongTinTinh/dulieumoi";
 const data = dataTinhThanh;
 
 const VietNamMapPage = () => {
