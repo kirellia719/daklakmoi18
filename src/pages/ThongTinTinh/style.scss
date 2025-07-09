@@ -26,14 +26,15 @@
          }
       }
 
+      li {
+         text-align: justify;
+         margin: 0.5rem 0;
+      }
+
       @media (width < 768px) {
          ul {
             padding-inline-start: 1rem;
          }
       }
-   }
-
-   li {
-      text-align: justify;
    }
 }

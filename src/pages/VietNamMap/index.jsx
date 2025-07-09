@@ -9,11 +9,11 @@ import ZoomableImage from "../../components/ZoomableImage"
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
 
-import api from "../../api.js";
+import dataTinhThanh from "../ThongTinTinh/dulieutinhthanh";
+const data = dataTinhThanh;
 
 const VietNamMapPage = () => {
 
-    const data = api.provinceData;
 
     const [input, setInput] = useState("");
     const newList = input ? data.filter(p => {

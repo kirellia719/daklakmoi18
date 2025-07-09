@@ -5,6 +5,7 @@ import anh2 from "./hinh-anh/2.jpg"
 import anh3 from "./hinh-anh/3.jpg"
 import anh4 from "./hinh-anh/4.jpg"
 import anh5 from "./hinh-anh/5.jpg"
+import TiltImage from "../../components/TiltImage"
 
 const HomePage = () => {
     return <div className="HomePage">
@@ -16,7 +17,7 @@ const HomePage = () => {
             <p>Kính chào quý thầy cô, các bạn và mọi người!</p>
             <p><strong>“Vali thông minh 360 – Cùng em khám phá Tổ quốc trong kỷ nguyên vươn mình của dân tộc”.</strong></p>
             <div className="image img1">
-                <img src={anh1} alt="" />
+                <TiltImage src={anh1} />
             </div>
             <ol>
                 <li><b>Cấu tạo của Vali thông minh 360</b></li>
@@ -77,10 +78,13 @@ const HomePage = () => {
                 <p>Sản phẩm này có thể được dùng trong lớp học, thư viện, bảo tàng hoặc mang đi thực tế ở các buổi trưng bày, ngoại khóa, để mọi người – nhất là thế hệ trẻ – dễ dàng tiếp cận kiến thức địa lý một cách hiện đại và trực quan hơn.</p>
                 <p>Nhóm chúng em hy vọng chiếc vali thông minh 360 sẽ góp phần lan tỏa tinh thần yêu nước, niềm tự hào dân tộc và cổ vũ cho mục tiêu xây dựng một Việt Nam vươn mình mạnh mẽ trong kỷ nguyên mới.</p>
                 <p>Chúng em rất mong nhận được sự góp ý, ủng hộ của quý thầy cô và mọi người để sản phẩm ngày càng hoàn thiện, phục vụ tốt hơn cho việc học tập và tìm hiểu kiến thức.
-                    Xin chân thành cảm ơn!
                 </p>
+                <p>Xin chân thành cảm ơn!</p>
             </ol>
         </div>
+
+        &nbsp;
+
     </div>
 }
 

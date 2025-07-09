@@ -16,7 +16,7 @@ const MainLayout = () => {
             <Routes>
                 <Route path="/viet-nam" element={<VietNamMapPage />} />
                 {/* <Route path="/dak-lak" element={<VietNamMapPage />} /> */}
-                <Route path="/tinh/:id-tinh" element={<ThongTinTinh />} />
+                <Route path="/tinh/:id" element={<ThongTinTinh />} />
                 {/* <Route path="/admin/*" element={<AdminLayout />} /> */}
                 <Route path="/" index element={<TrangChu />} />
             </Routes>
