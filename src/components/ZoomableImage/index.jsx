@@ -1,3 +1,5 @@
+import "./style.scss";
+
 import { ButtonGroup, ButtonToolbar, IconButton } from "rsuite";
 import PlusIcon from '@rsuite/icons/Plus';
 import MinusIcon from '@rsuite/icons/Minus';
@@ -25,18 +27,19 @@ const Controls = () => {
 };
 
 const ZoomableImage = ({ src }) => {
-    return <TransformWrapper
-        initialScale={1}
-        initialPositionX={200}
-        initialPositionY={100}
-        wrapperClass="image-container"
-    >
-        <TransformComponent>
-            <img src={src} alt="" />
-        </TransformComponent>
-        <Controls />
+    return <div className="ZoomableImage">
+        <TransformWrapper
+            initialScale={1}
+            initialPositionX={200}
+            initialPositionY={100}
+        >
+            <TransformComponent>
+                <img src={src} alt="" />
+            </TransformComponent>
+            <Controls />
 
-    </TransformWrapper>
+        </TransformWrapper>
+    </div>
 }
 
 export default ZoomableImage;

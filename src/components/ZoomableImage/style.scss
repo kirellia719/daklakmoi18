@@ -1,0 +1,13 @@
+.ZoomableImage {
+   width: fit-content;
+   position: relative;
+   // width: 100%;
+   img {
+      width: 100%;
+   }
+   .tools {
+      position: absolute;
+      top: 5px;
+      left: 5px;
+   }
+}

@@ -34,16 +34,6 @@ const VietNamMapPage = () => {
                         <SearchIcon />
                     </InputGroup.Button>
                 </InputGroup>
-                {/* <Grid style={{ width: "100%" }} fluid>
-                    {newList.map((c) => <Col xs={8} key={c}><Card className="ten-tinh">{c}</Card></Col>)}
-                </Grid> */}
-                {/* <List>
-                    {newList.map(m => (
-                        <List.Item key={m}>
-                            {m}
-                        </List.Item>
-                    ))}
-                </List> */}
 
                 <div className="province-container">
                     <div className="grid-container">

@@ -16,7 +16,7 @@ function BackgroundMusic() {
         };
 
         // Gọi phát nhạc sau lần tương tác đầu tiên
-        window.addEventListener("click", tryPlay, { once: true });
+        // window.addEventListener("click", tryPlay, { once: true });
 
         return () => {
             window.removeEventListener("mouseenter", tryPlay);

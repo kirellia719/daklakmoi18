@@ -1,7 +1,5 @@
 import "./style.scss";
 
-import HinhAnh1 from "../../assets/ha-noi-1.jpg";
-import HinhAnh2 from "../../assets/ha-noi-2.jpg";
 import dataTinhThanh from "./dulieumoi";
 import { useParams } from "react-router-dom";
 
