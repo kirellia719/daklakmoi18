@@ -153,7 +153,7 @@ const phuongxaDakLak = [
         ethnic: `Bao gồm các dân tộc Kinh, Ê Đê, M'Nông, và một số dân tộc thiểu số khác. Cụ thể, xã Ea Nuôl được thành lập từ việc hợp nhất xã Ea Sáp, xã Cuôr Knia và một phần xã Ea Bar. Trước đây, các xã này đều có sự đa dạng về thành phần dân tộc, và việc sáp nhập này đã tạo nên một xã Ea Nuôl với sự đa dạng văn hóa, dân tộc. `,
         location: [
             `Phía Đông và Nam: giáp với thành phố Buôn Ma Thuột.`,
-            `Ph phía Tây: giáp với tỉnh Lâm Đồng, xã Ea Wer `,
+            `Phía Tây: giáp với tỉnh Lâm Đồng, xã Ea Wer `,
             `Phía Bắc: giáp với các xã M’Droh, xã Ea Wer`,
             `Phía Nam: xã Hòa Phú, phường Thành Nhất`,
         ],

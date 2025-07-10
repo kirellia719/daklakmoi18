@@ -38,7 +38,7 @@ const TrangDakLak = () => {
             <div className="ward-container">
                 <Card shaded>
                     <Card.Header as="h2">
-                        <div className="title">Danh sách các phường xã của tỉnh <p>Đăk Lăk</p></div>
+                        <div className="title">Danh sách các phường xã của tỉnh <span>Đăk Lăk</span></div>
                     </Card.Header>
                     <Card.Body>
                         <InputGroup>
