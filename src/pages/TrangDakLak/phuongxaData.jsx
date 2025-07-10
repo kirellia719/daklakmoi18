@@ -214,3 +214,21 @@ const phuongxaDakLak = [
 ]
 
 export default phuongxaDakLak;
+
+// {
+//         id: 1,
+//         province: 26,
+//         name: "Xã Hoà Phú",
+//         image: [
+            
+//         ],
+//         introduce: ``,
+//         square: ``,
+//         population: ``,
+//         ethnic: ``,
+//         location: [
+            
+//         ],
+//         economy: ``,
+//         info: ``,
+//     },
