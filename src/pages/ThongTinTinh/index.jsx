@@ -14,7 +14,7 @@ const ThongTinTinh = () => {
             <div className="container-main">
                <h2 className="province-name">{province.name}</h2>
                <div className="image-group">
-                  <div dangerouslySetInnerHTML={{ __html: province.image360 }} />
+                  <div className="container-360" dangerouslySetInnerHTML={{ __html: province.image360 }} />
                </div>
                <div className="province-info">
                   <div className="p-container">

@@ -2,7 +2,7 @@ const dataTinhThanh = [
    {
       id: 1,
       name: "Thành phố Hà Nội",
-      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752200288392!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJREU4UFdqMndF!2m2!1d21.03677709848262!2d105.8346461725162!3f283.1780258109578!4f-21.05856381781581!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752200288392!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJREU4UFdqMndF!2m2!1d21.03677709848262!2d105.8346461725162!3f283.1780258109578!4f-21.05856381781581!5f0.7820865974627469" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Hà Nội là thủ đô của nước Cộng hòa xã hội chủ nghĩa Việt Nam. Được xếp loại đô thị đặc biệt, là trung tâm chính trị, kinh tế, văn hóa, xã hội, quốc phòng, an ninh và đối ngoại của Việt Nam.",

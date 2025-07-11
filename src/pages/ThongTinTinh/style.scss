@@ -27,6 +27,14 @@
          display: flex;
          justify-content: center;
          gap: 5px;
+         .container-360 {
+            width: 100%;
+            iframe {
+               width: 100%;
+               aspect-ratio: 16/9;
+            }
+         }
+
          .image-local {
             width: 50%;
             object-fit: cover;
