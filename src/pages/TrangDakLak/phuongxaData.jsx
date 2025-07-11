@@ -676,9 +676,9 @@ const phuongxaDakLak = [
       name: "Xã Xuân Phước",
       image: ["xuan-phuoc-1.jpg"],
       introduce: `Xã Xuân Phước được thành lập từ việc sáp nhập xã Xuân Quang 3 và xã Xuân Phước.`,
-      square: `Diện tích: 102,81 km² `,
+      square: `Diện tích: 102,81 km² `,
       population: `Dân số: khoảng 16.000 người.`,
-      ethnic: `Xã Xuân Phước là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh và một số dân tộc thiểu số khác: Ê Đê, Ba Na, Tày....`,
+      ethnic: `Xã Xuân Phước là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh và một số dân tộc thiểu số khác: Ê Đê, Ba Na, Tày....`,
       location: [
          `Phía Đông: Xã Tuy An Tây`,
          `Phía Tây: Xã Tây Sơn, xã Phú Mỡ`,
@@ -702,9 +702,9 @@ const phuongxaDakLak = [
       name: "Xã Đồng Xuân",
       image: ["dong-xuan-1.jpg"],
       introduce: `Xã Đồng Xuân được thành lập từ việc sáp nhập thị trấn La Hai và các xã Xuân Sơn Nam, Xuân Sơn Bắc, Xuân Long, Xuân Quang 2.`,
-      square: `Diện tích: 206,26 km² `,
+      square: `Diện tích: 206,26 km² `,
       population: `Dân số: khoảng 27.000 người.`,
-      ethnic: `Xã Xuân Phước là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh và một số dân tộc thiểu số khác: Ba Na, Chăm, ...`,
+      ethnic: `Xã Xuân Phước là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh và một số dân tộc thiểu số khác: Ba Na, Chăm, ...`,
       location: [
          `Phía Đông: Giáp xã Tuy An Tây`,
          `Phía Tây: Giáp xã Tây Sơn, xã Phú Mỡ`,
@@ -913,7 +913,7 @@ const phuongxaDakLak = [
       introduce: `Phường Cư Bao được thành lập từ việc sáp nhập phường Bình Tân, xã Bình Thuận và xã Cư Bao.`,
       square: `Diện tích: 104,94 km² `,
       population: `Dân số: Khoảng 36.000 người.`,
-      ethnic: `Phường Cư Bao là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh, Ê Đê và một số dân tộc thiểu số khác: M’Nông, Ba Na, Tày…`,
+      ethnic: `Phường Cư Bao là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh, Ê Đê và một số dân tộc thiểu số khác: M’Nông, Ba Na, Tày…`,
       location: [
          `phía Đông giáp xã Ea Yông, xã Ea Phê`,
          `phía Tây giáp xã Cuôr Đăng`,
@@ -980,12 +980,12 @@ const phuongxaDakLak = [
       economy: [
          `Thương mại – Dịch vụ đô thị: Phường là đô thị phát triển, với các tiện ích thương mại và công cộng, tạo động lực cho sự phát triển dịch vụ – tài chính – y tế – giáo dục.`,
          `Thủy – hải sản & chế biến: Gắn liền với nền kinh tế ven biển: có cảng cá, sơ chế và phân phối hải sản.`,
-         `Du lịch – Dịch vụ lưu trú: Phường Tuy Hòa là điểm đến du lịch: gần biển, có nhiều khách sạn, homestay, nhà hàng – là cơ hội phát triển mạnh nghành công nghiệp du lịch.`,
+         `Du lịch – Dịch vụ lưu trú: Phường Tuy Hòa là điểm đến du lịch: gần biển, có nhiều khách sạn, homestay, nhà hàng – là cơ hội phát triển mạnh nghành công nghiệp du lịch.`,
       ],
       info_description: `Khu vực trung tâm thành phố nên có nhiều di tích phường/xã như đình làng, chùa chiền, nhà thờ, kết hợp với các hoạt động lễ hội dân gian (cầu ngư, lễ hội truyền thống…). Cư dân vừa hiện đại vừa giữ hơi thở văn hóa truyền thống miền Trung.`,
       info: [
          `Các di sản văn hóa, thắng cảnh tiêu biểu: Tháp Nhạn, Hồ điều hòa Hồ Sơn, Bãi biển Tuy Hoà, Quảng trường 1-4,…`,
-         `Các món ăn và đặc sản: Mắt cá ngừ đại dương, bún cá, bún sứa, bánh canh hẹ, bún mực, bánh bèo ngọt, bánh ướt Phú Yên, …`,
+         `Các món ăn và đặc sản: Mắt cá ngừ đại dương, bún cá, bún sứa, bánh canh hẹ, bún mực, bánh bèo ngọt, bánh ướt Phú Yên, …`,
       ],
    },
    {
