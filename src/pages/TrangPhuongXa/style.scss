@@ -17,11 +17,20 @@
          justify-content: center;
          gap: 1rem;
          margin: 1rem 0;
+
+         @media (width < 520px) {
+            flex-direction: column;
+            align-items: center;
+         }
          img {
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
             border-radius: 4px;
-            width: 100%;
+            width: 50%;
             max-width: 400px;
+
+            @media (width < 520px) {
+               width: 100%;
+            }
          }
       }
 
