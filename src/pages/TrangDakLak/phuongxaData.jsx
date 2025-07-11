@@ -1041,6 +1041,308 @@ const phuongxaDakLak = [
          `Các món ăn và đặc sản: bánh canh hẹ, bánh xèo, gỏi sứa, và các món hải sản tươi sống như sò huyết, ghẹ, ốc,...`,
       ],
    },
+   {
+      id: 93,
+      province: 26,
+      name: "Phường Sông Cầu",
+      image: ["song-cau-1.jpg", "song-cau-2.jpg"],
+      introduce: `Phường Sông Cầu được thành lập từ việc sáp nhập phường Xuân Yên, phường Xuân Phú, xã Xuân Phương và xã Xuân Thịnh.`,
+      square: `Diện tích: khoảng 90,49 km² `,
+      population: `Dân số: Khoảng 39.000 người.`,
+      ethnic: `Phường Sông Cầu là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh và một số dân tộc thiểu số khác: Chăm, Ba Na, Raglai …`,
+      location: [
+         `Phía Đông: tiếp giáp với vịnh Xuân Đài và các bãi biển đẹp như bãi Từ Nham.`,
+         `Phía Tây: giáp với xã Xuân Thọ`,
+         `Phía Nam: giáp với phường Xuân Đài`,
+         `Phía Bắc: giáp với xã Xuân Cảnh`,
+      ],
+      economy_description: ``,
+      economy: [
+         `Nuôi trồng thủy sản: Phường Sông Cầu được biết đến là nơi có số lượng lồng nuôi tôm hùm lớn. Nghề nuôi tôm hùm không chỉ mang lại thu nhập cao mà còn góp phần quảng bá thương hiệu hải sản của vùng.`,
+         `Du lịch biển: Với bờ biển đẹp và vịnh Xuân Đài nổi tiếng, Phường đang phát triển mạnh mẽ các loại hình du lịch như tham quan, nghỉ dưỡng và trải nghiệm văn hóa biển.`,
+
+      ],
+      info_description: `Văn hóa của xã Xuân Phương Sông Cầu Phú Yên là sự kết hợp hài hòa giữa truyền thống và hiện đại, phản ánh qua đời sống của người dân và các hoạt động lễ hội liên quan đến văn hóa biển. Người dân nơi đây thân thiện, mến khách và luôn tự hào về những giá trị văn hóa bản địa. Các lễ hội truyền thống và phong tục tập quán đặc sắc đã góp phần tạo nên bản sắc riêng.`,
+      info: [
+         `Các di sản văn hóa, thắng cảnh tiêu biểu: Bãi biển Vịnh Hòa, và Đảo Nhất Tự Sơn, Bãi Ôm Xuân Phương,…. `,
+         `Các món ăn và đặc sản: Ghẹ Sông Cầu, tôm hùm, các loại ốc (ốc bướm, ốc gai, ốc mỡ,...), sò huyết, và các món làm từ chúng như ốc hấp sả, ốc luộc, gỏi ốc, sò huyết nướng, ...`,
+      ]
+   },
+   {
+      id: 94,
+      province: 26,
+      name: "Phường Đông Hoà",
+      image: ["dong-hoa-1.jpg"],
+      introduce: `Phường Đông Hòa được thành lập từ việc sáp nhập phường Hòa Vinh, phường Hòa Xuân Tây và xã Hòa Tân Đông.`,
+      square: `Diện tích: khoảng 77,54 km² `,
+      population: `Dân số: Khoảng 47.000 người.`,
+      ethnic: `Phường Đông Hòa là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh và một số dân tộc thiểu số khác: Chăm, Tày, Nùng, Ba Na …`,
+      location: [
+         `Phía bắc giáp các phường Phú Yên, phường Hòa Hiệp`,
+         `Phía nam giáp xã Hòa Thịnh, xã Hòa Xuân `,
+         `Phía đông giáp xã Hòa Xuân`,
+         `Phía tây giáp xã Hòa thịnh, xã Tây Hòa `,
+
+      ],
+      economy_description: ``,
+      economy: [
+         `Nông nghiệp: Phường Đông Hòa có diện tích đất nông nghiệp đáng kể, chủ yếu trồng lúa và các loại cây trồng khác. Ngoài ra, người dân còn chăn nuôi gia súc, gia cầm. `,
+         `Ngư nghiệp: Với vị trí gần biển, ngư nghiệp là một ngành kinh tế quan trọng của xã. Người dân đánh bắt hải sản và nuôi trồng thủy sản.`,
+         `Thương mại, dịch vụ: Phát triển các sản phẩm thủ công mỹ nghệ mang sắc thái của địa phương để quảng bá hình ảnh địa phương, góp phần phát triển du lịch cộng đồng.`,
+      ],
+      info_description: ` `,
+      info: [
+         `Các lễ hội, nghành nghề truyền thống vẫn được duy trì, thu hút du khách và quảng bá văn hóa địa phương.`,
+         `Các món ăn và đặc sản: ốc hương bơ tỏi, mực lá bơi hấp, hàu sữa, nhum nướng, ốc nhảy, và nhiều loại hải sản tươi ngon khác, …`,
+
+      ]
+   },
+   {
+      id: 95,
+      province: 26,
+      name: "Phường Hoà Hiệp ",
+      image: ["hoa-hiep-1.jpg"],
+      introduce: `Phường Hòa Hiệp được thành lập từ việc sáp nhập phường Hòa Hiệp Trung, phường Hòa Hiệp Nam và phần còn lại của phường Hòa Hiệp Bắc (trừ phần khu phố Uất Lâm thuộc sân bay dân sự/quân sự, hiện nay chuyển sang Phường Phú Yên).`,
+      square: `Diện tích: 40,81 km² `,
+      population: `Dân số: Khoảng 53.000 người.`,
+      ethnic: `Phường Hòa Hiệp là nơi sinh sống của nhiều dân tộc khác nhau, chủ yếu là người Kinh, Ê Đê và một số dân tộc thiểu số khác: Tày, Nùng …`,
+      location: [
+         `Phía Đông: giáp Biển Đông, tạo thành một đường bờ biển dài.`,
+         `Phía Bắc: giáp phường Phú Yên`,
+         `Phía Nam: giáp xã Hòa Xuân`,
+         `Phía Tây: giáp phường Đông Hòa.`,
+
+      ],
+      economy_description: `Phường được hưởng lợi từ các tuyến giao thông trọng điểm như Quốc lộ 1A và đường ven biển. Các dự án giao thông mới như cao tốc Bắc – Nam đi qua khu vực này, mở ra cơ hội kết nối và phát triển kinh tế.`,
+      economy: [
+         `Kinh tế biển và thủy sản: Phường Hòa Hiệp có đường bờ biển dài và cảng cá, tạo điều kiện thuận lợi cho việc khai thác và nuôi trồng thủy sản, thúc đẩy hoạt động mua bán hải sản tại cảng cá Đa Ngư.`,
+         `Phát triển công nghiệp: Phường có cụm các khu công nghiệp Hòa Hiệp lớn, thu hút đầu tư vào các lĩnh vực chế biến và sản xuất. `,
+
+      ],
+      info_description: `Các lễ hội truyền thống như lễ hội cầu ngư tại khu vực Hòa Hiệp Nam vẫn được duy trì, thu hút du khách và quảng bá văn hóa địa phương.`,
+      info: [
+         `Các di sản văn hóa, thắng cảnh tiêu biểu: Gành đá Hòa Hiệp Nam, Làng Lò, bãi biển Hòa Hiệp, cảng cá Phú Lạc... `,
+         `Các món ăn và đặc sản: ghẹ Sông Cầu, tôm hùm Sông Cầu, các loại ốc, bánh canh hẹ và gà chỉ Sông Cầu, …`,
+      ]
+   },
+   {
+      id: 96,
+      province: 26,
+      name: "Xã Buôn Đôn ",
+      image: ["buon-don-1.jpg", "buon-don-2.jpg"],
+      introduce: `Đổi tên xã Krông Na thành xã Buôn Đôn, xã được giữ nguyên diện tích và quy mô dân số.`,
+      square: `Diện tích: khoảng 11.113,79 km² `,
+      population: `Dân số: Khoảng 6.500 người.`,
+      ethnic: [
+         `Xã có đa dạng người dân tộc sinh sống gồm người Kinh, Ê Đê, M’nông, Thái, Lào, Gia Rai, Tày, Nùng... `,
+         `Dân tộc thiểu số chiếm đến ~75% – đặc trưng vùng biên với văn hóa bản địa bản sắc.`,
+      ],
+      location: [
+         `Phía Bắc: giáp xã Ea Bung, Ea Sup`,
+         `Phía Nam: giáp tỉnh Lâm Đồng`,
+         `Phía Đông: Xã Ea Wer, xã Ea Kiết, xã Ea M’Droh`,
+         `Phía Tây: giáp với nước Campuchia `,
+      ],
+      economy_description: ``,
+      economy: [
+         ` Nông – Lâm nghiệp & chăn nuôi: Diện tích đất lớn, chuyên trồng lúa, mì, cà phê, tiêu, chăn nuôi nhỏ lẻ, khai thác lâm sản và mật ong rừng.`,
+         `Du lịch sinh thái, văn hóa – thiên nhiên: xã tận dụng nguồn tài nguyên độc đáo: voi, lan rừng, buôn làng văn hóa, Yok Đôn, sông Sêrêpốk – là điểm đến hấp dẫn du khách.`,
+         `Là xã biên giới với Campuchia, giữ vai trò chiến lược an ninh – quốc phòng.`,
+      ],
+      info_description: ``,
+      info: [
+         `Văn hóa săn bắt và thuần dưỡng voi của người Ê Đê nổi tiếng, gắn liền với huyền thoại Vua Voi Khun Ju Nốp.`,
+         `Xã có các buôn làng truyền thống, như Buôn Niêng, Buôn Kó Đung với lễ hội cồng chiêng, lễ ban phước cho voi.`,
+         `Di tích và du lịch: Nhà sàn cổ Bản Đôn, Lăng vua voi, “Khu bảo tồn lan Trohbư”, “Lâu đài Yến Buôn Đôn”, thác Bảy Nhánh, Vườn Quốc gia Yok Đôn.`,
+         `Món ăn đặc trưng: cơm lam, thịt ghè (heo rừng), rau rừng, đặc sản từ buôn làng…; cộng thêm mật ong, cam, tiêu bản địa.`,
+      ]
+   },
+   {
+      id: 97,
+      province: 26,
+      name: "Xã Ea H'leo ",
+      image: ["ea-hleo-1.jpg", "ea-hleo-2.jpg"],
+      introduce: `Xã Ea H’leo không được sáp nhập, xã giữ nguyên địa giới sau đợt tái cơ cấu hành chính năm 2025.`,
+      square: `Diện tích: khoảng 340,06 km² `,
+      population: `Dân số: Khoảng 16.000 người.`,
+      ethnic: `Địa bàn gồm 29 dân tộc anh em, với khoảng 41% dân số là đồng bào dân tộc thiểu số. Các dân tộc sinh sống gồm Kinh, Ê Đê, M’nông, Tày, Nùng, Gia Rai, Thái…`,
+      location: [
+         `Phía bắc: Giáp Tỉnh Gia Lai`,
+         `Phía nam: Giáp các xã Ea Wy, xã Ea Drăng.`,
+         `Phía đông: Giáp xã Ea Hiao`,
+         `Phía tây: Giáp xã Ea Rốk`,
+
+      ],
+      economy_description: ``,
+      economy: [
+         `Nông – Lâm nghiệp: Sản xuất cà phê, tiêu, điều, mì cùng khai thác lâm sản và mật ong tự nhiên. Diện tích rộng lớn phù hợp các mô hình kinh tế nông lâm kết hợp.`,
+         `Du lịch sinh thái – văn hóa: Hồ câu cá, vườn lan cổ, voi rừng, buôn làng Ê Đê, phòng trưng bày lịch sử – thu hút du lịch trải nghiệm. Giao thông cải thiện và đầu tư hạ tầng liên tục nâng cao khả năng tiếp cận.`,
+         `Xã nằm sát biên giới tỉnh, có vai trò quan trọng trong quốc phòng và an ninh địa phương.`,
+
+      ],
+      info_description: ``,
+      info: [
+         `Trung tâm văn hóa của cộng đồng voi và người Ê Đê – nơi từng có nghi lễ “ban phước voi” và các lễ hội cồng chiêng.`,
+         `Gần các khu bảo tồn thiên nhiên như rừng nguyên sinh Yok Đôn và cây cổ thụ Ea Ral.`,
+         `Di tích nổi bật: Nhà sàn cổ Buôn Đôn của vua voi Khun Ju Nốp và Lăng vua voi.`,
+         `Món ăn – Đặc sản: Ẩm thực đậm nét dân tộc: cơm lam, rau rừng, thịt heo rừng, mật ong rừng. Nông sản địa phương như cà phê, tiêu, cam, mật ong tiếp tục phân phối rộng ở khu vực miền Trung – Tây Nguyên.`,
+
+      ]
+   },
+   {
+      id: 98,
+      province: 26,
+      name: "Xã Ea Trang ",
+      image: [],
+      introduce: `Xã Ea Trang không được sáp nhập, xã giữ nguyên địa giới sau đợt tái cơ cấu hành chính năm 2025.`,
+      square: `Diện tích: khoảng 207,40 km² `,
+      population: `Dân số: Khoảng 6.500 người.`,
+      ethnic: `    Đa dạng dân tộc với sự hiện diện của người Kinh và các dân tộc thiểu số như Ê Đê, M’Nông, Tày, Nùng…`,
+      location: [
+         `Phía Đông: giáp ranh với xã Ea Lê`,
+         `Phía Tây:  giáp xã Ia Lốp`,
+         `Phía Nam:  giáp xã Ia R'vê`,
+         `Phía Bắc:  giáp cả xã Ia Lốp và xã Ea Bung`,
+
+      ],
+      economy_description: ``,
+      economy: [
+         `Nông – lâm nghiệp: trồng cà phê, tiêu, điều; khai thác lâm sản và mật ong; đất đỏ bazan phù hợp cây công nghiệp lâu năm.`,
+         `Du lịch cộng đồng – văn hóa: Phát triển dựa vào cảnh quan núi rừng và văn hóa dân tộc – homestay, buôn làng, trải nghiệm văn hóa Ê Đê.`,
+         `An ninh biên giới – quốc phòng: Làm nhiệm vụ bảo vệ vùng miền núi, giữ trật tự khu vực cửa ngõ phía bắc huyện.                                    `,
+
+      ],
+      info_description: ``,
+      info: [
+         `Văn hóa bản địa: Gắn với văn hóa Tây Nguyên, bao gồm lễ hội cồng chiêng, nhà sàn Ê Đê, những giá trị văn hóa truyền thống.`,
+         `Di tích – cảnh quan: Có thể có nhà sinh hoạt cộng đồng, trường, đình bản, các bản làng theo truyền thống địa phương (chi tiết cần khảo sát tại địa phương).`,
+         `Ẩm thực – đặc sản: Loại đặc sản như cơm lam, rau rừng, cá suối, heo rừng, mật ong rừng, thể hiện nét đặc trưng ẩm thực miền núi Tây Nguyên.`,
+      ]
+   },
+   {
+      id: 99,
+      province: 26,
+      name: "Xã Ia Lốp ",
+      image: [],
+      introduce: `Xã Ia Lốp không được sáp nhập, xã chỉ điều chỉnh nội bộ nhập thêm 3,96 km² diện tích và 80 người từ xã Ia Rvê vào Ia Lốp.`,
+      square: `Diện tích: khoảng 194,09 km² `,
+      population: `Dân số: Khoảng 6.500 người.`,
+      ethnic: `Cư dân gồm người Kinh và các dân tộc thiểu số Tây Nguyên như Ê Đê, M’nông và một số nhóm khác.`,
+      location: [
+         `Phía Bắc: Giáp tỉnh Gia Lai`,
+         `Phía Đông: Giáp xã Ea Rốk.`,
+         `Phía Nam: Giáp xã Ea Rốk, xã Ia Rvê,`,
+         `Phía Tây: Giáp Vương quốc Campuchia. `,
+
+      ],
+      economy_description: ``,
+      economy: [
+         `Nông nghiệp: Trồng cà phê, hồ tiêu, cao su, cây ăn quả, chăn nuôi gia súc – gia cầm.`,
+         `Du lịch sinh thái – văn hóa: Tiềm năng mạnh nhờ cảnh quan đồi rừng, hồ bản địa, văn hóa dân tộc – phù hợp với du lịch cộng đồng.`,
+         `Hạ tầng xã hội: Chính quyền địa phương đang đầu tư vào giao thông, điện, nước, giáo dục, y tế để nâng cao điều kiện sống.`,
+
+      ],
+      info_description: ``,
+      info: [
+         `Văn hóa: Nét đẹp văn hóa Tây Nguyên đậm đà, với cồng chiêng, lễ hội buôn làng mang đậm bản sắc Ê Đê – M’nông.`,
+         `Di tích: Cảnh quan thiên nhiên đẹp với đồi núi, hồ nước bản địa, có thể phát triển du lịch sinh thái – văn hóa.`,
+         `Món ăn & đặc sản: Cơm lam, rau rừng, cá suối, thịt heo rừng, mật ong, cùng nông sản như cà phê, tiêu, cao su, cây ăn quả.`,
+
+      ]
+   },
+   {
+      id: 100,
+      province: 26,
+      name: "Xã Ia Rvê ",
+      image: ["ia-rve-1.jpg"],
+      introduce: `Xã Ia Rvê không được sáp nhập, xã chỉ điều chỉnh địa giới nội, khi 3,96 km² cùng 80 nhân khẩu được chuyển sang xã Ia Lốp.`,
+      square: `Diện tích: khoảng 217,83 km² `,
+      population: `Dân số: Khoảng 6.800 người.`,
+      ethnic: `Cư dân đa dạng, gồm người Kinh và các dân tộc thiểu số như Ê Đê, Tày, M’nông.`,
+      location: [
+         `Phía Đông: Giáp xã Ea Rốk.`,
+         `Phía Tây: Giáp Vương quốc Campuchia.`,
+         `Phía Nam: Giáp xã Ea Bung`,
+         `Phía Bắc: Giáp xã Ia Lốp`,
+
+      ],
+      economy_description: ``,
+      economy: [
+         `Nông – lâm nghiệp: Trồng cà phê, tiêu, điều, khai thác lâm sản, mật ong. Diện tích lớn phù hợp phát triển nông nghiệp kết hợp với bảo tồn rừng.`,
+         `Du lịch sinh thái & văn hóa: Hướng đến phát triển du lịch giáp biên, cộng đồng, trải nghiệm văn hóa, đặc biệt tại hồ Ea Súp và buôn làng dệt thổ cẩm.`,
+         `An ninh biên giới đóng vai trò quan trọng trong quốc phòng – an ninh vùng giáp Campuchia.`,
+
+      ],
+      info_description: ``,
+      info: [
+         `Văn hóa & di tích: Giữ gìn văn hóa cồng chiêng Ê Đê, hội thao dân tộc và lễ hội truyền thống. Có các làng nghề dệt thổ cẩm truyền thống.`,
+         `Nằm sát biên giới Campuchia, có hồ Ea Súp Thượng và cảnh quan rừng đẹp – tiềm năng cho du lịch sinh thái và văn hóa.`,
+         `Món ăn & đặc sản: gắn với núi rừng: cơm lam, rau rừng, cá suối, thịt heo`,
+
+      ]
+   },
+   {
+      id: 101,
+      province: 26,
+      name: "Xã Krông Nô ",
+      image: ["krong-no-1.jpg"],
+      introduce: ``,
+      square: `Diện tích: khoảng 281,8 km².`,
+      population: `Dân số: khoảng 10.300 người.`,
+      ethnic: `Đa số là người Kinh, cùng các dân tộc thiểu số như Ê Đê, M’nông, và có mặt người Lào – tổng khoảng 15–20 dân tộc.`,
+      location: [
+         `Phía Đông: Giáp tỉnh Lâm Đồng`,
+         `Phía Tây: Giáp tỉnh Lâm Đồng`,
+         `Phía Nam: Giáp tỉnh Lâm Đồng`,
+         `Phía Bắc: Giáp xã Đắk phơi, xã Nam Ka, xã Liên Sơn Lắk`,
+
+      ],
+      economy_description: ``,
+      economy: [
+         `Nông – Lâm nghiệp: Sản xuất cà phê, hồ tiêu, sầu riêng, kết hợp khai thác mật ong và lâm sản.`,
+         `Du lịch sinh thái & văn hóa: Dựa vào cảnh quan suối, rừng xanh, văn hóa bản địa, phát triển du lịch trải nghiệm, homestay, cồng chiêng.`,
+         `Vai trò chiến lược hành chính & phát triển hạ tầng: Xã nằm trên quốc lộ 27, nối liền trung tâm huyện và các xã khác, có vai trò kết nối giao thông quan trọng.`,
+
+      ],
+      info_description: ``,
+      info: [
+         `Lễ hội cồng chiêng, văn hóa buôn làng Ê Đê – M’nông vẫn được duy trì.`,
+         `Truyền thống săn bắt, thuần dưỡng voi – di tích văn hóa tượng trưng.`,
+         `Nghề dệt thổ cẩm truyền thống.`,
+         `Di tích – cảnh quan: Gần suối, thác và sông Krông Nô – điểm du lịch sinh thái nhiều tiềm năng.`,
+         `Ẩm thực & đặc sản: cơm lam, rau rừng, cá suối, thịt heo rừng, mật ong rừng. Nông sản: cà phê, tiêu, sầu riêng – đặc biệt cây công nghiệp có giá trị.`,
+
+      ]
+   },
+   {
+      id: 102,
+      province: 26,
+      name: "Xã Vụ Bổn ",
+      image: ["vu-bon-1.jpg"],
+      introduce: `Xã Vụ Bổn được giữ nguyên.`,
+      square: `Diện tích: khoảng 109,13 km² `,
+      population: `Dân số: Khoảng 18.000 người.`,
+      ethnic: `Cư dân đa dạng, gồm các dân tộc như: Người Kinh, dân tộc thiểu số Tây Nguyên: M’Nông, Ê Đê và người Mông phân bố ở các thôn buôn `,
+      location: [
+         `Phía Bắc: Giáp xã Ea Kly, xã Ea Ô`,
+         `Phía Nam: Giáp xã Krông Bông, xã Cư Pui`,
+         `Phía Đông: Giáp xã Ea Ô`,
+         `Phía Tây: Giáp xã Tân Tiến`,
+
+      ],
+      economy_description: ``,
+      economy: [
+         `Nông – lâm nghiệp: Trồng cà phê, tiêu, sầu riêng, kết hợp khai thác lâm sản và mật ong rừng.`,
+         `Du lịch sinh thái & văn hóa: Có tiềm năng phát triển du lịch cộng đồng: gom cảnh quan suối, thác, buôn làng dân tộc. Quy hoạch gắn với xây dựng nông thôn mới và kết nối hạ tầng.`,
+         `Hạ tầng phát triển: Hội nhập vào cao tốc, Quốc lộ, có dự án xây dựng cầu, đường phục vụ dân cư và gắn kết xã.`,
+
+      ],
+      info_description: ``,
+      info: [
+         `Văn hóa & di tích: Phong phú sắc màu văn hóa dân tộc: lễ hội cồng chiêng, lễ hội mừng lúa mới, văn hóa buôn làng. Khu vực xã Vụ Bổn nằm gần suối, thác, phù hợp du lịch sinh thái.`,
+         `Món ăn & đặc sản: Cơm lam, thịt heo rừng, rau rừng, cá suối, mật ong rừng. Cà phê, hồ tiêu, cây ăn quả là nông sản nổi bật`,
+      ]
+   },
 ];
 
 export default phuongxaDakLak;

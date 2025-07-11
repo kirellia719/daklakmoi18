@@ -13,8 +13,8 @@ const ThongTinTinh = () => {
          {province ? (
             <div className="container-main">
                <h2 className="province-name">{province.name}</h2>
-               <div className="image-group">
-                  <div className="container-360" dangerouslySetInnerHTML={{ __html: province.image360 }} />
+               <div className="vr-view">
+                  <div className="vr-container" dangerouslySetInnerHTML={{ __html: province.image360 }} />
                </div>
                <div className="province-info">
                   <div className="p-container">
@@ -60,6 +60,11 @@ const ThongTinTinh = () => {
                      ) : (
                         <p>{province.economy}</p>
                      )}
+                  </div>
+                  <div className="p-container">
+                     <div className="image-container">
+                        {province.image.map(i => <div className="image" key={i}><img src={`/tinh-thanh/${i}`} /></div>)}
+                     </div>
                   </div>
                </div>
             </div>

@@ -2,6 +2,10 @@ const dataTinhThanh = [
    {
       id: 1,
       name: "Thành phố Hà Nội",
+      image: [
+         "ha-noi-1.jpg",
+         "ha-noi-2.jpg",
+      ],
       image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752200288392!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJREU4UFdqMndF!2m2!1d21.03677709848262!2d105.8346461725162!3f283.1780258109578!4f-21.05856381781581!5f0.7820865974627469" style="border:1;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
@@ -36,6 +40,11 @@ const dataTinhThanh = [
    {
       id: 2,
       name: "Thành phố Huế  ",
+      image: [
+         "hue-1.jpg",
+         "hue-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752200344328!6m8!1m7!1sntcBzGMz5_klA7jJYIGJog!2m2!1d16.46987495870541!2d107.5877491454305!3f133.51234!4f0!5f0.7820865974627469" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Huế là một trong sáu thành phố trực thuộc trung ương và là thành phố di sản của Việt Nam. Huế từng là kinh đô (Cố đô Huế) của Việt Nam dưới triều Tây Sơn và triều Nguyễn",
@@ -69,6 +78,8 @@ const dataTinhThanh = [
    {
       id: 3,
       name: "Tỉnh Quảng Ninh",
+      image: ["quang-ninh-1.jpg", "quang-ninh-2.jpg"],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752200047634!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQzRsYnVnbmdF!2m2!1d20.89224428200166!2d107.0130767784645!3f177.70812394483312!4f-17.658725958103474!5f0.7820865974627469" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Quảng Ninh là một tỉnh ven biển thuộc vùng Đông Bắc Bộ Việt Nam, tiếp giáp Trung Quốc và vịnh Bắc Bộ. Đây là nơi có sự giao thoa giữa vùng đồng bằng, miền núi, hải đảo và biên giới, tạo nên sự đa dạng về dân tộc và văn hóa.",
@@ -101,6 +112,8 @@ const dataTinhThanh = [
    {
       id: 4,
       name: "Tỉnh Cao Bằng",
+      image: ["cao-bang-1.jpg", "cao-bang-2.jpg"],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752200756257!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRDJrc2FDWXc.!2m2!1d22.85467861777788!2d106.7240985886325!3f49.004560301418195!4f1.0702541113656139!5f0.7820865974627469" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Cao Bằng là một tỉnh miền núi biên giới phía Đông Bắc Việt Nam, nổi tiếng với địa hình hiểm trở, khí hậu đa dạng và văn hóa phong phú của nhiều dân tộc thiểu số. Tỉnh có vị trí quan trọng về kinh tế, chính trị, và quốc phòng, đặc biệt là trong giao thương với Trung Quốc qua các cửa khẩu quốc tế và chính.",
@@ -131,6 +144,11 @@ const dataTinhThanh = [
    {
       id: 5,
       name: "Tỉnh Lạng Sơn",
+      image: [
+         "lang-son-1.jpg",
+         "lang-son-2.jpg"
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752200884870!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRHh2NUNnWnc.!2m2!1d21.8571399233179!2d106.7487213020177!3f209.6365400253687!4f-26.704338998140337!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Lạng Sơn là một tỉnh miền núi biên giới phía Đông Bắc Việt Nam, nổi tiếng với cảnh quan thiên nhiên hùng vĩ, đa dạng văn hóa và ẩm thực phong phú. Tỉnh có vị trí chiến lược quan trọng về kinh tế và quốc phòng, là cửa ngõ giao thương với Trung Quốc.",
@@ -162,6 +180,11 @@ const dataTinhThanh = [
    {
       id: 6,
       name: "Tỉnh Lai Châu",
+      image: [
+         "lai-chau-1.jpg",
+         "lai-chau-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752201165097!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRE00TURubmdF!2m2!1d22.23857261162912!2d103.6783744152931!3f121.21661678098309!4f4.034871500712924!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Lai Châu là một tỉnh miền núi biên giới phía tây bắc Việt Nam, nổi bật với địa hình đa dạng, khí hậu trong lành và văn hóa độc đáo của nhiều dân tộc anh em.",
@@ -195,6 +218,8 @@ const dataTinhThanh = [
    {
       id: 7,
       name: "Tỉnh Điện Biên",
+      image: ["dien-bien-1.jpg", "dien-bien-2.jpg"],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752201232086!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ3A4b0tka1FF!2m2!1d21.3808078679374!2d103.0153062780156!3f138.16485452589586!4f-6.858673857625192!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Tỉnh Điện Biên nằm ở phía Tây vùng Tây Bắc Việt Nam, có đường biên giới dài với Lào và Trung Quốc, và là một tỉnh giàu tiềm năng du lịch, đặc biệt là du lịch lịch sử, văn hóa.",
@@ -227,6 +252,11 @@ const dataTinhThanh = [
    {
       id: 8,
       name: "Tỉnh Sơn La",
+      image: [
+         "son-la-1.jpg",
+         "son-la-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752201614030!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJREJsWS1QMVFF!2m2!1d21.29880610196648!2d104.4259272635723!3f253.70838358939204!4f-14.746490796810875!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Sơn La là một tỉnh miền núi thuộc vùng Tây Bắc Việt Nam, nổi tiếng với cảnh quan thiên nhiên hùng vĩ, khí hậu đa dạng và văn hóa đặc sắc của nhiều dân tộc anh em",
@@ -259,6 +289,11 @@ const dataTinhThanh = [
    {
       id: 9,
       name: "Tỉnh Thanh Hoá",
+      image: [
+         "thanh-hoa-1.jpg",
+         "thanh-hoa-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752202195716!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJQzZ6ZC1YSUE.!2m2!1d19.81196361534494!2d105.7677234977898!3f220.24344776335687!4f-22.490382474329465!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Thanh Hóa là một tỉnh thuộc vùng Bắc Trung Bộ, Việt Nam, nổi tiếng với diện tích rộng lớn, địa hình đa dạng và tài nguyên phong phú. Tỉnh này có vị trí chiến lược, tiếp giáp với Lào và có đường bờ biển dài, tạo điều kiện phát triển kinh tế đa dạng.",
@@ -291,6 +326,11 @@ const dataTinhThanh = [
    {
       id: 10,
       name: "Tỉnh Nghệ An",
+      image: [
+         "nghe-an-1.jpg",
+         "nghe-an-2.jpg",
+      ],
+      image360: `src="https://www.google.com/maps/embed?pb=!4v1752202304713!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRHUyc3Vhd2dF!2m2!1d18.80004120756288!2d105.7279662982012!3f52.30451757731361!4f6.719588033533938!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Nghệ An là một tỉnh thuộc vùng Bắc Trung Bộ, có bề dày lịch sử, văn hóa. Tỉnh có vị trí chiến lược, kết nối vùng Đông Bắc Thái Lan, Lào với biển Đông, đồng thời là quê hương của Chủ tịch Hồ Chí Minh.",
@@ -324,6 +364,10 @@ const dataTinhThanh = [
    {
       id: 11,
       name: "Tỉnh Hà Tĩnh",
+      image: [
+         "ha-tinh-1.jpg", "ha-tinh-2.jpg"
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752202367564!6m8!1m7!1s9klX6n7r7aP2b_6jbL_c9Q!2m2!1d18.34240873001453!2d105.9055279350361!3f60.480607602511554!4f-21.959281176927703!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Hà Tĩnh là một tỉnh thuộc vùng Bắc Trung Bộ Việt Nam, nổi bật với địa hình đa dạng, khí hậu khắc nghiệt và truyền thống văn hóa đặc sắc. Vị trí địa lý của Hà Tĩnh nằm giữa dãy núi Trường Sơn và biển Đông, với phía tây giáp Lào, phía bắc giáp Nghệ An và phía nam giáp Quảng Bình.",
@@ -358,6 +402,10 @@ const dataTinhThanh = [
    {
       id: 12,
       name: "Tỉnh Tuyên Quang",
+      image: [
+         "tuyen-quang-1.jpg", "tuyen-quang-2.jpg"
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752202441937!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREVrSTJrWlE.!2m2!1d21.81998830098749!2d105.2059173922164!3f55.58217195803574!4f-32.57041264704187!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Tỉnh Tuyên Quang (mới) được sáp nhập từ tỉnh Tuyên Quang (cũ) và tỉnh Hà Giang, là tỉnh vùng cao biên giới cực bắc của Việt Nam, nổi tiếng với vẻ đẹp thiên nhiên hùng vĩ, những di tích lịch sử quan trọng và văn hóa đa dạng.",
@@ -388,6 +436,10 @@ const dataTinhThanh = [
    {
       id: 13,
       name: "Tỉnh Lào Cai",
+      image: [
+         "lao-cai-1.jpg", "lao-cai-2.jpg"
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752202514372!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRGh0Nkx4Znc.!2m2!1d22.47578408059283!2d103.9813363098107!3f162.05024513523742!4f-34.368648385250886!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> `,
       introduce: {
          content:
             "Tỉnh Lào Cai (mới) được sáp nhập từ tỉnh Lào Cai (cũ) và tỉnh Yên Bái, nằm ở phía Bắc Việt Nam, tiếp giáp với tỉnh Vân Nam, Trung Quốc, vị trí chiến lược nằm giữa vùng Đông Bắc và Tây Bắc, có vai trò quan trọng trong giao thương với Trung Quốc.",
@@ -420,6 +472,10 @@ const dataTinhThanh = [
    {
       id: 14,
       name: "Tỉnh Thái Nguyên",
+      image: [
+         "thai-nguyen-1.jpg", "thai-nguyen-2.jpg"
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752202781189!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJQ0V1b3V0TXc.!2m2!1d21.78904069234561!2d105.9156402119896!3f67.95497!4f12.345214999999996!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Tỉnh Thái Nguyên (mới) được sáp nhập từ tỉnh Thái Nguyên (cũ) và tỉnh Bắc Cạn, nằm ở vùng trung du và miền núi phía Bắc Việt Nam, là cửa ngõ giao lưu kinh tế giữa vùng trung du miền núi phía Bắc và vùng đồng bằng Bắc Bộ.",
@@ -453,6 +509,11 @@ const dataTinhThanh = [
    {
       id: 15,
       name: "Tỉnh Phú Thọ",
+      image: [
+         "phu-tho-1.jpg",
+         "phu-tho-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752202889010!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ0VfN2lOendF!2m2!1d21.36772754777196!2d105.3248616619015!3f233.48633408796493!4f13.487523871269929!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Tỉnh Phú Thọ (mới) được sáp nhập từ tỉnh Phú Thọ (cũ), tỉnh Vĩnh Phúc và tỉnh Hòa Bình, nằm ở vùng trung du và miền núi phía Bắc Việt Nam, là cửa ngõ phía Tây của Hà Nội, kết nối vùng Trung du và miền núi phía Bắc với đồng bằng sông Hồng.",
@@ -482,6 +543,10 @@ const dataTinhThanh = [
    {
       id: 16,
       name: "Tỉnh Bắc Ninh",
+      image: [
+         "bac-ninh-1.jpg", "bac-ninh-2.jpg"
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752203212579!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQzByYnVJbUFF!2m2!1d21.16377572461642!2d106.0623016049911!3f121.40823051634534!4f-26.278683589268667!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content:
             "Tỉnh Bắc Ninh (mới) được sáp nhập từ tỉnh Bắc Ninh (cũ) và tỉnh Bắc Giang, nằm ở vùng đồng bằng sông Hồng, là cửa ngõ phía Đông Bắc của Hà Nội, là một phần của tam giác kinh tế Hà Nội - Hải Phòng - Quảng Ninh.",
@@ -515,6 +580,10 @@ const dataTinhThanh = [
    {
       id: 17,
       name: `Tỉnh Hưng Yên`,
+      image: [
+         "hung-yen-1.jpg", "hung-yen-2.jpg"
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752203261449!6m8!1m7!1sKTHuNMFH3kodz3haPqivfg!2m2!1d20.6548521911687!2d106.0578089135188!3f261.0642978037697!4f-10.040900054129253!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Hưng Yên (mới) được sáp nhập từ tỉnh Hưng Yên (cũ) và tỉnh Thái Bình, nằm ở trung tâm đồng bằng sông Hồng, là cửa ngõ phía Đông nam của Hà Nội, thuộc vùng kinh tế trọng điểm phía Bắc và tam giác kinh tế Hà Nội - Hải Phòng - Quảng Ninh.`,
          square: `2.514,81 km². Địa hình bằng phẳng, không có núi, sông ngòi dày đặc.`,
@@ -544,6 +613,11 @@ const dataTinhThanh = [
    {
       id: 18,
       name: `Thành phố Hải Phòng`,
+      image: [
+         `hai-phong-1.jpg`,
+         `hai-phong-2.jpg`,
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752203318308!6m8!1m7!1sCAoSHENJQUJJaEFHYndQVGZndzJWR2VwZVlrQUFNMTQ.!2m2!1d20.87225959786752!2d106.7323096951856!3f18.35369749378436!4f-12.842375891337895!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Thành phố Hải Phòng (mới) được sáp nhập từ thành phố Hải Phòng (cũ) và tỉnh Hải Dương, là một thành phố ven biển thuộc vùng Đồng bằng sông Hồng, là một trong sáu thành phố trực thuộc trung ương của Việt Nam. Đây là thành phố lớn thứ 3 Việt Nam và là một thành phố cảng, trung tâm công nghiệp, cảng biển, đồng thời cũng là trung tâm kinh tế, văn hóa, y tế, giáo dục, khoa học, thương mại và công nghệ thuộc Vùng duyên hải Bắc Bộ của Việt Nam.`,
          square: `3.194,72 km². Địa hình đa dạng và phức tạp, bao gồm cả đồng bằng, đồi núi thấp và các khu vực ven biển.`,
@@ -571,6 +645,11 @@ const dataTinhThanh = [
    {
       id: 19,
       name: `Tỉnh Ninh Bình`,
+      image: [
+         "ninh-binh-1.jpg",
+         "ninh-binh-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752203365716!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJQ05tODJjTlE.!2m2!1d20.25061494208137!2d105.9744535987813!3f233.01383737253477!4f-18.03656617638471!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Ninh Bình (mới) được sáp nhập từ tỉnh Ninh Bình (cũ), tỉnh Nam Định và tỉnh Hà Nam, là cửa ngõ phía Nam của thủ đô Hà Nội, nằm ở cực nam đồng bằng sông Hồng, là điểm nối giữa vùng đồng bằng sông Hồng và vùng núi phía tây, đồng thời tiếp giáp với biển Đông`,
          square: `3.942,61 km². Địa hình đa dạng và phức tạp, bao gồm đồng bằng, đồi núi, vùng trũng và ven biển.`,
@@ -603,6 +682,11 @@ const dataTinhThanh = [
    {
       id: 20,
       name: `Tỉnh Quảng Trị`,
+      image: [
+         "quang-tri-1.jpg",
+         "quang-tri-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204025950!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ3VtdFhJdHdF!2m2!1d16.8256561840299!2d107.0999398698411!3f285.36853091023244!4f-26.06163184662182!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Quảng Trị (mới) được sáp nhập từ tỉnh Quảng Trị (cũ) và tỉnh Quảng Bình, là tỉnh ven biển gần cực nam của vùng Bắc Trung Bộ, nằm ở vị trí chiến lược trên hành lang kinh tế Đông – Tây, có đường bờ biển dài hơn 190km và đường biên giới phía Tây giáp Lào dài hơn 409km.`,
          square: `12.700 km². Địa hình đồi núi, gò đồi, đồng bằng và vùng ven biển, với đồi núi chiếm phần lớn diện tích.`,
@@ -634,6 +718,11 @@ const dataTinhThanh = [
    {
       id: 21,
       name: `Thành phố Đà Nẵng`,
+      image: [
+         "da-nang-1.jpg",
+         "da-nang-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204148037!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQzQxdmJKdUFF!2m2!1d16.0620840902771!2d108.224600073049!3f131.70171570240663!4f11.781700199529283!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Thành phố Đà Nẵng (mới) được sáp nhập từ thành phố Đà Nẵng (cũ) và tỉnh Quảng Nam, là một trong sáu thành phố trực thuộc trung ương của Việt Nam, nằm tại khu vực Duyên hải Nam Trung Bộ. Đây là thành phố lớn nhất của Việt Nam, đóng vai trò là trung tâm chính trị, kinh tế - xã hội lớn của miền Trung và là hạt nhân quan trọng trong Vùng kinh tế trọng điểm miền Trung.`,
          square: `11.859,6 km². Địa hình thiên nhiên đa dạng, có biển, bán đảo, đảo, vùng vịnh, đồi núi, sông, suối, đồng bằng.`,
@@ -664,6 +753,11 @@ const dataTinhThanh = [
    {
       id: 22,
       name: `Tỉnh Quảng Ngãi`,
+      image: [
+         "quang-ngai-1.jpg",
+         "quang-ngai-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204207940!6m8!1m7!1sLlsUFzZJig_aMUrKh4cnOw!2m2!1d15.12415212827667!2d108.8143733584184!3f341.1562131990142!4f-16.90892909959598!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Quảng Ngãi (mới) được sáp nhập từ tỉnh Quảng Ngãi (cũ) và tỉnh Kon Tum, là một tỉnh duyên hải Nam Trung Bộ, đồng thời có thêm một phần diện tích thuộc khu vực Tây Nguyên, có vị trí kết nối giao thương giữa vùng duyên hải và vùng cao nguyên, có đường bờ biển dài khoảng 129km và đường biên giới với Lào và Campuchia dài khoảng 292km.`,
          square: `14.833 km². Địa hình đa dạng hơn với cả đồng bằng ven biển, trung du, miền núi và cao nguyên.`,
@@ -695,6 +789,11 @@ const dataTinhThanh = [
    {
       id: 23,
       name: `Tỉnh Gia Lai`,
+      image: [
+         "gia-lai-1.jpg",
+         "gia-lai-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204269628!6m8!1m7!1sabVxIVzJXD89Arv64xZMVw!2m2!1d13.97186292899297!2d108.0150887466539!3f216.73881462459926!4f3.6672204946964087!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Gia Lai (mới) được sáp nhập từ tỉnh Gia Lai (cũ) và tỉnh Bình Định, là một tỉnh miền núi ven biển nằm ở Nam Trung Bộ, có vị trí kết nối giao thương giữa vùng duyên hải và vùng cao nguyên, có đường bờ biển dài khoảng 134km và đường biên giới với Campuchia dài khoảng 90km.`,
          square: `21.550 km², diện tích lớn thứ hai cả nước. Địa hình đa dạng hơn với cả đồng bằng ven biển, trung du, miền núi và cao nguyên.`,
@@ -728,6 +827,11 @@ const dataTinhThanh = [
    {
       id: 24,
       name: `Tỉnh Khánh Hoà`,
+      image: [
+         "khanh-hoa-1.jpg",
+         "khanh-hoa-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204397214!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQzYwOGF6aHdF!2m2!1d12.22427332837371!2d109.2414949946336!3f35.84395637063409!4f-19.25872095224966!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> `,
       introduce: {
          content: `Tỉnh Khánh Hòa (mới) được sáp nhập từ tỉnh Khánh Hòa (cũ) và tỉnh Ninh Thuận, nằm ở duyên hải Nam Trung Bộ, nổi tiếng với đường bờ biển dài 490km (là tỉnh có đường bờ biển dài nhất Việt Nam), có nhiều vịnh biển đẹp. Tỉnh có vị trí địa lý quan trọng, vừa là cửa ngõ của Tây Nguyên ra Biển Đông, vừa nằm gần các tuyến hàng hải quốc tế.`,
          square: `8.555,86 km². Địa hình đa dạng, bao gồm đồng bằng ven biển, đồi núi và hải đảo.`,
@@ -755,6 +859,11 @@ const dataTinhThanh = [
    {
       id: 25,
       name: `Tỉnh Lâm Đồng`,
+      image: [
+         "lam-dong-1.jpg",
+         "lam-dong-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204541412!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRHRuYS1ucHdF!2m2!1d11.9407361317772!2d108.4415404395248!3f305.032944639281!4f-24.711383252000473!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Lâm Đồng (mới) được sáp nhập từ tỉnh Lâm Đồng (cũ), tỉnh Bình Thuận và tỉnh Đắk Nông, là một tỉnh miền núi ven biển nằm ở vùng Nam Trung Bộ, với 140km đường biên giới trên bộ và 192km đường bờ biển, có vị trí địa lý bao gồm cả rừng, biển, cửa khẩu, cảng cạn và cảng biển. `,
          square: `24.233,07 km², là tỉnh có diện tích lớn nhất cả nước. Địa hình kết hợp cao nguyên - trung du - duyên hải`,
@@ -785,6 +894,11 @@ const dataTinhThanh = [
    {
       id: 26,
       name: `Tỉnh Đắk Lắk`,
+      image: [
+         "dak-lak-1.jpg",
+         "dak-lak-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204594961!6m8!1m7!1soanETMywZjaDA8a__S5sqg!2m2!1d12.6797070462893!2d108.0448637943273!3f18.214061196122543!4f12.450287368265421!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Đắk Lắk (mới) được sáp nhập từ tỉnh Đắk Lắk (cũ) và tỉnh Phú Yên, là một tỉnh miền núi ven biển nằm ở vùng Nam Trung Bộ, ở trung tâm Tây Nguyên, có biên giới với Campuchia và có bờ biển dài 189km. `,
          square: `18.096 km², đứng thứ 3 cả nước. Địa hình đa dạng với đồi núi xen kẽ các thung lũng và đồng bằng nhỏ.`,
@@ -813,6 +927,11 @@ const dataTinhThanh = [
    {
       id: 27,
       name: `Thành phố Hồ Chí Minh`,
+      image: [
+         "ho-chi-minh-1.jpg",
+         "ho-chi-minh-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204751623!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRFpqdU9RRnc.!2m2!1d10.79499317284544!2d106.7218214890631!3f328.93595152885393!4f-17.822824920470993!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Thành phố Hồ Chí Minh được sáp nhập từ thành phố Hồ Chí Minh (cũ), tỉnh Bình Dương và tỉnh Bà Rịa Vũng Tàu, là thành phố trực thuộc trung ương thuộc loại đô thị đặc biệt, nằm trong vùng chuyển tiếp giữa Đông Nam Bộ và Tây Nam Bộ, là trung tâm kinh tế, giải trí, một trong hai trung tâm văn hóa và giáo dục quan trọng tại Việt Nam.`,
          square: `6.772,59 km². Địa hình thành phố thấp dần từ Bắc xuống Nam và từ Tây sang Đông.`,
@@ -842,6 +961,11 @@ const dataTinhThanh = [
    {
       id: 28,
       name: `Tỉnh Đồng Nai`,
+      image: [
+         "dong-nai-1.jpg",
+         "dong-nai-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752204987465!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRHV0dWV5VEE.!2m2!1d10.96454543726037!2d106.8014722885198!3f347.7061670863542!4f-26.1100076550601!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Đồng Nai (mới) được sáp nhập từ tỉnh Đồng Nai (cũ) và tỉnh Bình Phước, là một tỉnh thuộc vùng Đông Nam Bộ, nằm ở cửa ngõ phía đông của Thành phố Hồ Chí Minh, kết nối vùng Đông Nam Bộ với các tỉnh duyên hải phía Nam và Tây Nguyên`,
          square: `12.737 km². Địa hình đa dạng, bao gồm đồng bằng, bình nguyên, đồi núi, và các khu vực trũng thấp.`,
@@ -869,6 +993,11 @@ const dataTinhThanh = [
    {
       id: 29,
       name: `Tỉnh Tây Ninh`,
+      image: [
+         "tay-ninh-1.jpg",
+         "tay-ninh-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752205092637!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ2Vnb0dmeWdF!2m2!1d11.30388812295595!2d106.1331244655115!3f127.40082977019813!4f-8.449930236589438!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Tây Ninh (mới) được sáp nhập từ tỉnh Tây Ninh (cũ) và tỉnh Long An, có vị trí trải dài từ biên giới Tây Nam giáp Campuchia đến cửa ngõ Đồng bằng sông Cửu Long, tạo thành một khu vực quan trọng kết nối thành phố Hồ Chí Minh với các tỉnh phía Nam và Campuchia.`,
          square: `8.536 km². Địa hình chuyển tiếp từ cao nguyên Nam Trung Bộ xuống đồng bằng sông Cửu Long, đất đai tương đối bằng phẳng.`,
@@ -896,6 +1025,11 @@ const dataTinhThanh = [
    {
       id: 30,
       name: `Thành phố Cần Thơ`,
+      image: [
+         "can-tho-1.jpg",
+         "can-tho-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752205274927!6m8!1m7!1sCAoSHENJQUJJaER0dXYtbXlsZUtycWV3cXZrWHlCNXI.!2m2!1d10.03916491327642!2d105.789216833575!3f22.914580740377396!4f-21.34099422521517!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Thành phố Cần Thơ (mới) được sáp nhập từ thành phố Cần Thơ (cũ), tỉnh Sóc Trăng và tỉnh Hậu Giang, có vị trí trung tâm Đồng bằng sông Cửu Long, là một trong sáu thành phố trực thuộc trung ương của Việt Nam. Đây là thành phố sầm uất và phát triển nhất ở vùng Đồng bằng sông Cửu Long, có vai trò là trung tâm kinh tế, văn hóa, xã hội, y tế, giáo dục và thương mại của cả vùng.`,
          square: `6.361 km². Địa hình địa hình chủ yếu là đồng bằng, được bồi đắp bởi phù sa của sông Cửu Long, với mạng lưới sông ngòi, kênh rạch dày đặc.`,
@@ -923,6 +1057,11 @@ const dataTinhThanh = [
    {
       id: 31,
       name: `Tỉnh Vĩnh Long`,
+      image: [
+         "vinh-long-1.jpg",
+         "vinh-long-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752205375961!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJRDFtZWFOZFE.!2m2!1d10.26480697770022!2d105.9154839932149!3f325.55740884002086!4f-2.829462870403006!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Vĩnh Long (mới) được sáp nhập từ tỉnh Vĩnh Long (cũ), tỉnh Bến Tre và tỉnh Trà Vinh, có vị trí nằm ở phía đông Đồng bằng sông Cửu Long, là đầu mối giao thông kết nối Đồng bằng sông Cửu Long và thành phố Hồ Chí Minh.`,
          square: ` 6.296 km². Địa hình bằng phẳng, đất đai màu mỡ, và hệ thống sông ngòi dày đặc.`,
@@ -955,6 +1094,11 @@ const dataTinhThanh = [
    {
       id: 32,
       name: `Tỉnh Đồng Tháp`,
+      image: [
+         "dong-thap-1.jpg",
+         "dong-thap-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752205486865!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ2sySm5xcVFF!2m2!1d10.26309369162374!2d105.2668667575835!3f188.07011301554127!4f-8.246997193833295!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Đồng Tháp (mới) được sáp nhập từ tỉnh Đồng Tháp (cũ) và tỉnh Tiền Giang, có vị trí trãi dài từ biên giới Campuchia đến Biển Đông.`,
          square: `5.939 km². Địa hình chủ yếu là đồng bằng, tương đối bằng phẳng.`,
@@ -982,6 +1126,11 @@ const dataTinhThanh = [
    {
       id: 33,
       name: `Tỉnh Cà Mau`,
+      image: [
+         "ca-mau-1.jpg",
+         "ca-mau-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752205807946!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQ0hpZC1LbGdF!2m2!1d8.607968138765385!2d104.7192770935679!3f113.15023403206052!4f-46.226969149088156!5f3.325193203789971"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh Cà Mau (mới) được sáp nhập từ tỉnh Cà Mau (cũ) và tỉnh Bạc Liêu, là một tỉnh ven biển ở cực nam của Việt Nam, nằm trong khu vực Đồng bằng sông Cửu Long. Tỉnh có ba mặt giáp biển (Đông, Tây và Nam), và là nơi duy nhất trên đất liền có thể ngắm mặt trời mọc và lặn trên biển.`,
          square: `7.942km². Địa hình thấp, bằng phẳng và nhiều sông ngòi, kênh rạch.`,
@@ -1009,6 +1158,11 @@ const dataTinhThanh = [
    {
       id: 34,
       name: `Tỉnh An Giang`,
+      image: [
+         "an-giang-1.jpg",
+         "an-giang-2.jpg",
+      ],
+      image360: `<iframe src="https://www.google.com/maps/embed?pb=!4v1752206032903!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJQzRyZV9zblFF!2m2!1d10.33850672459301!2d103.8517682749071!3f314.82421698734544!4f-23.687913170248848!5f0.7820865974627469"   style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>`,
       introduce: {
          content: `Tỉnh An Giang (mới) được sáp nhập từ tỉnh An Giang (cũ) và tỉnh Kiên Giang, là một tỉnh nằm ở phía Tây Nam Việt Nam, thuộc Vùng kinh tế trọng điểm vùng đồng bằng sông Cửu Long.`,
          square: `9.889 km². Địa hình đa dạng, bao gồm cả đồng bằng, đồi núi, có nhiều sông, kênh, rạch, cùng với biển và hải đảo.`,

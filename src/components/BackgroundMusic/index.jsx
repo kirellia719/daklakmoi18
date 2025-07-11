@@ -1,3 +1,4 @@
+import "./style.scss"
 import { useEffect, useRef, useState } from "react";
 import music from "./music.mp3"; // Đảm bảo file đúng đường dẫn
 import { RiVolumeMuteLine, RiVolumeUpLine } from "@remixicon/react";
@@ -16,7 +17,7 @@ function BackgroundMusic() {
         };
 
         // Gọi phát nhạc sau lần tương tác đầu tiên
-        // window.addEventListener("click", tryPlay, { once: true });
+        window.addEventListener("click", tryPlay, { once: true });
 
         return () => {
             window.removeEventListener("mouseenter", tryPlay);
@@ -30,12 +31,12 @@ function BackgroundMusic() {
     };
 
     return (
-        <div>
+        <>
             <audio ref={audioRef} src={music} loop autoPlay />
-            <div onClick={toggleMute} style={{ color: "white", cursor: "pointer" }}>
+            <div onClick={toggleMute} className="volumn-btn">
                 {isMuted ? <RiVolumeMuteLine /> : <RiVolumeUpLine />}
             </div>
-        </div>
+        </>
     );
 }
 

@@ -15,16 +15,18 @@ const Navbar = () => {
         <div className="navbar-container">
             <div className="navbar-left">
                 <Logo />
+
                 <div className="menu-button" onClick={handleToggle}>
                     {open ? <RiCloseLine /> : <RiMenuLine />}
                 </div>
             </div>
+            <BackgroundMusic />
             <div className={`navbar-right ${open ? "open" : ""}`}>
                 <NavLink className={"nav__link"} to={"/"} onClick={() => setOpen(false)}>Trang chủ</NavLink>
                 <NavLink className={"nav__link"} to={"/viet-nam"} onClick={() => setOpen(false)}>Việt Nam</NavLink>
                 <NavLink className={"nav__link"} to={"/dak-lak"} onClick={() => setOpen(false)}>Đăk Lăk</NavLink>
                 <NavLink className={"nav__link"} to={"/dan-toc"} onClick={() => setOpen(false)}>Dân tộc</NavLink>
-                <BackgroundMusic />
+
             </div>
 
         </div>
