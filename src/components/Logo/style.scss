@@ -3,9 +3,10 @@
 .logo {
    font-weight: 700;
    font-family: "Dancing Script", cursive;
-   color: var(--white);
+   // color: var(--white);
+   color: #215c5c;
    font-size: 1.75rem;
    * {
-      text-shadow: 1px 1px 0 #999, 2px 2px 0 #888, 3px 3px 0 #777;
+      text-shadow: 1px 1px 0 #999, 2px 2px 0 #f3f3f3, 3px 3px 0 #d6d4d4;
    }
 }
