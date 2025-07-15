@@ -19,14 +19,14 @@ const Navbar = () => {
 
     return <div className="Navbar">
         <div className="navbar-container">
-            <Logo />
+            <NavLink to={"/"}><Logo /></NavLink>
             <div className="redirect-container">
                 <div className="nav-list">
                     <div className="nav-item">
                         <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/gioi-thieu">Giới thiệu</NavLink>
                     </div>
                     <div className="nav-item">
-                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/viet-nam">Việt Nam</NavLink>
+                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/tinh-thanh">Việt Nam</NavLink>
                     </div>
                     <div className="nav-item">
                         <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/dak-lak">Đăk Lăk</NavLink>

@@ -14,7 +14,7 @@ const MainLayout = () => {
         <div className="mainlayout-body">
             <Routes>
                 <Route path="/gioi-thieu" element={<TrangGioiThieu />} />
-                <Route path="/viet-nam" element={<VietNamMapPage />} />
+                <Route path="/tinh-thanh" element={<VietNamMapPage />} />
                 <Route path="/tinh/:id" element={<ThongTinTinh />} />
                 <Route path="/dak-lak/ward/:id" element={<TrangPhuongXa />} />
                 <Route path="/dak-lak" element={<TrangDakLak />} />

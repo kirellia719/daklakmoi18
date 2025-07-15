@@ -669,7 +669,322 @@ const phuongxaDakLak = [
          `Xã Ea Phê là xã nông thôn mới, đạt tiêu chí hạ tầng cơ bản, có phong trào xây dựng đời sống văn hoá cơ sở tốt.`,
       ],
    },
+   {
+      id: 29,
+      province: 26,
+      name: "Xã Ea Kly",
+      image: ["eakly-1.jpg", "eakly-2.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Krông Búk và xã Ea Kly thành xã mới có tên gọi là xã Ea Kly.`,
+      square: `Diện tích: 42 km2`,
+      population: `Dân số: 12 000 người`,
+      ethnic: [
+         `Chủ yếu là người Kinh chiếm khoảng 85–90%.`,
+         `Ngoài ra có cộng đồng Ê Đê, Tày, Nùng sinh sống rải rác`,
 
+      ],
+      location: [
+         `Phía Đông: giáp với Ea Kar`,
+         `Phía Tây: giáp với xã Ea Phê`,
+         `Phía Nam: giáp với xã Vụ Bổn`,
+         `Phía Bắc: giáp với xã Ea Drông`,
+
+      ],
+      economy: `Ea Kly là xã trọng điểm phát triển nông nghiệp của huyện Krông Pắc: cà phê, hồ tiêu, sầu riêng, bơ…Một số hộ sản xuất rau màu, cây ăn quả ngắn ngày cung cấp cho thị trường địa phương.`,
+      info: [
+         `Một số buôn duy trì cồng chiêng, lễ hội mừng lúa mới, lễ cúng bến nước, sinh hoạt văn hoá cộng đồng tại Nhà văn hoá thôn.`,
+         `Khu Hồ Ea Kao là dự án du lịch sinh thái nổi bật trong vùng.`,
+      ]
+   },
+   {
+      id: 30,
+      province: 26,
+      name: "Xã Ea Kar",
+      image: ["eakar.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Ea Kar và các xã Cư Huê, Ea Đar, Ea Kmút, Cư Ni, Xuân Phú thành xã mới có tên gọi là xã Ea Kar.`,
+      square: `Diện tích: khoảng 350 km²`,
+      population: `Dân số: khoảng 50,000 người`,
+      ethnic: [
+         `Thành phần dân tộc đa dạng: người Kinh chiếm phần lớn (~85–90%).`,
+         `Ngoài ra có cộng đồng Ê Đê, M’nông, Tày, Nùng, Dao — chủ yếu là di dân kinh tế mới, một phần là cư dân bản địa Ê Đê.`,
+
+      ],
+      location: [
+         `Phía Bắc: giáp với xã Phú Xuân `,
+         `Phía Đông: giáp với xã Ea knốp và xã Ea Păl`,
+         `Phía Nam: giáp với xã Ea Păl và xã Ea ô`,
+         `Phía Tây: giáp với xã Ea kly `,
+      ],
+      economy: [
+         `Kinh tế nông nghiệp vẫn giữ vai trò chính: Cà phê, tiêu, điều là các cây trồng chủ lực. Gần đây, người dân mở rộng diện tích sầu riêng, bơ nhờ nhu cầu thị trường. Chăn nuôi gia súc, gia cầm phát triển theo mô hình hộ gia đình.`,
+         `Thương mại – dịch vụ đang phát triển mạnh: chợ Ea Kar, các cơ sở kinh doanh vật tư nông nghiệp, dịch vụ chế biến, thu mua nông sản`,
+      ],
+      info: [
+         `Một số buôn tổ chức lễ hội mừng lúa mới, cồng chiêng, lễ cúng bến nước.`,
+         `Các hội thi, hội diễn văn nghệ quần chúng, thể thao cộng đồng diễn ra thường xuyên trong các dịp lễ lớn.`,
+         `Hệ thống nhà văn hoá cộng đồng, hội trường thôn, câu lạc bộ cồng chiêng vẫn được duy trì, phát huy.`,
+      ],
+   },
+   {
+      id: 31,
+      province: 26,
+      name: "Xã Ea Ô",
+      image: ["eao-1.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Elang và xã Ea Ô thành xã mới có tên gọi là xã Ea Ô.`,
+      square: `Diện tích: 51,68 km²`,
+      population: `Dân số: 10.993 người`,
+      ethnic: [
+         `Chủ yếu là người Kinh chiếm khoảng 75–80%.`,
+         `Cộng đồng Ê Đê, M’nông, Tày, Nùng chiếm tỷ lệ khá cao so với các xã khác, vì đây là vùng có nhiều buôn lâu đời của đồng bào Tây Nguyên.`,
+      ],
+      location: [
+         `Phía Bắc: giáp với xã Ea kar và xã Ea păl`,
+         `Phía Đông: giáp với xã Cư Yang `,
+         `Phía Nam: giáp với xã Cư Pui`,
+         `Ph phía Tây: giáp với xã Ea kly và xã Vụ Bổn `,
+      ],
+      economy: `Kinh tế xã Ea Ô chủ yếu dựa vào nông – lâm nghiệp: Cà phê là cây trồng chủ lực, diện tích lớn, đem lại nguồn thu nhập chính, phát triển thêm hồ tiêu, điều, sầu riêng, bơ theo hướng đa dạng hoá cây trồng.Một số hộ canh tác lúa nước, hoa màu ven suối, rẫy.`
+      ,
+      info: [
+         `Văn hoá cộng đồng đậm nét văn hoá Tây Nguyên: cồng chiêng, nhà dài Ê Đê, lễ hội truyền thống vẫn còn hiện diện tại các buôn đồng bào.`,
+         ` Một số thôn, buôn có đội chiêng, đội múa dân gian, duy trì truyền thống kể khan, hát dân ca Ê Đê.`,
+         `Các lễ hội mừng lúa mới, lễ cúng bến nước thường được tổ chức định kỳ, nhất là vào cuối mùa thu hoạch.`,
+
+      ],
+   },
+   {
+      id: 32,
+      province: 26,
+      name: "Xã Ea Knốp",
+      image: ["ea-knop-1.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Ea Knốp và các xã Ea Tih, Ea Sô, Ea Sar thành xã mới có tên gọi là xã Ea Knốp.`,
+      square: `Diện tích: khoảng 250 km²`,
+      population: `Dân số: khoảng 35,000 người`,
+      ethnic: [
+         `Người Kinh chiếm phần lớn (~75–80%).`,
+         `Đồng bào dân tộc thiểu số gồm: Ê Đê, M’nông, Tày, Nùng, Dao.`,
+      ],
+      location: [
+         `Phía đông: giáp với xã Ea Ly và Giáp với xã Cư Prao`,
+         `Phía phía tây: giáp với xã Cư Prao`,
+         `Phía nam: giáp với xã Ea Kar và Ea Păl`,
+         `Phía bắc: giáp với tỉnh Gia Lai `,
+      ],
+      economy: [
+         `Nông nghiệp cây công nghiệp: Xã Ea Knốp nổi tiếng với các loại cây công nghiệp như cà phê, hồ tiêu và cao su, vốn là nguồn thu nhập chính của người dân. Chính quyền hỗ trợ nông dân áp dụng kỹ thuật canh tác hiện đại, xây dựng thương hiệu sản phẩm và mở rộng thị trường tiêu thụ, từ nội địa đến xuất khẩu, nhằm nâng cao giá trị kinh tế và thu nhập cho các hộ gia đình.`,
+         `Thương mại và dịch vụ: Với vị trí trung tâm từ thị trấn Ea Knốp cũ, xã Ea Knốp có tiềm năng phát triển các khu chợ truyền thống và dịch vụ hỗ trợ nông nghiệp, như cung cấp giống cây trồng, phân bón và máy móc. Chính quyền khuyến khích người dân tham gia kinh doanh dịch vụ để đáp ứng nhu cầu địa phương và tạo thêm việc làm, góp phần thúc đẩy giao thương.`,
+      ],
+      info: [
+         `Xã Ea Knốp là điểm sáng giữ gìn văn hoá bản địa. Một số buôn Ê Đê còn duy trì sinh hoạt nhà dài, đánh chiêng, kể khan. Các lễ hội mừng lúa mới, lễ cúng bến nước, lễ hội cồng chiêng vẫn được tổ chức hàng năm.`,
+         `Văn hoá Ê Đê còn giữ được nhiều nét truyền thống, thuận lợi phát triển du lịch văn hoá cộng đồng trong tương lai.`,
+      ],
+   },
+   {
+      id: 33,
+      province: 26,
+      name: "Xã Cư Yang",
+      image: ["cu-yang-1.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Bông và xã Cư Yang thành xã mới có tên gọi là xã Cư Yang.`,
+      square: `Diện tích: 149,43 km²`,
+      population: `Dân số: với gần 16.682 người .`,
+      ethnic: [
+         `Người Kinh chiếm khoảng 60–65%.`,
+         `Cộng đồng đồng bào Ê Đê, M’nông, cùng một số nhóm Tày, Nùng`,
+
+      ],
+      location: [
+         `Phía Bắc: giáp với xã Ea păl`,
+         `Phía Đông: giáp với xã Krông á`,
+         `Phía Nam: giáp với xã Cư Pui`,
+         `Phía Tây: giáp với xã Ea Ô`,
+
+      ],
+      economy: `Nông nghiệp vẫn là ngành kinh tế chủ đạo, với các loại cây trồng như cà phê, hồ tiêu và lúa nước, nhưng đi kèm với đó là sự phát triển của hạ tầng giao thông, đô thị hóa và đa dạng văn hóa `,
+      info: [
+         `Các buôn Ê Đê, M’nông vẫn duy trì nhà dài, cồng chiêng, kể khan.`,
+         `Lễ mừng lúa mới, lễ cúng bến nước được cộng đồng tổ chức vào vụ thu hoạch.`,
+
+      ],
+   },
+   {
+      id: 34,
+      province: 26,
+      name: "Xã Ea Păl",
+      image: ["ea-pal-1.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Prông và xã Ea Păl thành xã mới có tên gọi là xã Ea Păl.`,
+      square: `Diện tích: 102,52 km²`,
+      population: `Dân số: 15.049 người`,
+      ethnic: `Người Êđê chiếm đa số, với các nhóm như Êđê Bih, Êđê Krung, Êđê Adham. Một số ít các dân tộc như Tày, Nùng, Mường, Dao, và một số dân tộc khác cũng có mặt tại xã, nhưng số lượng không nhiều so với người Êđê.`,
+      location: [
+         `Phía Bắc: giáp với xã Ea Knốp và xã Cư Prao`,
+         `Phía Nam: giáp với xã Ea Ô, xã Cư Yang và xã Krông á`,
+         `Phía Đông: giáp với xã Cư Prao, M’Drắk và xã Krông á`,
+         `Phía Tây: giáp với xã Ea Kar và xã Ea Ô`,
+
+      ],
+      economy: [
+         `Chuyển đổi cơ cấu cây trồng: Xã Ea Păl đang khuyến khích người dân chuyển đổi sang các loại cây trồng có giá trị kinh tế cao, phù hợp với thổ nhưỡng và điều kiện địa phương như sầu riêng, bơ, cà phê, và các loại cây ăn trái khác. `,
+         `Ứng dụng công nghệ: Các mô hình sản xuất nông nghiệp ứng dụng công nghệ cao như tưới nhỏ giọt, sử dụng giống mới, và quản lý dịch bệnh được đẩy mạnh, giúp tăng năng suất và chất lượng sản phẩm. `,
+         `Chăn nuôi: Xã cũng phát triển các mô hình chăn nuôi theo hướng bán công nghiệp, đặc biệt là chăn nuôi bò, lợn, và gia cầm, góp phần đa dạng hóa nguồn thu nhập và tạo việc làm. `,
+
+      ],
+      info: [
+         `Lễ hội: Các lễ hội truyền thống như lễ hội cồng chiêng, lễ hội mừng lúa mới, lễ hội cầu mùa,... vẫn được duy trì và tổ chức định kỳ, thu hút sự tham gia của đông đảo người dân và du khách. `,
+         `Nghệ thuật: Nghệ thuật cồng chiêng, múa xoang, hát then, hát đối đáp,... vẫn được các nghệ nhân truyền dạy cho thế hệ trẻ, góp phần bảo tồn và phát huy các giá trị văn hóa truyền thống.`,
+         `Trang phục: Các dân tộc vẫn giữ gìn và mặc trang phục truyền thống trong các dịp lễ hội, sinh hoạt cộng đồng, thể hiện bản sắc văn hóa riêng của mình.`,
+         `Ẩm thực: Các món ăn truyền thống như cơm lam, rượu cần, canh thụt, các món ăn được chế biến từ các sản vật địa phương vẫn được người dân yêu thích và lưu truyền.`,
+
+      ],
+   },
+   {
+      id: 35,
+      province: 26,
+      name: "Xã M'Drắk",
+      image: ["mdrak-1.jpg", "mdrak-2.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn M’Drắk, xã Krông Jing và xã Ea Lai thành xã mới có tên gọi là xã M’Drắk.`,
+      square: `Diện tích: khoảng 140 km²`,
+      population: `Dân số: hơn 7.000 người.`,
+      ethnic: ``,
+      location: [
+         `Phía đông: giáp với với xã Ea Riêng và xã Cư M’ta`,
+         `Phía nam: giáp với với xã Krông á Cư M’ta`,
+         `Phía tây: giáp với xã Ea Păl và xã Ea Prao`,
+         `Phía bắc: giáp với xã Cư Prao `,
+      ],
+      economy: [
+         `Nông nghiệp chất lượng cao: Xã M’Đrắk có đất bazan phù hợp với các loại cây trồng như cà phê, hồ tiêu, và bơ. Các hợp tác xã nông nghiệp tại xã đã áp dụng công nghệ tưới tiêu hiện đại và canh tác hữu cơ, giúp nâng cao chất lượng nông sản, đáp ứng nhu cầu xuất khẩu và mang lại thu nhập ổn định cho người dân, đặc biệt là các hộ dân tộc thiểu số.`,
+         `Du lịch sinh thái và văn hóa: Xã M’Đrắk nằm gần các danh thắng như đèo Phượng Hoàng và thác Đray K’nao, nổi tiếng với cảnh quan thiên nhiên hùng vĩ. Các buôn làng truyền thống của người Êđê và M’nông tại xã cũng là điểm đến hấp dẫn cho du khách muốn khám phá văn hóa Tây Nguyên, với các hoạt động như trải nghiệm cồng chiêng và nghề dệt thổ cẩm.`,
+         `Hạ tầng giao thông hỗ trợ phát triển: Quốc lộ 26 và các tuyến đường liên xã như Tỉnh lộ 13 được nâng cấp, giúp xã M’Đrắk kết nối dễ dàng với các khu vực lân cận. Hạ tầng giao thông cải thiện không chỉ hỗ trợ vận chuyển nông sản mà còn tạo điều kiện cho du lịch phát triển, thu hút du khách từ các tỉnh như Khánh Hòa và Phú Yên.`,
+      ],
+      info: `Cộng đồng dân cư đa dạng: Dân cư tại xã M’Đrắk bao gồm người Kinh (chiếm hơn 50%), cùng các dân tộc thiểu số như Êđê, Tày, Nùng, và M’nông, tạo nên một cộng đồng đa dạng về văn hóa.`
+   },
+   {
+      id: 36,
+      province: 26,
+      name: "Xã Ea Riêng",
+      image: ["ea-rieng-1.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Ea H’Mlay, Ea M’Doal và Ea Riêng thành xã mới có tên gọi là xã Ea Riêng.`,
+      square: `Diện tích: 34,77 km²`,
+      population: `Dân số: toàn xã có 1790 hộ với 7027 nguời, gồm 10 dân tộc ae cùng chung sống.`,
+      ethnic: `Dân cư tại xã xã Ea Riêng chủ yếu là người dân tộc Êđê, M’nông, và một phần người Kinh, với khoảng 1.000 hộ dân. `,
+      location: [
+         `Phía Bắc: giáp với với xã Ea Bá `,
+         `Phía Nam: giáp với với xã Cư M’ta `,
+         `Phía Đông: giáp với với xã Sông Hành `,
+         `Phía Tây: giáp với với XÃ M’DRẮK `,
+      ],
+      economy: [
+         `Nông nghiệp chất lượng cao: xã Ea Riêng có đất bazan màu mỡ, phù hợp với các loại cây trồng chủ lực như cà phê, hồ tiêu, và cây ăn quả như sầu riêng, bơ. Các hộ nông dân tại xã đã áp dụng công nghệ tưới tiêu tiết kiệm nước và canh tác hữu cơ, giúp nâng cao năng suất và chất lượng nông sản, đáp ứng nhu cầu thị trường trong nước và xuất khẩu.`,
+         `Tiềm năng du lịch văn hóa và sinh thái: xã Ea Riêng sở hữu cảnh quan thiên nhiên hoang sơ, với các cánh đồng lúa và rừng nguyên sinh, cùng với văn hóa bản địa đặc sắc của người Êđê và M’nông. Các hoạt động như tham quan buôn làng, trải nghiệm lễ hội cúng bến nước, và thưởng thức ẩm thực truyền thống đang được phát triển để thu hút du khách, tạo nguồn thu nhập mới cho người dân.`,
+      ],
+      info: `-	Sự đa dạng văn hóa được thể hiện qua các phong tục truyền thống như lễ cúng bến nước, diễn tấu cồng chiêng, và nghề dệt thổ cẩm, góp phần bảo tồn bản sắc và tạo tiềm năng cho du lịch văn hóa cộng đồng.`,
+   },
+   {
+      id: 37,
+      province: 26,
+      name: "Xã Cư M'Ta",
+      image: ["cu-mta-1.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Króa và xã Cư M’ta thành xã mới có tên gọi là xã Cư M’ta.`,
+      square: `Diện tích: khoảng 100 km²`,
+      population: `Dân số: hơn 4.000 người`,
+      ethnic: `Về thành phần dân tộc, xã mới này sẽ bao gồm các dân tộc đã có ở cả hai xã trước khi sáp nhập, chủ yếu là người Ê Đê (dân tộc tại chỗ) và một số dân tộc khác như Kinh, Tày, Nùng, Mường, Dao, Thái, Mông, …`,
+      location: [
+         `Đông: giáp với với tỉnh Khánh Hòa `,
+         `Tây: giáp với với xã M’ Drắk`,
+         `Nam: giáp với với xã Ea Trang `,
+         `Bắc: giáp với với xã Ea Riêng`,
+
+      ],
+      economy: [
+         `Nông nghiệp là trụ cột: xã có thế mạnh về nông nghiệp, với các cây trồng chủ lực như cà phê, tiêu, lúa nước. Sau sáp nhập, việc mở rộng diện tích canh tác, ứng dụng khoa học kỹ thuật vào sản xuất có thể được đẩy mạnh.`,
+         `Tiềm năng phát triển: Việc sáp nhập có thể thu hút đầu tư, phát triển các ngành nghề phụ trợ nông nghiệp, dịch vụ, du lịch.`,
+
+      ],
+      info: [
+         `Bản sắc văn hóa: Xã sau sáp nhập mang đậm bản sắc văn hóa truyền thống của đồng bào dân tộc thiểu số, với các lễ hội, phong tục tập quán độc đáo.`,
+         `Bảo tồn và phát huy: Việc bảo tồn và phát huy các giá trị văn hóa truyền thống cần được chú trọng, đồng thời kết hợp với việc giao lưu, hội nhập văn hóa để làm phong phú thêm đời sống tinh thần của người dân.`,
+
+      ],
+   },
+   {
+      id: 38,
+      province: 26,
+      name: "Xã Krông Á",
+      image: ["krong-a-1.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư San và xã Krông Á thành xã mới có tên gọi là xã Krông Á.`,
+      square: `Diện tích: 102 km²`,
+      population: `Dân số: 17.000 người`,
+      ethnic: `Các dân tộc tại chỗ như Ê đê, M'nông, và J'rai sẽ chiếm đa số, cùng với các dân tộc khác di cư đến như Tày, Nùng, Mường, Dao, Thái và Mông. `,
+      location: [
+         `Phía Bắc: giáp với Ea păl và xã M’ Drắk`,
+         `phía Nam: giáp với tỉnh Khánh Hòa `,
+         `phía Đông: giáp với tỉnh Khánh Hòa, xã Ea trang và xã Cư M’ta`,
+         `phía Tây: giáp với xã Cư yang, xã Yang Mao, xã Cư Pui `,
+
+      ],
+      economy: [
+         `Quy mô sản xuất lớn hơn: Việc sáp nhập có thể tạo ra một đơn vị hành chính lớn hơn, thu hút đầu tư và phát triển các mô hình kinh tế quy mô lớn, đặc biệt là trong lĩnh vực nông nghiệp (cà phê, hồ tiêu, lúa).`,
+         `Đa dạng hóa cây trồng, vật nuôi: Có thể tận dụng lợi thế của từng địa phương để phát triển các loại cây trồng, vật nuôi phù hợp với điều kiện tự nhiên và thị trường.`,
+         `Phát triển ngành nghề mới: Mở ra cơ hội phát triển các ngành nghề mới, dịch vụ, du lịch, tiểu thủ công nghiệp.`,
+
+      ],
+      info: [
+         `Bản sắc văn hóa Êđê: Người Êđê tại Cư San nổi tiếng với các lễ hội truyền thống như lễ cúng bến nước, lễ mừng lúa mới, và nghệ thuật dệt thổ cẩm. Các lớp truyền dạy kỹ năng dệt và diễn tấu cồng chiêng đã giúp thế hệ trẻ tiếp nối di sản văn hóa, đảm bảo những giá trị này không bị mai một.`,
+         `Kết nối văn hóa với du lịch: Sau sáp nhập, xã đã tận dụng văn hóa Êđê để phát triển du lịch, với các mô hình homestay và trải nghiệm văn hóa tại buôn làng. Điều này không chỉ mang lại lợi ích kinh tế mà còn giúp giới thiệu di sản Êđê đến du khách trong và ngoài nước.`,
+
+      ],
+   },
+   {
+      id: 39,
+      province: 26,
+      name: "Xã Cư Prao",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ea Pil và xã Cư Prao thành xã mới có tên gọi là xã Cư Prao.`,
+      square: `Diện tích: 204,89 km2`,
+      population: `Dân số: 13.765 người`,
+      ethnic: `Chủ yếu là người Ê Đê và một số dân tộc thiểu số khác như Tày, Nùng`,
+      location: [
+         `Phía Đông: giáp với với xã M’ Drắk`,
+         `Phía Tây: giáp với với xã Ea Knốp`,
+         `Phía Nam: giáp với với xã Ea Păl`,
+         `Phía Bắc: giáp với với xã Ea Ly và xã Ea Knốp `,
+
+      ],
+      economy: [
+         `Nông nghiệp: Cư Prao là xã thuần nông, với các cây trồng chủ lực như mía, đậu, sắn, ngô và rừng nguyên liệu giấy.`,
+         `Hạ tầng: Tỉnh lộ 13 nối trung tâm xã với đường 693 đã được hoàn thành, giúp cải thiện giao thông và phục vụ sản xuất nông nghiệp.`,
+         `Điện lưới: Toàn bộ các thôn buôn trong xã đã được sử dụng điện lưới quốc gia, đảm bảo nhu cầu sinh hoạt và sản xuất.`,
+
+      ],
+      info: `Xã sở hữu các giá trị văn hóa vật thể và phi vật thể đặc trưng của vùng Tây Nguyên như cồng chiêng, nhạc cụ truyền thống, kiến trúc nhà sàn, nhà rông, và các lễ hội truyền thống như đâm trâu, đua voi.`,
+   },
+   {
+      id: 40,
+      province: 26,
+      name: "Xã Hoà Sơn",
+      image: ["hoa-son-1.jpg", "hoa-son-2.jpg"],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Yang Reh, Ea Trul và Hòa Sơn thành xã mới có tên gọi là xã Hòa Sơn.`,
+      square: `Diện tích: 53,87 km²`,
+      population: `Dân số: năm 1999 là 8611 người.`,
+      ethnic: `Dân cư tại đây chủ yếu là người Kinh và các dân tộc thiểu số như Êđê, M’nông, với tỷ lệ đồng bào dân tộc thiểu số chiếm một phần đáng kể, góp phần tạo nên bản sắc văn hóa đa dạng.`,
+      location: [
+         `Đông: giáp với với xã Krông Bông`,
+         `Tây: giáp với với xã Dray Bhăng`,
+         `Nam: giáp với với xã Liên Sơn Lắk`,
+         `Bắc: giáp với với xã Dang Kang và xã Liên Sơn Lắk`,
+
+      ],
+      economy: [
+         `Nông nghiệp chủ đạo: Cà phê là cây trồng chủ lực của xã Hòa Sơn, với diện tích canh tác lớn và sản lượng ổn định. Ngoài ra, các loại cây như hồ tiêu, cao su và cây ăn quả cũng được phát triển, góp phần đa dạng hóa nguồn thu nhập. `,
+         `Du lịch sinh thái: Với cảnh quan thiên nhiên hùng vĩ, bao gồm các đồi núi, rừng nguyên sinh và khí hậu mát mẻ, xã Hòa Sơn có tiềm năng phát triển du lịch sinh thái. Các khu vực gần xã, như hồ Lắk hay các buôn làng truyền thống, là những điểm đến thu hút du khách. Việc phát triển du lịch có thể mang lại nguồn thu nhập mới, đồng thời quảng bá văn hóa bản địa.`,
+
+      ],
+      info: [
+         `Xã là nơi sinh sống của nhiều dân tộc thiểu số, trong đó có Ê Đê và Mơ Nông, với những nét văn hóa đặc trưng như cồng chiêng, hát أدung, dệt thổ cẩm, các lễ hội truyền thống và các phong tục tập quán riêng. Sau sáp nhập, các hoạt động bảo tồn và phát huy các giá trị văn hóa này được chú trọng hơn, thông qua việc tổ chức các lớp dạy cồng chiêng, dệt thổ cẩm, các lễ hội truyền thống được tổ chức quy mô hơn, thu hút sự tham gia của nhiều người. `,
+         `Các làng nghề truyền thống như dệt thổ cẩm, làm nhạc cụ, làm gốm được hỗ trợ để phát triển, giúp bảo tồn và phát huy các giá trị văn hóa truyền thống, đồng thời tạo thêm việc làm và thu nhập cho người dân. `,
+         `Các lễ hội truyền thống được tổ chức quy mô hơn, thu hút sự tham gia của đông đảo người dân và du khách, góp phần quảng bá văn hóa và du lịch của địa phương. `,
+
+      ],
+   },
    {
       id: 80,
       province: 26,
