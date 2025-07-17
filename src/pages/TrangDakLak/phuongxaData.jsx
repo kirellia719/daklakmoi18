@@ -1520,6 +1520,633 @@ const phuongxaDakLak = [
          },
       ],
       info: [
+         {
+            des: "-	Văn hóa và di tích:",
+            list: [
+               `Vùng trung tâm nông thôn mới với lễ hội truyền thống điển hình, văn hóa làng xã đậm đà bản sắc.`,
+               `Các công trình mới tập trung về trung tâm hành chính xã — tại UBND An Ninh Tây `,
+            ]
+         },
+         {
+            des: 'Ẩm thực & đặc sản:',
+            list: [
+               `Sinh sống trên nền đất ven biển, xã sản sinh nhiều hải sản tươi: cá, tôm, ghẹ.`,
+               `Nông sản: lúa, sắn, cây ăn quả, cùng các mặt hàng nội đồng khác.`,
+               `Các món ăn dân dã như gỏi cá, canh chua, đặc sản Chăm phản ánh cổ truyền văn hóa & ẩm thực miền Trung`,
+            ]
+         }
+      ],
+   },
+   {
+      id: 61,
+      province: 26,
+      name: "Xã Ô Loan",
+      image: [
+         "o-loan-1.jpg"
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Hiệp, An Hòa Hải và An Cư thành xã mới có tên gọi là xã Ô Loan.`,
+      square: `Diện tích: 103,48 km².`,
+      population: `Dân số: khoảng 40.278 người`,
+      ethnic: `Cư dân chủ yếu là người Kinh, cùng một số dân tộc thiểu số như Chăm từ vùng An Hiệp – An Cư – An Hòa Hải, tạo nên cộng đồng đa văn hoá miền duyên hải.`,
+      location: [
+         `Phía Bắc: giáp xã Tuy An Đông và xã Tuy An Bắc `,
+         `Phía Nam: giáp xã Tuy An Nam `,
+         `Phía Đông: giáp biển `,
+         `Phía Tây: giáp xã Tuy An Tây và xã Tuy An Bắc `,
+
+      ],
+      economy: [
+         `Thủy sản – Nuôi & khai thác hải sản: Vùng đầm Ô Loan được quy hoạch phát triển thành trung tâm nuôi trồng, thuỷ sản chiến lược.`,
+         `Nông nghiệp & trồng trọt: Đất ven biển phù hợp cho trồng lúa, màu, kết hợp thủy sản và phát triển vùng nông – đầm đa canh.`,
+         `Thương mại – Dịch vụ hành chính: Với dân số lớn và trụ sở tại An Hòa Hải, các dịch vụ hành chính, thương mại, giáo dục được củng cố mạnh.`,
+         `Du lịch sinh thái – cộng đồng: Nằm trong quy hoạch du lịch xung quanh đầm Ô Loan, xã có tiềm năng phát triển homestay, trải nghiệm văn hóa biển.`,
+
+      ],
+      info: [
+         {
+            des: "Văn hoá và di tích",
+            list: [
+               `Gồm các làng, buôn ven đầm Ô Loan với nét văn hoá nông thôn và biển đặc trưng.`,
+               `Khu vực nằm trong kế hoạch phát triển đầm Ô Loan – có tiềm năng du lịch sinh thái; có lễ hội dân gian, chợ truyền thống.`,
+
+            ]
+         },
+         {
+            des: "Đặc sản & ẩm thực",
+            list: [
+               `Nhiều thủy hải sản tươi: cá, tôm, ghẹ nuôi & khai thác quanh đầm.`,
+               `Ẩm thực kết hợp “đồng – đầm”: gỏi cá, canh chua, các sản vật biển và đồng quê đặc trưng.`,
+
+            ]
+         }
+      ],
+   },
+   {
+      id: 62,
+      province: 26,
+      name: "Xã Tuy An Nam",
+      image: [
+         "tuy-an-nam-1.jpg"
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Thọ, An Mỹ và An Chấn thành xã mới có tên gọi là xã Tuy An Nam.`,
+      square: `Diện tích: khoảng 69,99 km².`,
+      population: `Dân số: khoảng 29.805 người.`,
+      ethnic: `Cư dân gồm người Kinh là chủ đạo, cùng một số dân tộc thiểu số như Chăm, góp phần làm nên bản sắc văn hóa đa dạng địa phương.`,
+      location: [
+         `Phía Bắc: giáp xã Ô Loan và xã Tuy An Tây `,
+         `Phía Nam: giáp xã Phú Hòa 2 và phường Bình Kiến `,
+         `Phía Đông: giáp biển `,
+         `Phía Tây: giáp xã Vân Hòa `,
+
+      ],
+      economy: [
+         `Nông nghiệp – Thủy sản: Đất rộng, xanh nước, thuận lợi cho các hoạt động đồng ruộng, kết hợp nuôi trồng thủy sản ven biển, sông suối.`,
+         `Thương mại – Dịch vụ`,
+         `Du lịch cộng đồng & sinh thái: Gần đầm Ô Loan, cách Gành Đá Đĩa và các di tích danh thắng hàng đầu-thấu địa điểm phát triển du lịch biển kết hợp văn hóa cộng đồng.`,
+
+      ],
+      info: [
+         `Văn hóa & di tích địa phương: Văn hóa nông thôn miền Trung, chuyện chăn nuôi – nghề biển nhẹ nhàng, cộng đồng gắn bó. Xã có di tích địa phương như đình làng, chùa, nhà văn hóa thôn.`,
+         `Ẩm thực & đặc sản: Thủy hải sản từ vùng ven biển/hải đảo: cá, tôm, ghẹ...Đặc sản quê như gỏi cá, canh chua, cùng với ẩm thực từ đồng ruộng trung du.`,
+
+      ],
+   },
+   {
+      id: 63,
+      province: 26,
+      name: "Xã Tuy An Tây",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Nghiệp, An Xuân và An Lĩnh thành xã mới có tên gọi là xã Tuy An Tây.`,
+      square: `Diện tích: khoảng 42,18 km².`,
+      population: `Dân số: hơn 16.500 người`,
+      ethnic: `Cư dân đa dạng gồm người Kinh kết hợp với một số dân tộc thiểu số như Chăm – đặc trưng vùng duyên hải Phú Yên.`,
+      location: [
+         `Phía Bắc: giáp xã Đồng Xuân `,
+         `Phía Nam: giáp xã Vân Hòa và Xã Tuy An Nam `,
+         `Phía Đông: giáp xã Ô Loan và xã Tuy An Nam `,
+         `Phía Tây: giáp xã Xuân Phước và xã Vân Hòa`,
+
+      ],
+      economy: [
+         {
+            des: `Nông nghiệp & thủy sản`,
+            list: [
+               `Đất đai hỗ trợ trồng lúa nước, sắn, cây ăn quả trong nội đồng.`,
+               `Hoạt động nuôi trồng và khai thác thủy sản ven biển, sông suối – nền tảng kinh tế chủ lực.`,
+               `Giao thông thuận lợi – gần Quốc lộ 1A, đường sắt Bắc–Nam hỗ trợ vận chuyển nông sản, kết nối với đô thị Tuy Hòa.`,
+            ]
+         },
+         {
+            des: `Du lịch sinh thái & văn hóa`,
+            list: [
+               `Vị trí giáp bờ biển và gần các điểm du lịch nổi tiếng (Gành Đá Đĩa, đầm Ô Loan…), có tiềm năng phát triển du lịch cộng đồng, homestay và trải nghiệm văn hóa truyền thống.   `,
+            ]
+         }
+      ],
+      info: [
+         {
+            des: `Văn hóa & di tích`,
+            list: [
+               `Các thôn làng phát huy truyền thống ven biển và đồng bằng.`,
+               `Lễ hội truyền thống địa phương từ các xã cũ (An Nghiệp, An Xuân, An Lĩnh).`,
+
+            ]
+         },
+         {
+            des: `Ẩm thực & đặc sản`,
+            list: [
+               `Nổi bật với hải sản tươi: tôm, cá, ghẹ, đặc biệt từ vùng ven biển lân cận.`,
+               `Các món dân dã: gỏi cá, canh chua, kết hợp với ẩm thực nông thôn trung du (rau, trái cây…) đặc trưng vùng Tuy An.`,
+
+            ]
+         }
+      ],
+   },
+   {
+      id: 64,
+      province: 26,
+      name: "Xã Xã Phú Hòa 1",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phú Hòa, các xã Hòa Thắng (huyện Phú Hòa), Hòa Định Đông, Hòa Định Tây, Hòa Hội và một phần diện tích tự nhiên, quy mô dân số của xã Hòa An (huyện Phú Hòa) thành xã mới có tên gọi là xã Phú Hòa 1.`,
+      square: `Diện tích tự nhiên: 142,54 km². `,
+      population: `Dân số: khoảng 54.212 người`,
+      ethnic: `Chủ yếu là người Kinh, bên cạnh có sự hiện diện của các dân tộc thiểu số miền Trung, góp phần tạo nên văn hóa cộng đồng đa dạng.`,
+      location: [
+         `Phía Bắc: giáp xã Vân Hòa và Xã Phú Hòa 2`,
+         `Phía Nam: giáp xã Sơn Thành và xã Tây Hòa`,
+         `Phía Đông: giáp phường Tuy Hòa `,
+         `Phía Tây: giáp xã Sơn Hòa `,
+      ],
+      economy: [
+         `Nông nghiệp – trồng cây ăn quả & lúa nước: Đất phù sa ven sông Đà Rằng, phù hợp trồng lúa, cam, bưởi và cây kinh tế khác.`,
+         `Du lịch & dịch vụ: Gần các điểm đến nổi bật như Đá Bàn, tháp Chăm Đồng Miễu, các làng nghề truyền thống, nên phát triển dịch vụ du lịch, homestay, nhà hàng… khá mạnh.`,
+         `Thương mại & dịch vụ địa phương: Với quy mô dân số lớn và trụ sở chính quyền, Phú Hòa 1 là một đơn vị hành chính – kinh tế trung tâm.`,
+
+      ],
+      info: [
+         `Văn hóa & di tích: đây là trung tâm hành chính – xã hội mới với các lễ hội địa phương truyền thống và giao thoa văn hóa sau sáp nhập. Các di tích nổi bật của huyện Phú Hòa: đền Lương Văn Chánh, khu du lịch Đá Bàn, tháp Chăm Đồng Miễu, mỏ nước khoáng Phú Sen, làng gốm Hòa Quang.`,
+         `Ẩm thực & đặc sản: Gồm những món đặc trưng của vùng trung du Phú Yên như cơm gà, bánh tráng, các sản vật từ nông nghiệp (lúa, cam, bưởi)… và hải sản từ khu vực lân cận.`,
+      ],
+   },
+   {
+      id: 65,
+      province: 26,
+      name: "Xã Phú Hòa 2 ",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hòa Quang Nam, xã Hòa Quang Bắc và một phần diện tích tự nhiên, quy mô dân số của xã Hòa Trị thành xã mới có tên gọi là xã Phú Hòa 2.`,
+      square: `Diện tích: 95,78 km²`,
+      population: `Dân số: 38.691 người`,
+      ethnic: `Cư dân chủ yếu là người Kinh, cùng một số dân tộc thiểu số miền Trung như Chăm – thường sinh sống trong các khu vực xã Hòa Quang, Hòa Trị.`,
+      location: [
+         `Phía Bắc: giáp xã Vân Hòa, xã Tuy An Nam và phường Bình Kiến `,
+         `Phía Nam: giáp xã Phú Hòa 1`,
+         `Phía Đông: giáp phường Tuy Hòa`,
+         `Phía Tây: giáp xã Vân Hòa`,
+
+      ],
+      economy: [
+         `Nông nghiệp đa dạng: Canh tác lúa, mía, cây ăn quả theo quy mô lớn nhờ diện tích mở rộng.`,
+         `Thương mại – dịch vụ: Vị trí gần cao tốc Bắc–Nam tạo thuận lợi giao thương, kết nối vùng.`,
+         `Du lịch tiềm năng: Các vùng Hòa Quang – Hòa Trị có thể phát triển tour trải nghiệm sinh thái, homestay nhờ cảnh quan thiên nhiên và văn hóa dân gian.`,
+
+      ],
+      info: [
+         `Mặc dù thiếu di tích lịch sử nổi bật, xã lưu giữ văn hóa vùng trung du Phú Yên: lễ hội làng, sinh hoạt cộng đồng thôn xóm.`,
+         `Nông sản địa phương: lúa, mía, cây ăn quả`,
+         `Các món truyền thống: cơm lam, canh rau rừng, đặc sản đồng quê`,
+
+      ],
+   },
+   {
+      id: 66,
+      province: 26,
+      name: "Xã Tây Hòa",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Phú Thứ, xã Hòa Phong (huyện Tây Hòa), xã Hòa Tân Tây và một phần diện tích tự nhiên, quy mô dân số của xã Hòa Bình 1 thành xã mới có tên gọi là xã Tây Hòa.`,
+      square: `Diện tích: 55,14 km² `,
+      population: `Dân số: 49.720 người`,
+      ethnic: ``,
+      location: [
+         `Phía Bắc: giáp xã Phú Hòa 1 `,
+         `Phía Nam: giáp xã Hòa Mỹ, xã Hòa Thịnh và phường Đông Hòa `,
+         `Phía Đông: giáp phường Phú Yên và phường Đông Hòa `,
+         `Phía Tây: giáp xã Sơn Thành `,
+
+      ],
+      economy: [
+         `Thương mại – Dịch vụ – Hành chính: Là trung tâm hành chính của huyện Tây Hòa, với dân số lớn và quy mô đô thị hóa nhanh, thúc đẩy các hoạt động thương mại – dịch vụ – ngân hàng – giáo dục – y tế.`,
+         `Nông nghiệp – Thủy sản – Đồng bằng: Các vùng lân cận có đất đai phù sa, dễ trồng lúa, màu, rau màu; kết hợp nuôi trồng thủy sản nhỏ lẻ từ ao hồ, suối.`,
+         `Du lịch sinh thái – kết nối vùng: Nằm gần Quốc lộ 25 và đường cao tốc Chí Thạnh–Vân Phong, có tiềm năng trở thành đầu mối kết nối du lịch giữa Phú Yên và Khánh Hòa. Địa bàn có sông suối, cảnh quan đồi nhẹ, thuận lợi phát triển du lịch cộng đồng – văn hóa – sinh thái.`,
+
+      ],
+      info: [
+         `Văn hóa & di tích: Duy trì các lễ hội truyền thống của các thôn xã cũ (Phú Thứ, Hòa Bình 1, Hòa Phong, Hòa Tân Tây) `,
+         `Ẩm thực & đặc sản: Kết hợp đặc trưng biển – đồng bằng: cơm gà, bánh tráng, hải sản tươi, đặc sản địa phương từ đồng ruộng và ao hồ (bánh phồng, nem chua, trái cây…).`,
+
+      ],
+   },
+   {
+      id: 67,
+      province: 26,
+      name: "Xã Hòa Thịnh",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hòa Đồng và xã Hòa Thịnh thành xã mới có tên gọi là xã Hòa Thịnh.`,
+      square: `Diện tích: 55,14 km²`,
+      population: `Dân số: 49.720 người`,
+      ethnic: `Cư dân chủ yếu là người Kinh, kết hợp với các dân tộc thiểu số miền Trung (Chăm)`,
+      location: [
+         `Phía Bắc: giáp xã Tây Hòa `,
+         `Phía Nam: giáp tỉnh Khánh Hòa `,
+         `Phía Đông: giáp xã Hòa Xuân và phường Đông Hòa `,
+         `Phía Tây: giáp xã Hòa Mỹ `,
+
+      ],
+      economy: [
+         `Thương mại – Dịch vụ – Hành chính: Xã có dân số lớn và quy mô đô thị hóa nhanh, thúc đẩy các hoạt động thương mại – dịch vụ – ngân hàng – giáo dục – y tế.`,
+         `Nông nghiệp – Thủy sản – Đồng bằng: Các vùng lân cận có đất đai phù sa, dễ trồng lúa, màu, rau màu; kết hợp nuôi trồng thủy sản nhỏ lẻ từ ao hồ, suối.`,
+         `Du lịch sinh thái – kết nối vùng: Nằm gần Quốc lộ 25 và đường cao tốc Chí Thạnh–Vân Phong, có tiềm năng trở thành đầu mối kết nối du lịch giữa Phú Yên và Khánh Hòa. Địa bàn có sông suối, cảnh quan đồi nhẹ, thuận lợi phát triển du lịch cộng đồng – văn hóa – sinh thái.`,
+
+      ],
+      info: [
+         `Văn hóa & di tích: Duy trì các lễ hội truyền thống của các thôn xã cũ.`,
+         `Ẩm thực & đặc sản: Kết hợp đặc trưng biển – đồng bằng: cơm gà, bánh tráng, hải sản tươi, đặc sản địa phương từ đồng ruộng và ao hồ (bánh phồng, nem chua, trái cây…).`,
+
+      ],
+   },
+   {
+      id: 68,
+      province: 26,
+      name: "Xã Hòa Mỹ",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hòa Mỹ Đông và xã Hòa Mỹ Tây thành xã mới có tên gọi là xã Hòa Mỹ.`,
+      square: `Diện tích: 142,56 km²`,
+      population: `Dân số: 25.000 người`,
+      ethnic: [
+         `Cư dân chủ yếu là người Kinh, bên cạnh có một số dân tộc thiểu số miền Trung.`,
+         `Sự hòa nhập dân cư từ hai xã mang lại tính đa dạng văn hóa cho cộng đồng.`,
+
+      ],
+      location: [
+         `Phía Bắc: giáp xã Tây Hòa `,
+         `Phía Nam: giáp tỉnh Khánh Hòa `,
+         `Phía Đông: giáp xã Hòa Thịnh`,
+         `Phía Tây: giáp xã Sơn Thành `,
+
+      ],
+      economy: [
+         `Nông – lâm nghiệp: Phát triển vùng đồng bằng (sắn, lúa) và đồi núi thấp (mía, sắn); tiềm năng khai thác lâm sản và phát triển rừng trồng.`,
+         `Du lịch sinh thái – cộng đồng: Cảnh quan thiên nhiên: đồi núi, suối, hệ sinh thái quanh vùng xã cũ là nền tảng để phát triển du lịch sinh thái – homestay.`,
+         `Dịch vụ – hành chính: Sau sáp nhập, trụ sở xã được củng cố, đầu tư hạ tầng hành chính – dịch vụ phục vụ gần 25.000 người dân mới.`,
+
+      ],
+      info: [
+         `Văn hóa & di tích: Giữ gìn các lễ hội truyền thống nông thôn cùng văn hóa làng xã điển hình của Tây Hòa. Xã Hòa Mỹ nổi tiếng với nhiều danh lam, thắng cảnh như núi Đá Đen, Hòn Nhọn.`,
+         `Ẩm thực & đặc sản: Nông sản nổi bật gồm lúa, sắn, mía (phù sa, đồi thấp). Món truyền thống: cơm lam, canh rau rừng, cá suối, đặc trưng vùng trung du – đồi núi.`,
+
+      ],
+   },
+   {
+      id: 69,
+      province: 26,
+      name: "Xã Sơn Thành",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hòa Phú (huyện Tây Hòa), Sơn Thành Đông và Sơn Thành Tây thành xã mới có tên gọi là xã Sơn Thành.`,
+      square: `Diện tích: khoảng 218,11 km²`,
+      population: `Dân số: khoảng 27.838 người`,
+      ethnic: `Cư dân chủ yếu là người Kinh, bên cạnh có một số dân tộc thiểu số miền Trung như Chăm, tạo nên đặc trưng văn hóa nông thôn – đồng bằng miền Trung.`,
+      location: [
+         `Phía Bắc: giáp xã Phú Hòa 1 `,
+         `Phía Nam: giáp xã Sông Hinh `,
+         `Phía Đông: giáp xã Hòa Mỹ `,
+         `Phía Tây: giáp xã Đức Bình`,
+
+      ],
+      economy: [
+         `Nông – lâm nghiệp: Diện tích rộng lớn thuận lợi phát triển cây lương thực (lúa, sắn), cây công nghiệp, kết hợp lâm nghiệp và rừng sản xuất.`,
+         `Du lịch sinh thái & cộng đồng: Cơ sở phát triển homestay trải nghiệm văn hóa miền núi thấp, du lịch dã ngoại kết hợp với lễ hội làng.`,
+         `Dịch vụ – hành chính: Với quy mô dân số lớn và trụ sở hành chính tập trung, phát triển mạnh các dịch vụ hành chính, giáo dục, y tế, thương mại địa phương.`,
+
+      ],
+      info: [
+         {
+            des: `Văn hóa – di tích:`,
+            list: [
+               `Giữ gìn lễ hội làng, văn hóa cộng đồng truyền thống tại các thôn Sơn Thành Đông, Tây và Hòa Phú.`,
+               `Khu vực gồm cả đồng bằng và đồi núi thấp, có tiềm năng phát triển du lịch sinh thái – trải nghiệm văn hóa bản địa.`,
+
+            ]
+         },
+         {
+            des: `Ẩm thực & đặc sản:`,
+            list: [
+               `Nông sản phổ biến: lúa nước, mía, cây ăn quả.`,
+               `Món ăn đặc trưng: cơm lam, canh rau rừng, cá suối, cùng các sản phẩm địa phương khác`,
+
+            ]
+         }
+      ],
+   },
+   {
+      id: 70,
+      province: 26,
+      name: "Xã Sơn Hòa",
+      image: [
+         "son-hoa-1.jpg"
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Củng Sơn và các xã Suối Bạc, Sơn Hà, Sơn Nguyên, Sơn Phước thành xã mới có tên gọi là xã Sơn Hòa.`,
+      square: `Diện tích: 215 Km2`,
+      population: `Dân số: 38.500 người`,
+      ethnic: `Chủ yếu là người Ê đê, Mơ Nông và một số dân tộc khác`,
+      location: [
+         `Phía bắc: giáp xã Tây Sơn `,
+         `Phía nam: giáp xã Đức Bình và xã Sơn Thành `,
+         `Phía đông: giáp xã Vân Hòa và xã Phú Hòa 1 `,
+         `Phía tây: giáp xã Suối Trai`,
+
+      ],
+      economy: [
+         `Nông nghiệp bền vững: Sơn Hòa có thế mạnh về nông nghiệp với các loại cây trồng chủ lực như lúa, mía, sắn và cây ăn quả.`,
+         `Du lịch sinh thái và văn hóa: Với địa hình đa dạng, bao gồm đồng bằng, đồi núi thấp và các khu vực tự nhiên như Suối Bạc, Sơn Hòa có tiềm năng phát triển du lịch sinh thái. Các lễ hội truyền thống và phong tục địa phương cũng là điểm nhấn thu hút du khách, góp phần quảng bá văn hóa địa phương.`,
+         `Công nghiệp nhỏ và chế biến: Gần các khu công nghiệp như Củng Sơn và Hòa Hưng Tây, Sơn Hòa có cơ hội phát triển các ngành chế biến nông sản và thủ công mỹ nghệ. Các cơ sở sản xuất nhỏ lẻ được khuyến khích để tạo việc làm và tăng thu nhập cho người dân, góp phần vào sự phát triển kinh tế địa phương.`,
+         `Chính sách thu hút đầu tư: Chính quyền xã Sơn Hòa đang triển khai các chính sách ưu đãi như hỗ trợ vay vốn, đơn giản hóa thủ tục hành chính và cung cấp thông tin quy hoạch để thu hút các nhà đầu tư. Các dự án nông nghiệp công nghệ cao và khu đô thị mới đang được lên kế hoạch, hứa hẹn mang lại sự phát triển đột phá.`,
+
+      ],
+      info: [
+         `Dân tộc: đa dạng với người Kinh và các dân tộc thiểu số sinh sống cùng nhau. Các lễ hội lớn như cồng chiêng, đập heo đất, trèo cột mỡ… được duy trì và tổ chức cộng đồng sôi nổi, góp phần giữ gìn bản sắc văn hóa.`,
+         `Nghề truyền thống: Dệt thổ cẩm, thủ công mỹ nghệ là thế mạnh; người dân tích cực bảo tồn nghề, dùng văn hóa để phát triển kinh tế du lịch.`,
+         `Văn nghệ, phong tục: Các chương trình văn nghệ dân gian, trò chơi truyền thống, múa hát, giao lưu văn hóa giữa buôn làng được tổ chức đều đặn, góp phần tăng cường mối đoàn kết cộng đồng.`,
+
+      ],
+   },
+   {
+      id: 71,
+      province: 26,
+      name: "Xã Vân Hòa",
+      image: [
+         "van-hoa-1.jpg",
+         "van-hoa-2.jpg",
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sơn Long, Sơn Xuân và Sơn Định thành xã mới có tên gọi là xã Vân Hòa.`,
+      square: `Diện tích: 151,47 km2 `,
+      population: `Dân số: 6.661 người `,
+      ethnic: `Các dân tộc thiểu số sinh sống ở đây bao gồm Êđê, Chăm Hroi, Bana, Tày, Nùng, Dao. Ngoài ra, còn có các dân tộc khác như H'rê, Hoa, Mnong, Raglai, và Sán Dìu, một số trong đó đã di cư đến từ miền núi phía Bắc.`,
+      location: [
+         `Phía bắc: giáp xã Xuân Phước `,
+         `Phía nam: giáp xã Vân Hòa, xã Phú Hòa 1 và xã Phú Hòa 2`,
+         `Phía đông: giáp xã Tuy An Tây và xã Tuy An Nam`,
+         `Phía tây: giáp xã Tây Sơn và xã Sơn Hòa `,
+      ],
+      economy: [
+         `Nông nghiệp: Cây công nghiệp là nguồn thu nhập chính của người dân, bao gồm cà phê, hồ tiêu, và cao su. Ngoài ra, một số hộ gia đình còn phát triển thêm các loại cây ăn quả như sầu riêng, bơ, và các loại rau màu.`,
+         `Du lịch: Du lịch sinh thái đang trở thành một ngành kinh tế tiềm năng, với các điểm đến như thác Dray Nur, Dray Sap, và các buôn làng truyền thống.`,
+         `Thương mại, dịch vụ: Các hoạt động thương mại, dịch vụ nhỏ lẻ cũng góp phần vào sự phát triển kinh tế của xã.`,
+      ],
+      info: [
+         `Văn hóa truyền thống: Xã Vân Hòa là nơi sinh sống của nhiều dân tộc thiểu số, trong đó có Ê đê và M'Nông. Các lễ hội truyền thống như Lễ hội cồng chiêng, Lễ hội mừng lúa mới, và các nghi lễ, phong tục tập quán khác vẫn được duy trì và bảo tồn.`,
+         `Kiến trúc: Nhà dài truyền thống của người Ê đê và M'Nông là một nét kiến trúc độc đáo, thể hiện sự gắn kết cộng đồng và văn hóa của người dân.`,
+         `Âm nhạc: Cồng chiêng, đàn đá và các nhạc cụ dân tộc khác đóng vai trò quan trọng trong đời sống văn hóa tinh thần của người dân. Âm nhạc truyền thống được sử dụng trong các lễ hội, nghi lễ và các hoạt động sinh hoạt cộng đồng.`,
+         `Ẩm thực: Ẩm thực của Vân Hòa mang đậm hương vị núi rừng, với các món ăn đặc trưng như cơm lam, gà nướng, canh thụt, và các loại rượu cần.`,
+      ],
+   },
+   {
+      id: 72,
+      province: 26,
+      name: "Xã Tây Sơn",
+      image: [
+         "tay-son-1.jpg"
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sơn Hội, Cà Lúi và Phước Tân thành xã mới có tên gọi là xã Tây Sơn. `,
+      square: `Diện tích: khoảng 200 km2`,
+      population: `Dân số: 15.052 người `,
+      ethnic: `Tỉ lệ dân tộc của xã là 70% dân tộc Kinh, 30% dân tộc bản địa như Ê Đê, M’Nông, Thái…
+-	Người Kinh: khoảng 7–8.000 người
+-	Dân tộc thiểu số (Ê Đê, M’Nông, Thái…): khoảng 3–4.000 người
+`,
+      location: [
+         `Phía bắc: giáp xã Phú Mở `,
+         `Phía nam: giáp xã Sơn Hòa `,
+         `Phía đông: giáp xã Xuân Phước, xã Phú Mỡ và xã Vân Hòa `,
+         `Phía tây: giáp tỉnh Gia Lai `,
+
+      ],
+      economy: [
+         `Nông nghiệp hiện đại hóa: Với diện tích đất nông nghiệp rộng lớn, xã Tây Sơn đã áp dụng các mô hình canh tác hiện đại, như trồng cây ăn quả chất lượng cao (bưởi, sầu riêng) và chăn nuôi theo hướng hữu cơ. Các hợp tác xã nông nghiệp được thành lập để hỗ trợ người dân tiếp cận công nghệ và thị trường tiêu thụ.`,
+         `Du lịch sinh thái và văn hóa: Vùng đất Tây Sơn sở hữu cảnh quan thiên nhiên tuyệt đẹp với các con suối, đồi núi và văn hóa bản địa độc đáo của đồng bào dân tộc thiểu số. Các tour du lịch khám phá văn hóa Chăm và trải nghiệm thiên nhiên đang được phát triển, thu hút du khách từ khắp nơi.`,
+         `Thu hút đầu tư: Nhờ cải thiện cơ sở hạ tầng và chính sách ưu đãi của tỉnh, xã Tây Sơn đã thu hút một số dự án đầu tư vào chế biến nông sản và năng lượng tái tạo. Một nhà máy chế biến sầu riêng xuất khẩu đang được xây dựng, dự kiến tạo việc làm cho hơn 200 lao động địa phương`,
+
+      ],
+      info: [
+         `Bảo tồn văn hóa bản địa: Xã Tây Sơn là nơi sinh sống của nhiều đồng bào dân tộc thiểu số, đặc biệt là người Chăm và Êđê. Các lễ hội truyền thống như Lễ Cầu Mưa hay Lễ Hội Katê được tổ chức thường niên, thu hút sự tham gia của cả cộng đồng, giúp bảo tồn và phát huy giá trị văn hóa đặc sắc.`,
+         `Hoạt động cộng đồng sôi nổi: Nhà văn hóa xã Tây Sơn đã trở thành trung tâm sinh hoạt cộng đồng, nơi tổ chức các sự kiện như hội thi nấu ăn, giao lưu văn nghệ và các lớp học kỹ năng cho trẻ em. Những hoạt động này giúp người dân từ các xã cũ gắn kết với nhau, xây dựng tinh thần đoàn kết.`,
+
+      ],
+   },
+   {
+      id: 73,
+      province: 26,
+      name: "Xã Suối Trai",
+      image: [
+         "suoi-trai-1.jpg"
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Ea Chà Rang, xã Krông Pa và xã Suối Trai thành xã mới có tên gọi là xã Suối Trai.`,
+      square: `Diện tích: 186,95 Km2`,
+      population: `Dân số: 11.387 người`,
+      ethnic: `Người Ê Đê chiếm đa số, ngoài ra, còn có các dân tộc khác như Ba Na và Chăm cũng sinh sống.`,
+      location: [
+         `Phía bắc: giáp tỉnh Gia Lai và xã Tây Sơn `,
+         `Phía nam: giáp xã Ea Ly và xã Ea Bá`,
+         `Phía đông: giáp xã Sơn Hòa và xã Đức Bình `,
+         `Phía tây: giáp tỉnh Gia Lai `,
+      ],
+      economy: `Với diện tích đất nông nghiệp lớn, Xã Suối Trai có lợi thế trong việc phát triển các loại cây trồng đặc sản như cà phê, hồ tiêu và cây ăn quả. Ngoài ra, khu vực này còn có tiềm năng phát triển du lịch sinh thái nhờ vào cảnh quan thiên nhiên hùng vĩ, với các khu rừng nguyên sinh và suối nước tự nhiên, thu hút du khách yêu thích khám phá thiên nhiên. `,
+      info: [
+         `Đa dạng văn hóa dân tộc: Xã Suối Trai là nơi sinh sống của nhiều dân tộc như Êđê, Ba Na và Chăm, mỗi dân tộc mang đến những nét văn hóa riêng biệt. Các lễ hội truyền thống như lễ cúng bến nước, lễ mừng lúa mới hay các điệu múa dân gian được tổ chức thường xuyên, thu hút cả người dân địa phương và du khách. Những hoạt động này không chỉ góp phần bảo tồn văn hóa mà còn tạo cơ hội giao lưu giữa các cộng đồng.`,
+         `Sự đoàn kết cộng đồng: Các chương trình sinh hoạt cộng đồng, như ngày hội đại đoàn kết, được tổ chức thường xuyên, giúp người dân từ các xã cũ gắn bó hơn và cùng nhau xây dựng một Xã Suối Trai phát triển.`,
+         `Bảo tồn di sản văn hóa: Xã Suối Trai hiện đang triển khai các dự án bảo tồn di sản văn hóa phi vật thể, như việc ghi chép và lưu giữ các bài hát dân ca, truyện kể dân gian và các nghề thủ công truyền thống. Những nỗ lực này không chỉ giúp bảo vệ bản sắc văn hóa mà còn tạo thêm cơ hội phát triển du lịch văn hóa cho khu vực.`,
+      ],
+   },
+   {
+      id: 74,
+      province: 26,
+      name: "Xã Ea Ly",
+      image: [
+         "ea-ly-1.jpg"
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ea Lâm, xã Ea Ly và một phần diện tích tự nhiên, quy mô dân số của xã Ea Bar (huyện Sông Hinh) thành xã mới có tên gọi là xã Ea Ly.`,
+      square: `Diện tích: 65 Km2 `,
+      population: `Dân số: 22.000 người `,
+      ethnic: `Xã có 13 dân tộc cũng sinh sống, trong đó có các dân tộc thiểu số như Ê Đê, Tày, Nùng.`,
+      location: [
+         `Phía bắc: giáp tỉnh Gia Lai `,
+         `Phía nam: giáp xã Cư Prao`,
+         `Phía đông: giáp xã Ea Bá `,
+         `Phía tây: giáp xã Cư Prao và xã Ea knốp`,
+
+      ],
+      economy: [
+         `Phát triển nông nghiệp công nghệ cao: Xã Ea Kly tập trung vào hiện đại hóa nông nghiệp, với các mô hình canh tác cà phê và hồ tiêu theo tiêu chuẩn VietGAP. `,
+         `Hỗ trợ đồng bào dân tộc thiểu số: Với 13% dân số là người Ê-đê, Ea Kly được hưởng lợi từ Chương trình mục tiêu quốc gia phát triển kinh tế – xã hội vùng đồng bào dân tộc thiểu số giai đoạn 2021-2030. Các dự án hỗ trợ đất sản xuất, đào tạo nghề và cung cấp thiết bị nông nghiệp đã giúp người dân ổn định cuộc sống và tham gia tích cực vào các hoạt động kinh tế.`,
+         `Phát triển thương mại và dịch vụ: Nhờ vị trí giáp Quốc lộ 26, Ea Kly đang phát triển các hoạt động thương mại, với các doanh nghiệp như Công ty TNHH Thương mại Xăng dầu Phú Sơn và Công ty TNHH Vận tải Thương mại Danh Lợi. Các chợ địa phương và cửa hàng kinh doanh nông sản cũng được mở rộng, tạo thêm việc làm và thu nhập cho người dân.`,
+
+      ],
+      info: [
+         `Trải nghiệm văn hóa dân tộc Ê-đê: Các buôn làng tại Ea Kly, như buôn Krai B, đã phát triển mô hình du lịch cộng đồng với các homestay, cho phép du khách trải nghiệm cuộc sống của người Ê-đê. Du khách có thể tham gia các hoạt động như dệt thổ cẩm, nấu ăn truyền thống hay học đánh cồng chiêng, mang lại trải nghiệm văn hóa sâu sắc và gần gũi.`,
+         `Khám phá cảnh quan thiên nhiên: Với địa hình đồi núi và các cánh đồng lúa xanh mướt, Ea Kly là điểm đến lý tưởng cho các hoạt động trekking và khám phá thiên nhiên. Chính quyền địa phương đang phối hợp với các đơn vị lữ hành để phát triển các tuyến trekking qua các đồi cà phê và rừng nguyên sinh, giúp du khách tận hưởng vẻ đẹp hoang sơ của Tây Nguyên.`,
+         `Lễ hội văn hóa đặc sắc: Sau sáp nhập, Ea Kly đã tham gia tích cực vào các sự kiện văn hóa, như Lễ hội Sầu riêng huyện Krông Pắk, thu hút du khách đến thưởng thức đặc sản và tìm hiểu quy trình sản xuất nông sản. Những lễ hội này không chỉ quảng bá văn hóa mà còn tạo dấu ấn riêng cho du lịch địa phương.`,
+      ],
+   },
+   {
+      id: 75,
+      province: 26,
+      name: "Xã Ea Bá",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ea Bá và phần còn lại của xã Ea Bar (huyện Sông Hinh) sau khi sắp xếp theo quy định tại khoản 74 Điều này thành xã mới có tên gọi là xã Ea Bá.`,
+      square: `Diện tích: 131,23 Km2 `,
+      population: `Dân số: 8.316 người`,
+      ethnic: `xã gồm có 10 dân tộc là Kinh, Tày, Nùng, Ê Đê, Jrai, Mường, Thái, Hoa, Dao và Chăm. Người đồng bào dân tộc thiểu số chiếm khoảng 36% dân số xã.`,
+      location: [
+         `Phía bắc: giáp xã Ea Ly và xã Suối Trai `,
+         `Phía nam: giáp xã Ea Riêng và xã Cư Prao `,
+         `Phía đông: giáp xã Sông Hinh `,
+         `Phía tây: giáp xã Ea Ly `,
+      ],
+      economy: [
+         `Phát triển nông nghiệp bền vững: Nhờ địa hình đồi núi và đất đai màu mỡ, Ea Bá có lợi thế trong việc trồng các loại cây công nghiệp như cao su, cà phê và hồ tiêu. Chính quyền địa phương đang khuyến khích nông dân áp dụng công nghệ cao trong canh tác, giúp tăng năng suất và chất lượng sản phẩm. Các mô hình nông nghiệp hữu cơ cũng đang được thử nghiệm, hứa hẹn mang lại giá trị kinh tế cao.`,
+         `Du lịch sinh thái và văn hóa: Với cảnh quan thiên nhiên hùng vĩ và bản sắc văn hóa đa dạng, Ea Bá có tiềm năng phát triển du lịch sinh thái và trải nghiệm văn hóa. Các khu rừng nguyên sinh, sông suối và các lễ hội truyền thống của người Ê-đê, Ba Na là những điểm nhấn thu hút du khách. Chính quyền đang lên kế hoạch xây dựng các tour du lịch cộng đồng, giúp người dân địa phương tham gia vào chuỗi giá trị du `,
+      ],
+      info: [
+         `Văn hóa truyền thống: Các lễ hội truyền thống như Lễ hội Cúng Thần Lúa, Lễ hội Mừng Lúa mới vẫn được duy trì và tổ chức hàng năm, góp phần bảo tồn và phát huy bản sắc văn hóa dân tộc.`,
+         `Nghệ thuật dân gian: Các loại hình nghệ thuật dân gian như cồng chiêng, hát then, múa hát, diễn xướng vẫn được người dân yêu thích và trình diễn trong các dịp lễ hội, sinh hoạt cộng đồng.`,
+         `Ẩm thực độc đáo: Ẩm thực của Ea Bá mang đậm nét đặc trưng của vùng miền núi phía Bắc Phú Yên, với các món ăn như cơm lam, rượu cần, thịt nướng, canh bồi, canh chua cá, gà nướng.`,
+         `Kiến trúc nhà ở truyền thống: Nhà sàn, nhà rông là những kiến trúc nhà ở truyền thống của các dân tộc thiểu số, mang đậm dấu ấn văn hóa và bản sắc của địa phương.`,
+         `Làng nghề truyền thống: Một số làng nghề truyền thống như dệt thổ cẩm, làm gốm, đan lát vẫn được duy trì và phát triển, góp phần bảo tồn và phát huy giá trị văn hóa truyền thống.`,
+      ],
+   },
+   {
+      id: 76,
+      province: 26,
+      name: "Xã Đức Bình",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sơn Giang, Đức Bình Đông, Đức Bình Tây và một phần diện tích tự nhiên, quy mô dân số của xã Ea Bia thành xã mới có tên gọi là xã Đức Bình.`,
+      square: `Diện tích: 201,2 km2`,
+      population: `Dân số: khoảng 9.600 người.`,
+      ethnic: `xã có thành phần dân tộc đa dạng, chủ yếu là người Ê Đê và M’nông. Ngoài ra còn có một số dân tộc khác như Kinh, Tày, Nùng, Thái và Mông do quá trình di cư đến`,
+      location: [
+         `Phía bắc: giáp xã Sơn Hòa `,
+         `Phía nam: giáp xã Sông Hinh và xã Sơn Thành `,
+         `Phía đông: giáp xã Sơn thành `,
+         `Phía tây: giáp xã Sông Hinh và xã Suối Trai `,
+
+      ],
+      economy: [
+         `Nông nghiệp chủ đạo: Nông nghiệp chiếm 80% cơ cấu kinh tế của xã với các loại cây trồng chính như lúa nước, sắn, đậu phộng và bắp. Các mô hình trồng bưởi da xanh và cam sành tại xã đã mang lại thu nhập ổn định.`,
+         `Chăn nuôi phát triển: Chăn nuôi bò đàn là thế mạnh của xã.`,
+         `Tiềm năng du lịch sinh thái: Với cảnh quan sông Hinh và sông Ba, cùng các đồi rừng tại xã, xã có tiềm năng phát triển du lịch sinh thái và trải nghiệm văn hóa. Các điểm đến như khu rừng gỗ quý của ông Tô Đình Kền tại thôn Tân Lập, với các loại cây như trắc, cà te, hương, đang được định hướng trở thành điểm tham quan nông thôn mới.`,
+
+      ],
+      info: [
+         `Lễ hội truyền thống: Xã nổi tiếng với các lễ hội của đồng bào Ê Đê, như lễ cúng bến nước, lễ cúng lúa mới, được tổ chức với sự tham gia của cả cộng đồng. Những lễ hội này không chỉ mang ý nghĩa tâm linh mà còn là dịp để người dân thể hiện sự đoàn kết và gìn giữ bản sắc văn hóa.`,
+         `Nghệ thuật cồng chiêng: Cồng chiêng là một phần không thể thiếu trong đời sống văn hóa của người dân Sơn Giang. Âm thanh trầm bổng của cồng chiêng thường xuất hiện trong các lễ hội, nghi thức, tạo nên sức hút đặc biệt cho du khách muốn tìm hiểu về văn hóa dân tộc Ê Đê.`,
+         `Du lịch sinh thái: Với cảnh quan đồi núi và hồ thủy điện của xã là điểm đến lý tưởng cho những ai yêu thích du lịch sinh thái. Du khách có thể tham gia các hoạt động như trekking, khám phá rừng nguyên sinh hoặc trải nghiệm cuộc sống tại các buôn làng.`,
+         `Ẩm thực địa phương: Ẩm thực tại đây mang đậm nét văn hóa miền núi, với các món ăn như cá lăng nấu chua, bò nướng ống tre, và rượu cần. Những món ăn này không chỉ ngon mà còn thể hiện sự sáng tạo và phong cách sống gần gũi với thiên nhiên của người dân.`,
+      ],
+      image_back: {
+         title: "Cơm Lam",
+         img: `com-lam-duc-binh.jpg`
+      },
+   },
+   {
+      id: 77,
+      province: 26,
+      name: "Xã Sông Hinh",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Hai Riêng, xã Ea Trol, xã Sông Hinh và phần còn lại của xã Ea Bia sau khi sắp xếp theo quy định tại khoản 76 Điều này thành xã mới có tên gọi là xã Sông Hinh.`,
+      square: `Diện tích: 255,46 km2`,
+      population: `Dân số: hơn 8.500 người`,
+      ethnic: `Xã bao gồm các buôn như buôn Ly, buôn Bầu, và buôn Đức Mùi, với cộng đồng đa dân tộc, chủ yếu là người Ê Đê, Kinh, và các dân tộc thiểu số khác như Tày, Nùng.`,
+      location: [
+         `Phía bắc: giáp xã Suối Trai `,
+         `Phía nam: giáp tỉnh Khánh Hòa `,
+         `Phía đông: giáp xã Đức Bình, xã Sơn Thành và xã Hòa Mỹ `,
+         `Phía tây: giáp xã Ea Bá, xã Cư M’ta và xã Ea riêng `,
+
+      ],
+      economy: [
+         `Nông nghiệp và nuôi trồng: Nông nghiệp tại xã tập trung vào trồng mía, sắn, và lúa nước, với các mô hình nuôi cá bống tượng tại hồ thủy điện Sông Hinh mang lại hiệu quả kinh tế cao. `,
+         `Lâm nghiệp và tài nguyên: xã có tiềm năng khai thác lâm sản như gỗ và nhựa thông.Tuy nhiên, xã cũng chú trọng bảo vệ rừng, với các chương trình quản lý cộng đồng nhằm duy trì độ che phủ rừng và bảo vệ môi trường sinh thái, hỗ trợ phát triển du lịch bền vững.`,
+         `Du lịch sinh thái: Hồ thủy điện Sông Hinh, được xây dựng từ năm 1993 đến 2001, là điểm đến du lịch nổi bật với cảnh quan núi rừng hùng vĩ.Công trình này không chỉ cung cấp điện năng mà còn hỗ trợ tưới tiêu cho 4.450 ha đất nông nghiệp và thu hút du khách bởi vẻ đẹp hoang sơ, lý tưởng cho các hoạt động khám phá và nghỉ dưỡng.`,
+
+      ],
+      info: [
+         `Di sản văn hóa Ê Đê: Đồng bào Ê Đê tại Ea Trol lưu giữ các phong tục như lễ cúng bến nước, cúng lúa về kho, và lễ cưới truyền thống.Nhà dài Ê Đê tại các buôn như buôn Ly là biểu tượng văn hóa, nơi diễn ra các hoạt động cộng đồng và sinh hoạt gia đình, thể hiện tinh thần đoàn kết và gắn bó.`,
+         `Lễ hội đa dân tộc: Ea Trol là nơi diễn ra các lễ hội phong phú như cúng Giàng(Trời), cúng rẫy, và lễ đâm trâu, đặc trưng của các dân tộc Ê Đê, Tày, Nùng.Những lễ hội này không chỉ mang ý nghĩa tâm linh mà còn là cơ hội để quảng bá văn hóa, thu hút du khách tìm hiểu về bản sắc dân tộc.`,
+         `Nghệ thuật truyền thống: Các loại nhạc cụ như cồng chiêng, đàn Tính, và kèn lá được sử dụng trong các lễ hội và sinh hoạt văn hóa tại Ea Trol.Trang phục thổ cẩm với hoa văn cầu kỳ của đồng bào Ê Đê cũng là điểm nhấn, được nhiều du khách yêu thích và coi như sản phẩm lưu niệm độc đáo.`,
+      ],
+      image_back: {
+         title: "Nuôi trồng thuỷ sản",
+         img: `song-hinh-1.jpg`
+      },
+   },
+   {
+      id: 78,
+      province: 26,
+      name: "Xã Xuân Lãnh",
+      image: [
+         "xuan-lanh-1.jpg"
+      ],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Đa Lộc và xã Xuân Lãnh thành xã mới có tên gọi là xã Xuân Lãnh.`,
+      square: `Diện tích: 183 Km2`,
+      population: `Dân số: 11.933 người `,
+      ethnic: `xã có thành phần dân tộc đa dạng, với các dân tộc thiểu số sinh sống chủ yếu ở 4 thôn: Hà Rai, Xí Thoại, Soi Nga, và Da Dù.`,
+      location: [
+         `Phía bắc: giáp tỉnh Gia Lai `,
+         `Phía nam: giáp xã Đồng Xuân `,
+         `Phía đông: giáp xã Xuân Thọ `,
+         `Phía tây: giáp xã Phú Mỡ `,
+
+      ],
+      economy: [
+         `Nông nghiệp truyền thống: Xuân Lãnh có diện tích đất nông nghiệp lớn, tập trung tại các thôn Lãnh Vân và Lãnh Trường, với cây lúa và sắn là chủ lực. Hệ thống thủy lợi từ các suối nhỏ hỗ trợ tưới tiêu, giúp người dân đạt năng suất ổn định.`,
+         `Du lịch cộng đồng: mô hình du lịch cộng đồng thôn Xí Thoại, tận dụng văn hóa Ba Na và cảnh quan đồi núi. Các hoạt động như trải nghiệm dệt thổ cẩm, tham gia lễ hội cồng chiêng, và khám phá thiên nhiên thu hút du khách, tạo nguồn thu nhập mới cho người dân và quảng bá hình ảnh Xuân Lãnh.`,
+         `Chăn nuôi và lâm nghiệp: Người dân tại các thôn như Xí Thoại phát triển chăn nuôi gia súc, gia cầm, với các mô hình nuôi bò và heo mang lại hiệu quả kinh tế cao. Ngoài ra, trồng rừng keo lai tại các khu vực đồi núi giúp bảo vệ môi trường và cung cấp nguyên liệu cho ngành công nghiệp gỗ, góp phần đa dạng hóa nguồn thu nhập cho người dân.`,
+
+      ],
+      info: [
+         `Di sản văn hóa phi vật thể: Nghệ thuật “Trống đôi, cồng ba, chiêng năm” tại Xuân Lãnh là biểu tượng văn hóa của người dân tộc Ba Na, thường được trình diễn trong các lễ hội và nghi thức cộng đồng. Âm thanh trầm bổng của cồng chiêng kết hợp với nhịp trống tạo nên sức hút đặc biệt, thu hút du khách và được bảo tồn thông qua các lớp học truyền dạy tại thôn Xí Thoại. Di sản này không chỉ là niềm tự hào mà còn là động lực để phát triển du lịch văn hóa.`,
+         `Nghề dệt thổ cẩm: Nghề dệt thổ cẩm của người Ba Na tại thôn Xí Thoại là một nét đẹp truyền thống, với các sản phẩm như khăn, túi, và váy được làm thủ công, mang hoa văn độc đáo. Dù từng có thời điểm mai một do khó khăn về đầu ra, nghề dệt đã được khôi phục nhờ sự hỗ trợ của chính quyền địa phương và các tổ chức như Hội Thiện nguyện Đom Đóm Phú Yên, giúp người dân tăng thu nhập và quảng bá văn hóa.`,
+         `Lễ hội truyền thống: Xuân Lãnh tổ chức các lễ hội như lễ mừng lúa mới tại thôn Xí Thoại, diễn ra vào tháng 10 âm lịch, với các nghi thức cúng Yang và các hoạt động múa cồng chiêng, hát dân ca. Lễ hội không chỉ mang ý nghĩa cầu mùa màng bội thu mà còn là dịp để người dân giao lưu, gắn kết cộng đồng, và giới thiệu văn hóa Ba Na đến du khách.`,
+      ],
+      image_back: {
+         title: `LỄ HỘI TRỐNG ĐÔI CỦA NGƯỜI DÂN TỘC CHĂM H’ROI VÀ BA NA`,
+         img: `trong-doi-xuan-lanh.jpg`
+      }
+   },
+   {
+      id: 68,
+      province: 26,
+      name: "Xã Phú Mỡ",
+      image: [],
+      introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Xuân Quang 1 và xã Phú Mỡ thành xã mới có tên gọi là xã Phú Mỡ.`,
+      square: `Diện tích: 547,20 km²`,
+      population: `Dân số: 9.007 người`,
+      ethnic: `Thành phần dân tộc của xã là người Kinh chiếm đa số, bên cạnh các cộng đồng dân tộc Chăm và Bana. Sự đa dạng dân tộc đã tạo nên nét văn hóa phong phú, từ các lễ hội truyền thống đến các phong tục tập quán đặc sắc.`,
+      location: [
+         `Phía bắc: giáp tỉnh Gia Lai `,
+         `Phía nam: giáp xã Xuân Phước và xã Tây Sơn `,
+         `Phía đông: giáp xã Xuân Lãnh và xã Đồng Xuân`,
+         `Phía tây: giáp tỉnh Gia Lai`,
+
+      ],
+      economy: [
+         `Nông nghiệp và chăn nuôi: Nông nghiệp là ngành kinh tế chủ lực của xã Phú Mỡ với các loại cây trồng như lúa, mía, sắn và cây ăn quả. Chăn nuôi bò, lợn và gà thả vườn cũng được phát triển mạnh.`,
+         `Khai thác tài nguyên nước khoáng: Xã Phú Mỡ sở hữu các suối nước khoáng nóng Trà Ô, Triêm Đức và Cây Vừng, là nguồn tài nguyên quý giá cho phát triển du lịch nghỉ dưỡng và chăm sóc sức khỏe. Các dự án đầu tư vào khu du lịch suối nước khoáng nóng đang được triển khai, hứa hẹn thu hút du khách.`,
+         `Tiềm năng du lịch sinh thái: Với địa hình đồi núi và các suối nước khoáng nóng, xã Phú Mỡ có tiềm năng phát triển du lịch sinh thái và nghỉ dưỡng. Các điểm đến như suối Trà Ô kết hợp với các hoạt động trải nghiệm văn hóa dân tộc Chăm, Bana có thể thu hút du khách yêu thích khám phá thiên nhiên và văn hóa bản địa.`,
+
+      ],
+      info: [
+         `Lễ hội truyền thống: Xã Phú Mỡ huyện Đồng Xuân là nơi diễn ra Lễ hội Trống đôi, Cồng ba, Chiêng năm, một di sản văn hóa phi vật thể quốc gia của đồng bào Chăm và Bana. Lễ hội này thường được tổ chức vào mùa xuân, thu hút đông đảo người dân và du khách với các màn trình diễn nhạc cụ truyền thống và các nghi thức cầu mùa độc đáo.`,
+         `Di tích và phong tục: Xã Phú Mỡ nổi tiếng với các suối nước khoáng nóng Trà Ô, Triêm Đức và Cây Vừng, không chỉ là tài nguyên thiên nhiên mà còn gắn liền với các câu chuyện dân gian về chữa bệnh và tâm linh. Người dân địa phương thường tổ chức các nghi lễ cúng đất, cúng rừng, thể hiện sự tôn kính với thiên nhiên và tổ tiên.`,
+         `Ẩm thực đặc sắc: Ẩm thực tại xã Phú Mỡ huyện Đồng Xuân mang đậm hương vị miền núi, với các món ăn như chả dông, cơm lam và gà nướng. Các món ăn này sử dụng nguyên liệu từ rừng và đồng ruộng, được chế biến theo cách truyền thống, tạo nên sức hút với du khách muốn trải nghiệm văn hóa ẩm thực địa phương`,
 
       ],
    },
@@ -1550,6 +2177,7 @@ const phuongxaDakLak = [
          `Các món ăn và đặc sản: Bánh canh hẹ, bánh xèo, gỏi cá mai, và các món hải sản tươi sống như sò huyết, cá ồ,…`,
       ],
    },
+
    {
       id: 81,
       province: 26,
