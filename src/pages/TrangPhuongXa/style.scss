@@ -11,6 +11,19 @@
       .ward-name {
          text-align: center;
       }
+      .vr-view {
+         display: flex;
+         justify-content: center;
+         gap: 5px;
+         padding: 1rem 0.5rem;
+         .vr-container {
+            width: 100%;
+            iframe {
+               width: 100%;
+               aspect-ratio: 16/9;
+            }
+         }
+      }
 
       .ward-image {
          display: flex;

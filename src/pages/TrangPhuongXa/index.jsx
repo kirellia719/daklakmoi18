@@ -29,11 +29,16 @@ const TrangPhuongXa = () => {
          {ward ? (
             <div className="container-main">
                <h2 className="ward-name">{ward.name}</h2>
-               <div className="ward-image">
-                  {ward.image.map((i) => (
-                     <img key={i} src={`/hinh-anh/${i}`} alt="" />
-                  ))}
-               </div>
+               {ward.image360 && <div className="vr-view">
+                  <div className="vr-container" dangerouslySetInnerHTML={{ __html: ward.image360 }} />
+               </div>}
+               {
+                  ward.image360 ? `` : <div className="ward-image">
+                     {ward.image.map((i) => (
+                        <img key={i} src={`/hinh-anh/${i}`} alt="" />
+                     ))}
+                  </div>
+               }
                <div className="ward-info">
                   <div className="w-container">
                      <div>
@@ -98,6 +103,13 @@ const TrangPhuongXa = () => {
                         )}
                      </p>
                   </div>
+                  {
+                     ward.image360 ? <div className="ward-image">
+                        {ward.image.map((i) => (
+                           <img key={i} src={`/hinh-anh/${i}`} alt="" />
+                        ))}
+                     </div> : ``
+                  }
                </div>
             </div>
          ) : (
