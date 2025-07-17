@@ -11,7 +11,7 @@ const renderWardInfo = (info) => {
    console.log(info);
 
    return isObject(info) ? (
-      <li key={info}>
+      <li key={info.des}>
          {info.des}
          <ul style={{ listStyle: `circle` }}>{info.list && info.list.map((l) => <li key={l}>{l}</li>)}</ul>
       </li>
@@ -78,7 +78,7 @@ const TrangPhuongXa = () => {
                      {Array.isArray(ward.economy) ? (
                         <ul>
                            {ward.economy.map((l) => (
-                              <li key={l}>{l}</li>
+                              renderWardInfo(l)
                            ))}
                         </ul>
                      ) : (
