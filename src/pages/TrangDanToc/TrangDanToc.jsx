@@ -18,7 +18,7 @@ const TrangDanToc = () => {
             <p><strong>Dân số:</strong> {danToc.thong_tin_chung.dan_so || "Không rõ"}</p>
             <p>
               <strong>Ngôn ngữ:</strong>{" "}
-              {danToc.thong_tin_chung.ngon_ngu?.match(/ngữ hệ[^,.。；;:]*/i)?.[0] || "Không rõ"}
+              {danToc.thong_tin_chung.ngon_ngu?.match(/ngữ hệ[^,.;:{}）)」】]*/i)?.[0] || "Không rõ"}
             </p>
             <NavLink to={`/dan-toc/${danToc.id}`}>Xem thêm</NavLink>
           </div>
