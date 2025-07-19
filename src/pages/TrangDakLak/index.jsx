@@ -51,7 +51,7 @@ const TrangDakLak = () => {
                         {newList.map((p) => (
                            <Button appearance="link" key={p.name}>
                               <PageEndIcon />{" "}
-                              <NavLink to={`/phuong-xa/${p.id}`} className="ward-item">
+                              <NavLink to={`/dak-lak/phuong-xa/${p.id}`} className="ward-item">
                                  {p.name}
                               </NavLink>
                            </Button>
