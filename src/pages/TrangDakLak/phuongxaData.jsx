@@ -677,23 +677,18 @@ const phuongxaDakLak = [
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Krông Búk và xã Ea Kly thành xã mới có tên gọi là xã Ea Kly.`,
       square: `Diện tích: 42 km2`,
       population: `Dân số: 12 000 người`,
-      ethnic: [
-         `Chủ yếu là người Kinh chiếm khoảng 85–90%.`,
-         `Ngoài ra có cộng đồng Ê Đê, Tày, Nùng sinh sống rải rác`,
-
-      ],
+      ethnic: [`Chủ yếu là người Kinh chiếm khoảng 85–90%.`, `Ngoài ra có cộng đồng Ê Đê, Tày, Nùng sinh sống rải rác`],
       location: [
          `Phía Đông: giáp với Ea Kar`,
          `Phía Tây: giáp với xã Ea Phê`,
          `Phía Nam: giáp với xã Vụ Bổn`,
          `Phía Bắc: giáp với xã Ea Drông`,
-
       ],
       economy: `Ea Kly là xã trọng điểm phát triển nông nghiệp của huyện Krông Pắc: cà phê, hồ tiêu, sầu riêng, bơ…Một số hộ sản xuất rau màu, cây ăn quả ngắn ngày cung cấp cho thị trường địa phương.`,
       info: [
          `Một số buôn duy trì cồng chiêng, lễ hội mừng lúa mới, lễ cúng bến nước, sinh hoạt văn hoá cộng đồng tại Nhà văn hoá thôn.`,
          `Khu Hồ Ea Kao là dự án du lịch sinh thái nổi bật trong vùng.`,
-      ]
+      ],
    },
    {
       id: 30,
@@ -706,7 +701,6 @@ const phuongxaDakLak = [
       ethnic: [
          `Thành phần dân tộc đa dạng: người Kinh chiếm phần lớn (~85–90%).`,
          `Ngoài ra có cộng đồng Ê Đê, M’nông, Tày, Nùng, Dao — chủ yếu là di dân kinh tế mới, một phần là cư dân bản địa Ê Đê.`,
-
       ],
       location: [
          `Phía Bắc: giáp với xã Phú Xuân `,
@@ -742,13 +736,11 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Cư Pui`,
          `Ph phía Tây: giáp với xã Ea kly và xã Vụ Bổn `,
       ],
-      economy: `Kinh tế xã Ea Ô chủ yếu dựa vào nông – lâm nghiệp: Cà phê là cây trồng chủ lực, diện tích lớn, đem lại nguồn thu nhập chính, phát triển thêm hồ tiêu, điều, sầu riêng, bơ theo hướng đa dạng hoá cây trồng.Một số hộ canh tác lúa nước, hoa màu ven suối, rẫy.`
-      ,
+      economy: `Kinh tế xã Ea Ô chủ yếu dựa vào nông – lâm nghiệp: Cà phê là cây trồng chủ lực, diện tích lớn, đem lại nguồn thu nhập chính, phát triển thêm hồ tiêu, điều, sầu riêng, bơ theo hướng đa dạng hoá cây trồng.Một số hộ canh tác lúa nước, hoa màu ven suối, rẫy.`,
       info: [
          `Văn hoá cộng đồng đậm nét văn hoá Tây Nguyên: cồng chiêng, nhà dài Ê Đê, lễ hội truyền thống vẫn còn hiện diện tại các buôn đồng bào.`,
          ` Một số thôn, buôn có đội chiêng, đội múa dân gian, duy trì truyền thống kể khan, hát dân ca Ê Đê.`,
          `Các lễ hội mừng lúa mới, lễ cúng bến nước thường được tổ chức định kỳ, nhất là vào cuối mùa thu hoạch.`,
-
       ],
    },
    {
@@ -759,10 +751,7 @@ const phuongxaDakLak = [
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Ea Knốp và các xã Ea Tih, Ea Sô, Ea Sar thành xã mới có tên gọi là xã Ea Knốp.`,
       square: `Diện tích: khoảng 250 km²`,
       population: `Dân số: khoảng 35,000 người`,
-      ethnic: [
-         `Người Kinh chiếm phần lớn (~75–80%).`,
-         `Đồng bào dân tộc thiểu số gồm: Ê Đê, M’nông, Tày, Nùng, Dao.`,
-      ],
+      ethnic: [`Người Kinh chiếm phần lớn (~75–80%).`, `Đồng bào dân tộc thiểu số gồm: Ê Đê, M’nông, Tày, Nùng, Dao.`],
       location: [
          `Phía đông: giáp với xã Ea Ly và Giáp với xã Cư Prao`,
          `Phía phía tây: giáp với xã Cư Prao`,
@@ -786,23 +775,17 @@ const phuongxaDakLak = [
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Bông và xã Cư Yang thành xã mới có tên gọi là xã Cư Yang.`,
       square: `Diện tích: 149,43 km²`,
       population: `Dân số: với gần 16.682 người .`,
-      ethnic: [
-         `Người Kinh chiếm khoảng 60–65%.`,
-         `Cộng đồng đồng bào Ê Đê, M’nông, cùng một số nhóm Tày, Nùng`,
-
-      ],
+      ethnic: [`Người Kinh chiếm khoảng 60–65%.`, `Cộng đồng đồng bào Ê Đê, M’nông, cùng một số nhóm Tày, Nùng`],
       location: [
          `Phía Bắc: giáp với xã Ea păl`,
          `Phía Đông: giáp với xã Krông á`,
          `Phía Nam: giáp với xã Cư Pui`,
          `Phía Tây: giáp với xã Ea Ô`,
-
       ],
       economy: `Nông nghiệp vẫn là ngành kinh tế chủ đạo, với các loại cây trồng như cà phê, hồ tiêu và lúa nước, nhưng đi kèm với đó là sự phát triển của hạ tầng giao thông, đô thị hóa và đa dạng văn hóa `,
       info: [
          `Các buôn Ê Đê, M’nông vẫn duy trì nhà dài, cồng chiêng, kể khan.`,
          `Lễ mừng lúa mới, lễ cúng bến nước được cộng đồng tổ chức vào vụ thu hoạch.`,
-
       ],
    },
    {
@@ -819,20 +802,17 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Ea Ô, xã Cư Yang và xã Krông á`,
          `Phía Đông: giáp với xã Cư Prao, M’Drắk và xã Krông á`,
          `Phía Tây: giáp với xã Ea Kar và xã Ea Ô`,
-
       ],
       economy: [
          `Chuyển đổi cơ cấu cây trồng: Xã Ea Păl đang khuyến khích người dân chuyển đổi sang các loại cây trồng có giá trị kinh tế cao, phù hợp với thổ nhưỡng và điều kiện địa phương như sầu riêng, bơ, cà phê, và các loại cây ăn trái khác. `,
          `Ứng dụng công nghệ: Các mô hình sản xuất nông nghiệp ứng dụng công nghệ cao như tưới nhỏ giọt, sử dụng giống mới, và quản lý dịch bệnh được đẩy mạnh, giúp tăng năng suất và chất lượng sản phẩm. `,
          `Chăn nuôi: Xã cũng phát triển các mô hình chăn nuôi theo hướng bán công nghiệp, đặc biệt là chăn nuôi bò, lợn, và gia cầm, góp phần đa dạng hóa nguồn thu nhập và tạo việc làm. `,
-
       ],
       info: [
          `Lễ hội: Các lễ hội truyền thống như lễ hội cồng chiêng, lễ hội mừng lúa mới, lễ hội cầu mùa,... vẫn được duy trì và tổ chức định kỳ, thu hút sự tham gia của đông đảo người dân và du khách. `,
          `Nghệ thuật: Nghệ thuật cồng chiêng, múa xoang, hát then, hát đối đáp,... vẫn được các nghệ nhân truyền dạy cho thế hệ trẻ, góp phần bảo tồn và phát huy các giá trị văn hóa truyền thống.`,
          `Trang phục: Các dân tộc vẫn giữ gìn và mặc trang phục truyền thống trong các dịp lễ hội, sinh hoạt cộng đồng, thể hiện bản sắc văn hóa riêng của mình.`,
          `Ẩm thực: Các món ăn truyền thống như cơm lam, rượu cần, canh thụt, các món ăn được chế biến từ các sản vật địa phương vẫn được người dân yêu thích và lưu truyền.`,
-
       ],
    },
    {
@@ -855,7 +835,7 @@ const phuongxaDakLak = [
          `Du lịch sinh thái và văn hóa: Xã M’Đrắk nằm gần các danh thắng như đèo Phượng Hoàng và thác Đray K’nao, nổi tiếng với cảnh quan thiên nhiên hùng vĩ. Các buôn làng truyền thống của người Êđê và M’nông tại xã cũng là điểm đến hấp dẫn cho du khách muốn khám phá văn hóa Tây Nguyên, với các hoạt động như trải nghiệm cồng chiêng và nghề dệt thổ cẩm.`,
          `Hạ tầng giao thông hỗ trợ phát triển: Quốc lộ 26 và các tuyến đường liên xã như Tỉnh lộ 13 được nâng cấp, giúp xã M’Đrắk kết nối dễ dàng với các khu vực lân cận. Hạ tầng giao thông cải thiện không chỉ hỗ trợ vận chuyển nông sản mà còn tạo điều kiện cho du lịch phát triển, thu hút du khách từ các tỉnh như Khánh Hòa và Phú Yên.`,
       ],
-      info: `Cộng đồng dân cư đa dạng: Dân cư tại xã M’Đrắk bao gồm người Kinh (chiếm hơn 50%), cùng các dân tộc thiểu số như Êđê, Tày, Nùng, và M’nông, tạo nên một cộng đồng đa dạng về văn hóa.`
+      info: `Cộng đồng dân cư đa dạng: Dân cư tại xã M’Đrắk bao gồm người Kinh (chiếm hơn 50%), cùng các dân tộc thiểu số như Êđê, Tày, Nùng, và M’nông, tạo nên một cộng đồng đa dạng về văn hóa.`,
    },
    {
       id: 36,
@@ -892,17 +872,14 @@ const phuongxaDakLak = [
          `Tây: giáp với với xã M’ Drắk`,
          `Nam: giáp với với xã Ea Trang `,
          `Bắc: giáp với với xã Ea Riêng`,
-
       ],
       economy: [
          `Nông nghiệp là trụ cột: xã có thế mạnh về nông nghiệp, với các cây trồng chủ lực như cà phê, tiêu, lúa nước. Sau sáp nhập, việc mở rộng diện tích canh tác, ứng dụng khoa học kỹ thuật vào sản xuất có thể được đẩy mạnh.`,
          `Tiềm năng phát triển: Việc sáp nhập có thể thu hút đầu tư, phát triển các ngành nghề phụ trợ nông nghiệp, dịch vụ, du lịch.`,
-
       ],
       info: [
          `Bản sắc văn hóa: Xã sau sáp nhập mang đậm bản sắc văn hóa truyền thống của đồng bào dân tộc thiểu số, với các lễ hội, phong tục tập quán độc đáo.`,
          `Bảo tồn và phát huy: Việc bảo tồn và phát huy các giá trị văn hóa truyền thống cần được chú trọng, đồng thời kết hợp với việc giao lưu, hội nhập văn hóa để làm phong phú thêm đời sống tinh thần của người dân.`,
-
       ],
    },
    {
@@ -919,18 +896,15 @@ const phuongxaDakLak = [
          `phía Nam: giáp với tỉnh Khánh Hòa `,
          `phía Đông: giáp với tỉnh Khánh Hòa, xã Ea trang và xã Cư M’ta`,
          `phía Tây: giáp với xã Cư yang, xã Yang Mao, xã Cư Pui `,
-
       ],
       economy: [
          `Quy mô sản xuất lớn hơn: Việc sáp nhập có thể tạo ra một đơn vị hành chính lớn hơn, thu hút đầu tư và phát triển các mô hình kinh tế quy mô lớn, đặc biệt là trong lĩnh vực nông nghiệp (cà phê, hồ tiêu, lúa).`,
          `Đa dạng hóa cây trồng, vật nuôi: Có thể tận dụng lợi thế của từng địa phương để phát triển các loại cây trồng, vật nuôi phù hợp với điều kiện tự nhiên và thị trường.`,
          `Phát triển ngành nghề mới: Mở ra cơ hội phát triển các ngành nghề mới, dịch vụ, du lịch, tiểu thủ công nghiệp.`,
-
       ],
       info: [
          `Bản sắc văn hóa Êđê: Người Êđê tại Cư San nổi tiếng với các lễ hội truyền thống như lễ cúng bến nước, lễ mừng lúa mới, và nghệ thuật dệt thổ cẩm. Các lớp truyền dạy kỹ năng dệt và diễn tấu cồng chiêng đã giúp thế hệ trẻ tiếp nối di sản văn hóa, đảm bảo những giá trị này không bị mai một.`,
          `Kết nối văn hóa với du lịch: Sau sáp nhập, xã đã tận dụng văn hóa Êđê để phát triển du lịch, với các mô hình homestay và trải nghiệm văn hóa tại buôn làng. Điều này không chỉ mang lại lợi ích kinh tế mà còn giúp giới thiệu di sản Êđê đến du khách trong và ngoài nước.`,
-
       ],
    },
    {
@@ -947,13 +921,11 @@ const phuongxaDakLak = [
          `Phía Tây: giáp với với xã Ea Knốp`,
          `Phía Nam: giáp với với xã Ea Păl`,
          `Phía Bắc: giáp với với xã Ea Ly và xã Ea Knốp `,
-
       ],
       economy: [
          `Nông nghiệp: Cư Prao là xã thuần nông, với các cây trồng chủ lực như mía, đậu, sắn, ngô và rừng nguyên liệu giấy.`,
          `Hạ tầng: Tỉnh lộ 13 nối trung tâm xã với đường 693 đã được hoàn thành, giúp cải thiện giao thông và phục vụ sản xuất nông nghiệp.`,
          `Điện lưới: Toàn bộ các thôn buôn trong xã đã được sử dụng điện lưới quốc gia, đảm bảo nhu cầu sinh hoạt và sản xuất.`,
-
       ],
       info: `Xã sở hữu các giá trị văn hóa vật thể và phi vật thể đặc trưng của vùng Tây Nguyên như cồng chiêng, nhạc cụ truyền thống, kiến trúc nhà sàn, nhà rông, và các lễ hội truyền thống như đâm trâu, đua voi.`,
    },
@@ -971,27 +943,22 @@ const phuongxaDakLak = [
          `Tây: giáp với với xã Dray Bhăng`,
          `Nam: giáp với với xã Liên Sơn Lắk`,
          `Bắc: giáp với với xã Dang Kang và xã Liên Sơn Lắk`,
-
       ],
       economy: [
          `Nông nghiệp chủ đạo: Cà phê là cây trồng chủ lực của xã Hòa Sơn, với diện tích canh tác lớn và sản lượng ổn định. Ngoài ra, các loại cây như hồ tiêu, cao su và cây ăn quả cũng được phát triển, góp phần đa dạng hóa nguồn thu nhập. `,
          `Du lịch sinh thái: Với cảnh quan thiên nhiên hùng vĩ, bao gồm các đồi núi, rừng nguyên sinh và khí hậu mát mẻ, xã Hòa Sơn có tiềm năng phát triển du lịch sinh thái. Các khu vực gần xã, như hồ Lắk hay các buôn làng truyền thống, là những điểm đến thu hút du khách. Việc phát triển du lịch có thể mang lại nguồn thu nhập mới, đồng thời quảng bá văn hóa bản địa.`,
-
       ],
       info: [
          `Xã là nơi sinh sống của nhiều dân tộc thiểu số, trong đó có Ê Đê và Mơ Nông, với những nét văn hóa đặc trưng như cồng chiêng, hát أدung, dệt thổ cẩm, các lễ hội truyền thống và các phong tục tập quán riêng. Sau sáp nhập, các hoạt động bảo tồn và phát huy các giá trị văn hóa này được chú trọng hơn, thông qua việc tổ chức các lớp dạy cồng chiêng, dệt thổ cẩm, các lễ hội truyền thống được tổ chức quy mô hơn, thu hút sự tham gia của nhiều người. `,
          `Các làng nghề truyền thống như dệt thổ cẩm, làm nhạc cụ, làm gốm được hỗ trợ để phát triển, giúp bảo tồn và phát huy các giá trị văn hóa truyền thống, đồng thời tạo thêm việc làm và thu nhập cho người dân. `,
          `Các lễ hội truyền thống được tổ chức quy mô hơn, thu hút sự tham gia của đông đảo người dân và du khách, góp phần quảng bá văn hóa và du lịch của địa phương. `,
-
       ],
    },
    {
       id: 41,
       province: 26,
       name: "Xã Dang Kang",
-      image: [
-         "dang-kang-1.jpg"
-      ],
+      image: ["dang-kang-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hòa Thành (huyện Krông Bông), Cư Kty và Dang Kang thành xã mới có tên gọi là xã Dang Kang.`,
       square: `Diện tích: 134,5 km2`,
       population: `Dân số: 17.269 Người `,
@@ -1001,18 +968,15 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Hòa Sơn và xã Krông Bông`,
          `Phía Đông: giáp với xã Tân Tiến`,
          `Phía Tây: giáp với xã Ea Ning và xã Dray Bhăng`,
-
       ],
       economy: `Nông nghiệp là ngành kinh tế chủ đạo, với các loại cây trồng chính như cà phê, hồ tiêu, lúa nước, và các loại cây ăn quả. `,
-      info: `Xã có tiềm năng phát triển du lịch sinh thái, du lịch văn hóa, với các điểm du lịch như thác Krông Kmar, buôn làng truyền thống. `
+      info: `Xã có tiềm năng phát triển du lịch sinh thái, du lịch văn hóa, với các điểm du lịch như thác Krông Kmar, buôn làng truyền thống. `,
    },
    {
       id: 42,
       province: 26,
       name: "Xã Krông Bông",
-      image: [
-         "krong-bong-1.jpg"
-      ],
+      image: ["krong-bong-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Krông Kmar, xã Hòa Lễ và xã Khuê Ngọc Điền thành xã mới có tên gọi là xã Krông Bông.`,
       square: `Diện tích tự nhiên 44,25 km² `,
       population: `Dân số 7.335 người`,
@@ -1022,22 +986,18 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Liên Sơn Lăk`,
          `Phía Đông: giáp xã Cư Pui `,
          `Phía Tây: giáp xã Hòa Sơn `,
-
       ],
       economy: `Krông Bông là vùng đất có diện tích đất rừng chiếm hai phần ba, với địa hình đồi núi phức tạp, tạo nên những đặc thù riêng trong phát triển kinh tế và nông nghiệp. Sau sáp nhập, xã tiếp tục đẩy mạnh các chương trình phát triển kinh tế, tập trung vào cây công nghiệp và giải quyết vấn đề đất sản xuất cho đồng bào dân tộc thiểu số.`,
       info: [
          `Krông Bông sở hữu cảnh quan thiên nhiên hùng vĩ và nền văn hóa đa dạng, là lợi thế lớn để phát triển du lịch sinh thái và văn hóa như là: Thác Krông Kmar, Vườn quốc gia Chư Yang Sin, Hang đá Đăk Tuôr.`,
          `Các lễ hội truyền thống, âm nhạc dân gian và ẩm thực đặc sắc như cà phê rang củi của người Ê-đê tại buôn K’la tạo nên sức hút văn hóa riêng biệt.`,
-
       ],
    },
    {
       id: 43,
       province: 26,
       name: "Xã Yang Mao",
-      image: [
-         "yang-mao-1.jpg"
-      ],
+      image: ["yang-mao-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Cư Drăm và xã Yang Mao thành xã mới có tên gọi là xã Yang Mao.`,
       square: `Diện tích: 562.08 km^2`,
       population: `Dân số: 8682 `,
@@ -1047,27 +1007,22 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với tỉnh Lâm Đồng `,
          `Phía Đông: giáp với tỉnh Khánh Hòa`,
          `Phía Tây: giáp với xã Cư Pui và xã Liên Sơn Lăk`,
-
       ],
       economy: [
          `Nông nghiệp – trụ cột kinh tế: xã chủ yếu phát triển nông nghiệp với các cây trồng như cà phê, hồ tiêu và cây ăn quả. Sau sáp nhập, các chương trình hỗ trợ vốn vay từ Ngân hàng Chính sách Xã hội đã giúp người dân mở rộng sản xuất, áp dụng kỹ thuật canh tác hiện đại, từ đó nâng cao năng suất và chất lượng nông sản.`,
          `Du lịch cộng đồng: Với văn hóa M’nông phong phú, Yang Tao đang phát triển du lịch cộng đồng, thu hút du khách qua các hoạt động trải nghiệm như học làm gốm, diễn tấu cồng chiêng. Các dự án thuộc Chương trình 1719 đã hỗ trợ đào tạo nghề truyền thống, giúp người dân có thêm thu nhập từ du lịch.`,
-
       ],
       info: [
          `Di sản văn hóa M’nông: Người M’nông tại đây nổi tiếng với các lễ hội truyền thống, nghệ thuật cồng chiêng và nghề làm gốm thủ công. Các lớp truyền dạy kỹ năng diễn tấu chiêng và làm gốm đã được tổ chức, giúp thế hệ trẻ gìn giữ bản sắc dân tộc.`,
          `Lễ hội và sinh hoạt cộng đồng: Các lễ hội như mừng lúa mới, cúng bến nước vẫn được duy trì, tạo nên không khí đoàn kết và gắn bó trong cộng đồng. Những hoạt động này không chỉ mang ý nghĩa tâm linh mà còn là cơ hội để quảng bá văn hóa ra bên ngoài.`,
          `Tích hợp văn hóa với du lịch: Sau sáp nhập, Yang Tao đã tận dụng các giá trị văn hóa để phát triển du lịch, thu hút du khách đến tham quan các buôn làng, trải nghiệm lối sống bản địa và thưởng thức ẩm thực truyền thống như canh lá bép, cơm lam.`,
-
       ],
    },
    {
       id: 44,
       province: 26,
       name: "Xã Cư Pui",
-      image: [
-         "cu-pui-1.jpg"
-      ],
+      image: ["cu-pui-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hòa Phong (huyện Krông Bông) và xã Cư Pui thành xã mới có tên gọi là xã Cư Pui.`,
       square: `Diện tích: 314.17 km2.`,
       population: `Dân số: 23856`,
@@ -1077,18 +1032,15 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Yang Mao `,
          `Phía Đông: giáp với xã Krông Á`,
          `Phía Tây: giáp với xã Krông Bông và xã Vụ Bổn `,
-
       ],
       economy: `Nông nghiệp hộ gia đình: người dân chủ yếu sản xuất cà phê, ngô, lúa nước, xen canh trồng dứa hoặc sầu riêng, kết hợp nuôi gia súc như gà, lợn, bò, Dự án xây dựng cơ sở hạ tầng vùng di cư tự do Ea Lang`,
-      info: `Khu căn cứ kháng chiến tỉnh Đắk Lắk (1965-1975), Hang đá Đắk Tuôr là thắng cảnh tự nhiên, nơi che chở, hoạt động của lực lượng cách mạng trong kháng chiến.`
+      info: `Khu căn cứ kháng chiến tỉnh Đắk Lắk (1965-1975), Hang đá Đắk Tuôr là thắng cảnh tự nhiên, nơi che chở, hoạt động của lực lượng cách mạng trong kháng chiến.`,
    },
    {
       id: 45,
       province: 26,
       name: "Xã Liên Sơn Lắk",
-      image: [
-         "lien-son-lak-1.jpg"
-      ],
+      image: ["lien-son-lak-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Liên Sơn, xã Yang Tao và xã Bông Krang thành xã mới có tên gọi là xã Liên Sơn Lắk.`,
       square: `Diện tích là 12.75 km2`,
       population: `Dân số là 6.671 người`,
@@ -1098,12 +1050,10 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Đắk Liêng, xã Đắk Phơi và xã Krông Nô`,
          `Phía Đông: giáp với xã Yang Mao `,
          `Phía Tây: giáp với xã Dur Kmăl và xã Đắk Liêng`,
-
       ],
       economy: [
          `Nền kinh tế chủ yếu của xã là nông nghiệp, với các loại cây trồng chính như cà phê, hồ tiêu, và cao su. Ngoài ra, chăn nuôi và dịch vụ cũng đóng góp một phần vào tổng giá trị sản xuất của xã. `,
          `Tiềm năng du lịch: Với cảnh quan thiên nhiên tươi đẹp, đặc biệt là Hồ Lắk nổi tiếng, xã Liên Sơn Lắk là điểm đến lý tưởng cho du khách muốn trải nghiệm văn hóa bản địa và khám phá vẻ đẹp Tây Nguyên.`,
-
       ],
       info: [
          `Xã Liên Sơn Lắk là nơi sinh sống của nhiều dân tộc thiểu số, chủ yếu là người M’nông, Ê Đê, và một số dân tộc khác. Ở đây đều giữ gìn những truyền thống lâu đời, tạo nên một cộng đồng đa sắc màu, đầy sinh động.`,
@@ -1112,16 +1062,13 @@ const phuongxaDakLak = [
          `Làng M’nông – Nét Văn Hóa Truyền Thống Đặc Sắc.`,
          `Những lễ hội như lễ hội cồng chiêng, lễ hội ăn trâu, hay các lễ hội mừng mùa vụ luôn là những dịp quan trọng để người dân tụ họp, cầu nguyện cho một năm mới tốt lành và mùa màng bội thu.`,
          `Các món ăn đặc trưng của người M’nông và Ê Đê như cơm lam, thịt nướng, gà nướng, và các món ăn từ nấm, măng rừng. Đặc biệt, món rượu cần.`,
-
       ],
    },
    {
       id: 46,
       province: 26,
       name: "Xã Đắk Liêng",
-      image: [
-         "dak-lieng-1.jpg"
-      ],
+      image: ["dak-lieng-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Buôn Tría, Buôn Triết và Đắk Liêng thành xã mới có tên gọi là xã Đắk Liêng.`,
       square: `Diện tích: 124,5 Km2`,
       population: `Dân số: 21.300 người`,
@@ -1131,28 +1078,23 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Nam Kar và xã Đắk Phơi`,
          `Phía Đông: giáp với xã Liên Sơn Lắk`,
          `Phía Tây: giáp với xã Krông Ana và xã Nam Kar`,
-
       ],
       economy: [
          `Nông nghiệp: Vẫn là ngành kinh tế chủ đạo, với các loại cây trồng như cà phê, hồ tiêu, và lúa nước.`,
          `Phát triển hạ tầng: Các tuyến đường giao thông được nâng cấp, mở rộng, kết nối xã với các khu vực khác, tạo điều kiện thuận lợi cho giao thương.`,
          `Đô thị hóa: Quá trình đô thị hóa diễn ra, đặc biệt là tại trung tâm xã, với việc xây dựng các công trình công cộng và cơ sở hạ tầng.`,
-
       ],
       info: [
          `Xã mang đậm bản sắc văn hóa Tây Nguyên, với sự đa dạng của các dân tộc anh em. `,
          `Lễ hội truyền thống: Các lễ hội như cúng bến nước, mừng lúa mới, và các lễ hội khác được tổ chức thường xuyên. `,
          `Gìn giữ văn hóa: Các giá trị văn hóa truyền thống được bảo tồn và phát huy, bao gồm cả các nghề thủ công truyền thống`,
-
       ],
    },
    {
       id: 47,
       province: 26,
       name: "Xã Nam Ka",
-      image: [
-         "nam-ka-1.jpg"
-      ],
+      image: ["nam-ka-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ea Rbin và xã Nam Ka thành xã mới có tên gọi là xã Nam Ka.`,
       square: `Diện tích: 172,86 Km2`,
       population: `Dân số: 6277 người`,
@@ -1162,13 +1104,11 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với tỉnh Lâm Đồng `,
          `Phía Đông: giáp với xã Đắk Liêng và xã Đắk Phơi`,
          `Phía Tây: giáp với tỉnh Lâm Đồng `,
-
       ],
       economy: [
          `Nông nghiệp: Vẫn là ngành kinh tế chủ đạo, với các loại cây trồng như cà phê, hồ tiêu, và lúa nước.`,
          `Phát triển hạ tầng: Các tuyến đường giao thông được nâng cấp, mở rộng, kết nối xã với các khu vực khác, tạo điều kiện thuận lợi cho giao thương.`,
          `Đô thị hóa: Quá trình đô thị hóa diễn ra, đặc biệt là tại trung tâm xã, với việc xây dựng các công trình công cộng và cơ sở hạ tầng.`,
-
       ],
       info: [
          `Xã Nam Ka có thể là nơi bảo tồn và phát huy các giá trị văn hóa truyền thống của các dân tộc thiểu số, đặc biệt là văn hóa Ê Đê. Việc tổ chức các lễ hội truyền thống, duy trì các nghề thủ công truyền thống và bảo tồn không gian văn hóa cồng chiêng là rất quan trọng.`,
@@ -1179,9 +1119,7 @@ const phuongxaDakLak = [
       id: 48,
       province: 26,
       name: "Xã Đắk Phơi",
-      image: [
-         "dak-phoi-1.jpg"
-      ],
+      image: ["dak-phoi-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Đắk Nuê và xã Đắk Phơi thành xã mới có tên gọi là xã Đắk Phơi `,
       square: `Diện tích: 78,65 Km2`,
       population: `Dân số: 14.842 người`,
@@ -1191,13 +1129,11 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Krông Nô`,
          `Phía Đông: giáp với xã Liên Sơn Lắk`,
          `Phía Tây: giáp với xã Nam Kar`,
-
       ],
       economy: [
          `Nông nghiệp: Vẫn là ngành kinh tế chủ đạo, với các loại cây trồng như cà phê, hồ tiêu, và lúa nước.`,
          `Phát triển hạ tầng: Các tuyến đường giao thông được nâng cấp, mở rộng, kết nối xã với các khu vực khác, tạo điều kiện thuận lợi cho giao thương.`,
          `Đô thị hóa: Quá trình đô thị hóa diễn ra, đặc biệt là tại trung tâm xã, với việc xây dựng các công trình công cộng và cơ sở hạ tầng.`,
-
       ],
       info: [
          `Xã mang đậm bản sắc văn hóa Tây Nguyên, với sự đa dạng của các dân tộc anh em. `,
@@ -1209,9 +1145,7 @@ const phuongxaDakLak = [
       id: 49,
       province: 26,
       name: "Xã Ea Ning",
-      image: [
-         "ea-ning-1.jpg"
-      ],
+      image: ["ea-ning-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Cư Êwi, Ea Hu và Ea Ning thành xã mới có tên gọi là xã Ea Ning.`,
       square: `Diện tích: 83,73 km2`,
       population: `Dân số: 31840`,
@@ -1221,28 +1155,23 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Dang Kang và xã Dray Bhăng`,
          `Phía Đông: giáp với xã Tân Tiến và xã Dang Kang`,
          `Phía Tây: giáp với xã Ea Ktur`,
-
       ],
       economy: [
          `Nông nghiệp bền vững: Xã Ea Ning được biết đến với các mô hình sản xuất nông nghiệp bền vững, đặc biệt là mô hình trồng sầu riêng theo tiêu chuẩn VietGAP. Các chương trình hỗ trợ từ tỉnh đã giúp người dân áp dụng công nghệ tưới nhỏ giọt và các biện pháp chống hạn hiệu quả.`,
          `Thu nhập bình quân: Theo thống kê, thu nhập bình quân đầu người tại xã Ea Ning đã tăng đáng kể sau sáp nhập, đạt khoảng 46,82 triệu đồng/năm vào năm 2024. Điều này phản ánh sự cải thiện trong đời sống kinh tế của người dân.`,
          `Các mô hình kinh tế mới: Ngoài nông nghiệp, xã Ea Ning cũng đang phát triển các mô hình kinh tế khác như chăn nuôi và trồng dâu nuôi tằm. Những mô hình này không chỉ giúp đa dạng hóa nguồn thu nhập mà còn tạo việc làm cho lao động địa phương.`,
-
       ],
       info: [
          `Bản sắc văn hóa Êđê: Xã Ea Ning là nơi lưu giữ nhiều giá trị văn hóa đặc trưng của người Êđê, từ phong tục uống cà phê rang củi đến các lễ hội truyền thống. Không gian văn hóa cồng chiêng Tây Nguyên, được UNESCO công nhận, cũng được duy trì và phát huy tại đây.`,
          `Các sự kiện cộng đồng: Xã thường xuyên tổ chức các sự kiện văn hóa như hội thi thể thao dân tộc, lễ hội cồng chiêng và các hoạt động giao lưu văn hóa. Những sự kiện này không chỉ gắn kết cộng đồng mà còn thu hút du khách đến khám phá.`,
          `Bảo tồn và phát triển: Chính quyền xã Ea Ning đã có nhiều chính sách hỗ trợ các nghệ nhân và nhóm cộng đồng trong việc bảo tồn văn hóa. Các lớp học cồng chiêng và dệt thổ cẩm được tổ chức thường xuyên để truyền dạy cho thế hệ trẻ.`,
-
       ],
    },
    {
       id: 50,
       province: 26,
       name: "Xã Dray Bhăng",
-      image: [
-         "dray-bhang-1.jpg"
-      ],
+      image: ["dray-bhang-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Hòa Hiệp, xã Dray Bhăng và một phần diện tích tự nhiên, quy mô dân số của xã Ea Bhốk thành xã mới có tên gọi là xã Dray Bhăng.`,
       square: `Diện tích 90 km^2`,
       population: `Dân số 20000`,
@@ -1257,15 +1186,26 @@ const phuongxaDakLak = [
          `Nông nghiệp chất lượng cao: Xã Dray Bhăng có đất bazan phù hợp với các cây công nghiệp như cà phê, cao su, và hồ tiêu, vốn là nguồn thu nhập chính của người dân. Các hợp tác xã tại xã, như hợp tác xã cà phê Dray Bhăng, đã áp dụng công nghệ tưới tiêu tiết kiệm nước và canh tác hữu cơ, giúp nâng cao năng suất và chất lượng nông sản, đáp ứng nhu cầu thị trường trong nước và xuất khẩu.`,
          `Du lịch sinh thái và văn hóa: Xã Dray Bhăng sở hữu các điểm đến tiềm năng như thác Dray Sáp, hồ Ea Kao, và các buôn làng truyền thống của người Êđê, như buôn H’ra Ea H’ning. Các hoạt động du lịch như tham quan buôn làng, trải nghiệm lễ hội cồng chiêng, và khám phá cảnh quan thiên nhiên đang được quy hoạch để thu hút du khách, tạo nguồn thu nhập mới cho cộng đồng.`,
       ],
-      info: `Dân cư tại xã Dray Bhăng chủ yếu là người Êđê, cùng với người Kinh và các dân tộc di cư như Tày, Nùng, với hơn 20 dân tộc chung sống. Sự đa dạng văn hóa được thể hiện qua các lễ hội truyền thống như cúng bến nước, diễn tấu cồng chiêng, và nghề dệt thổ cẩm, góp phần bảo tồn bản sắc và tạo tiềm năng cho du lịch văn hóa cộng đồng. `
+      info: `Dân cư tại xã Dray Bhăng chủ yếu là người Êđê, cùng với người Kinh và các dân tộc di cư như Tày, Nùng, với hơn 20 dân tộc chung sống. Sự đa dạng văn hóa được thể hiện qua các lễ hội truyền thống như cúng bến nước, diễn tấu cồng chiêng, và nghề dệt thổ cẩm, góp phần bảo tồn bản sắc và tạo tiềm năng cho du lịch văn hóa cộng đồng. `,
+   },
+   {
+      id: 51,
+      province: 26,
+      name: "Xã Ea Ktur",
+      image: [],
+      introduce: `Chưa có`,
+      square: `Chưa có`,
+      population: `Chưa có`,
+      ethnic: `Chưa có`,
+      location: [],
+      economy: [],
+      info: `Chưa có`,
    },
    {
       id: 52,
       province: 26,
       name: "Xã Krông Ana",
-      image: [
-         "krong-ana-1.jpg"
-      ],
+      image: ["krong-ana-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Buôn Trấp, xã Bình Hòa và xã Quảng Điền thành xã mới có tên gọi là xã Krông Ana.`,
       square: `Diện tích: 80 km².`,
       population: `Dân số: 12.000 người.`,
@@ -1279,7 +1219,6 @@ const phuongxaDakLak = [
       economy: [
          `Nông nghiệp là trụ cột kinh tế: Xã Krông Ana có đất đai màu mỡ, phù hợp cho việc trồng các cây công nghiệp như cà phê, cao su và hồ tiêu.Sau sáp nhập tỉnh, xã đã nhận được các chương trình hỗ trợ nông nghiệp công nghệ cao, giúp tăng năng suất và chất lượng nông sản, đáp ứng nhu cầu thị trường trong và ngoài nước.`,
          `Phát triển du lịch sinh thái: Với cảnh quan thiên nhiên đặc trưng của Tây Nguyên và các giá trị văn hóa bản địa, xã Krông Ana có tiềm năng phát triển du lịch sinh thái.Các dự án homestay và tour trải nghiệm văn hóa Êđê đang được khuyến khích, tận dụng lợi thế từ các con sông Krông Ana và Krông Nô.`,
-
       ],
       info: `Xã Krông Ana là nơi sinh sống của cộng đồng người Êđê, với các lễ hội truyền thống như lễ cúng bến nước và lễ mừng lúa mới được tổ chức thường xuyên. Những hoạt động này không chỉ bảo tồn văn hóa dân tộc mà còn thu hút du khách, góp phần phát triển du lịch văn hóa. `,
    },
@@ -1287,9 +1226,7 @@ const phuongxaDakLak = [
       id: 53,
       province: 26,
       name: "Xã Dur Kmăl",
-      image: [
-         "dur-kmal-1.jpg"
-      ],
+      image: ["dur-kmal-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Băng A Drênh và xã Dur Kmăl thành xã mới có tên gọi là xã Dur Kmăl.`,
       square: `Diện tích: 114,49 km^2`,
       population: `Dân số: 12.594 người.`,
@@ -1310,9 +1247,7 @@ const phuongxaDakLak = [
       id: 54,
       province: 26,
       name: "Xã Ea Na",
-      image: [
-         "ea-na-1.jpg"
-      ],
+      image: ["ea-na-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Ea Bông, Dray Sáp và Ea Na thành xã mới có tên gọi là xã Ea Na.`,
       square: `Diện tích khoảng 134,18 km².`,
       population: `Dân số khoảng 42.164 người `,
@@ -1336,9 +1271,7 @@ const phuongxaDakLak = [
       id: 55,
       province: 26,
       name: "Xã Xuân Thọ",
-      image: [
-         "xuan-tho-1.jpg"
-      ],
+      image: ["xuan-tho-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Xuân Lâm, Xuân Thọ 1 và Xuân Thọ 2 thành xã mới có tên gọi là xã Xuân Thọ.`,
       square: `Diện tích: 59,94 Km2`,
       population: `Dân số: 17.877 người`,
@@ -1348,27 +1281,22 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với xã Tuy An Bắc và xã Tuy An Đông `,
          `Phía đôn: giáp với xã Xuân Lộc, xã Xuân Cảnh , phường Sông Cầu và Phường Xuân Đài `,
          `Phía Tây: giáp với xã Xuân Lãnh và xã Đồng Xuân `,
-
       ],
       economy: [
          `Phát triển nông nghiệp đặc trưng: Xã Xuân Thọ có đất đai phù hợp để canh tác các loại cây trồng như chè, cà phê, cây ăn quả và lúa nước, giúp nâng cao thu nhập cho người dân và xây dựng thương hiệu nông sản đặc trưng của thị xã Sông Cầu.`,
          `Tiềm năng lâm nghiệp bền vững: Với các khu rừng nguyên sinh từ xã Xuân Lâm, xã Xuân Thọ có thể phát triển mô hình lâm nghiệp kết hợp nông nghiệp, như trồng rừng kinh tế và khai thác sản phẩm phụ từ rừng, góp phần bảo vệ môi trường và tạo việc làm.`,
          `Kết nối kinh tế với thị xã Sông Cầu: Vị trí gần các tuyến giao thông chính của thị xã Sông Cầu giúp xã Xuân Thọ dễ dàng vận chuyển nông sản đến các thị trường lớn, thúc đẩy giao thương và thu hút đầu tư từ các doanh nghiệp trong khu vực.`,
-
       ],
       info: [
          `Di sản văn hóa phong phú: Xã Xuân Thọ kế thừa các giá trị văn hóa từ xã Xuân Lâm, bao gồm các lễ hội truyền thống như lễ hội cồng chiêng và các phong tục dân gian, tạo nên bản sắc văn hóa đặc trưng, thu hút du khách khám phá đời sống văn hóa miền núi Phú Yên.`,
          `Sự kiện văn hóa sôi nổi: Xã Xuân Thọ tổ chức nhiều sự kiện văn hóa như hội chợ nông sản, lễ hội dân gian và các chương trình giao lưu văn hóa, góp phần quảng bá hình ảnh khu vực như một điểm đến văn hóa và du lịch hấp dẫn của thị xã Sông Cầu.`,
-
       ],
    },
    {
       id: 56,
       province: 26,
       name: "Xã Xuân Cảnh",
-      image: [
-         "xuan-canh-1.jpg"
-      ],
+      image: ["xuan-canh-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Xuân Bình và xã Xuân Cảnh thành xã mới có tên gọi là xã Xuân Cảnh.`,
       square: `Diện tích: 83,72 km².`,
       population: `Dân số: 24.630 người`,
@@ -1378,27 +1306,22 @@ const phuongxaDakLak = [
          `Phía Nam: giáp phường Sông Cầu`,
          `Phía Đông: giáp biển `,
          `Phía Tây: giáp xã Xuân thọ`,
-
       ],
       economy: [
          `Nông – Thủy sản: Khai thác biển và đầm Cù Mông: đánh bắt, nuôi trồng thủy sản. Đan nghề truyền thống (mò o) và khai thác các sản phẩm từ đầm.`,
          `Du lịch biển – sinh thái: Với đầm Cù Mông, bãi Tràm, bãi Nồm – địa bàn có tiềm năng lớn để phát triển du lịch cộng đồng, nghỉ dưỡng ven đầm, trải nghiệm văn hóa nghề biển `,
          `Thương mại – dịch vụ – đô thị hóa: Xuân Cảnh nằm cách trung tâm Sông Cầu 12 km trên Quốc lộ 1D – thuận lợi giao thương, phát triển dịch vụ.`,
-
       ],
       info: [
          `Văn hóa – di tích: Làng nghề truyền thống như đan bóng mò o tại thôn Hòa Thạnh. Lễ hội cầu ngư, không gian cộng đồng đậm nét văn hóa biển. Xuân Cảnh là điểm giao thoa giữa các vùng ven biển và đầm, có tiềm năng phát triển du lịch kết hợp văn hoá.`,
          `Ẩm thực & đặc sản: Hải sản tươi sống từ biển Đông. Các món đặc sản miền biển như bánh canh chả cá, ghẹ rang... kết hợp sản phẩm đầm như cá, nghêu, sò.`,
-
       ],
    },
    {
       id: 57,
       province: 26,
       name: "Xã Xuân Lộc",
-      image: [
-         "xuan-loc-1.jpg"
-      ],
+      image: ["xuan-loc-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Xuân Hải và xã Xuân Lộc thành xã mới có tên gọi là xã Xuân Lộc.`,
       square: `Diện tích: 33,08 Km2`,
       population: `Dân số: 25.448 người`,
@@ -1408,29 +1331,24 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Xuân Cảnh `,
          `Phía Đông: giáp biển `,
          `Phía Tây: giáp xã Xuân Thọ `,
-
       ],
       economy: [
          `Phát triển nông nghiệp đặc sản: Xã Xuân Lộc có đất đai màu mỡ từ xã Xuân Lộc cũ, phù hợp cho việc canh tác các loại cây trồng như lúa, cây ăn quả và cây công nghiệp ngắn ngày, giúp nâng cao thu nhập và xây dựng thương hiệu nông sản đặc trưng.`,
          `Tiềm năng du lịch ven biển: Với các bãi biển đẹp từ xã Xuân Hải, xã Xuân Lộc có thể phát triển các loại hình du lịch nghỉ dưỡng, sinh thái và khám phá văn hóa làng chài, thu hút du khách.`,
          `Ngành thủy sản bền vững: Xã mang lại nguồn lực thủy sản dồi dào, hỗ trợ phát triển các mô hình nuôi trồng tôm, cá và khai thác hải sản, góp phần tạo việc làm và tăng cường kinh tế cho các cộng đồng ven biển trong xã Xuân Lộc.`,
          `Kết nối kinh tế vùng: Vị trí gần các tuyến giao thông chính của thị xã Sông Cầu giúp xã Xuân Lộc dễ dàng vận chuyển nông sản và thủy sản đến các thị trường lớn, thúc đẩy giao thương và thu hút đầu tư từ các doanh nghiệp trong và ngoài tỉnh.`,
-
       ],
       info: [
          `Di sản văn hóa đặc trưng: Xã Xuân Lộc kế thừa các giá trị văn hóa từ xã Xuân Hải, bao gồm các lễ hội cầu ngư và phong tục truyền thống của ngư dân, tạo nên một bản sắc văn hóa phong phú, thu hút du khách đến khám phá đời sống văn hóa vùng biển Phú Yên.`,
          `Cộng đồng đoàn kết bền vững: Sự sáp nhập đã tạo nên một cộng đồng đa dạng, từ các thôn nông nghiệp của xã Xuân Lộc đến các làng chài ven biển của xã Xuân Hải, thúc đẩy sự đoàn kết và hỗ trợ lẫn nhau trong các hoạt động kinh tế và văn hóa.`,
          `Sự kiện văn hóa nổi bật: Xã Xuân Lộc tổ chức nhiều sự kiện văn hóa như hội chợ nông sản, lễ hội dân gian và các chương trình giao lưu văn hóa, góp phần quảng bá hình ảnh khu vực như một điểm đến văn hóa và du lịch hấp dẫn của thị xã Sông Cầu.`,
-
       ],
    },
    {
       id: 58,
       province: 26,
       name: "Xã Hoà Xuân",
-      image: [
-         "hoa-xuan-1.jpg"
-      ],
+      image: ["hoa-xuan-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Hòa Tâm, Hòa Xuân Đông và Hòa Xuân Nam thành xã mới có tên gọi là xã Hòa Xuân.`,
       square: `Diện tích: khoảng 129,33 km²`,
       population: `Dân số: khoảng 22.962 người`,
@@ -1440,28 +1358,23 @@ const phuongxaDakLak = [
          `Phía Nam: giáp với biển và tỉnh Khánh Hòa `,
          `Phía Đông: giáp với biển `,
          `Phía Tây: giáp với xã Hòa Thịnh`,
-
       ],
       economy: [
          `Thủy sản, Hải sản và Nuôi trồng thủy sản: Kinh tế biển là mũi nhọn.`,
          `Du lịch biển và sinh thái: Kết hợp với cảnh quan như Đầm Cù Mông, đầm phá, bãi tắm hoang sơ, thúc đẩy mô hình du lịch cộng đồng, homestay, trải nghiệm văn hóa biển.`,
          `Thương mại, Dịch vụ và Hạ tầng: Gần Quốc lộ 1 và 1D, xã hưởng lợi từ phát triển đô thị ven biển, dịch vụ, logistics, vận chuyển… Sông Cầu chuẩn bị trở thành thành phố nên khu vực xã cũng được nâng cấp hạ tầng mạnh mẽ.`,
-
       ],
       info: [
          `Văn hóa và Di tích: Xã sở hữu các đình làng, lễ hội truyền thống và văn hóa buôn làng, kết hợp giữa người miền biển và văn hóa Tây Nguyên. Các lễ hội như lễ hội cầu ngư, lễ hội sông nước vẫn được duy trì.`,
          `Món ăn và Đặc sản: Hải sản tươi sống như ghẹ, cua, sò huyết: đặc sản từ vùng ven biển và đầm phá Sông Cầu. Các món địa phương: gỏi cá mai, bún mực, bánh ướt lòng heo, cháo hàu – từng được xếp vào top đặc sản Phú Yên. `,
          `Công nghiệp nước mắm truyền thống là đặc sản nổi tiếng.`,
-
       ],
    },
    {
       id: 59,
       province: 26,
       name: "Xã Tuy An Bắc",
-      image: [
-         "tuy-an-bac-1.jpg"
-      ],
+      image: ["tuy-an-bac-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Chí Thạnh, xã An Dân và xã An Định thành xã mới có tên gọi là xã Tuy An Bắc.`,
       square: `Diện tích: khoảng 52,32 km²`,
       population: `Dân số: khoảng 26.174 người`,
@@ -1478,16 +1391,13 @@ const phuongxaDakLak = [
          `Thủy sản – Chế biến: Với vị trí ven biển và cảng Chí Thạnh, hoạt động khai thác, nuôi trồng và chế biến thủy sản, hải sản đóng vai trò chủ lực.`,
          `Du lịch biển – Sinh thái đầm phá: Liền kề khu vực đầm Ô Loan, Gành Đá Đĩa – tạo điều kiện để phát triển du lịch cộng đồng, ẩm thực biển, trải nghiệm văn hóa địa phương.`,
       ],
-      info: [
-      ],
+      info: [],
    },
    {
       id: 60,
       province: 26,
       name: "Xã Tuy An Đông",
-      image: [
-         "tuy-an-dong-1.jpg"
-      ],
+      image: ["tuy-an-dong-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Ninh Đông, An Ninh Tây và An Thạch thành xã mới có tên gọi là xã Tuy An Đông.`,
       square: `Diện tích 45,67 km²`,
       population: `Dân số 18.000 người`,
@@ -1500,23 +1410,24 @@ const phuongxaDakLak = [
       ],
       economy: [
          {
-            des: "Nông nghiệp – Thủy sản", list: [
+            des: "Nông nghiệp – Thủy sản",
+            list: [
                `Đất đai chủ yếu là đồng bằng ven biển, thuận lợi trồng lúa nước, sắn, cây ăn quả.`,
-               `Thủy sản nội đồng và ven sông–biển đang phát triển: cá, tôm, thủy sản nuôi trồng.`
-
-            ]
+               `Thủy sản nội đồng và ven sông–biển đang phát triển: cá, tôm, thủy sản nuôi trồng.`,
+            ],
          },
          {
-            des: "Giao thông và thương mại – dịch vụ", list: [
+            des: "Giao thông và thương mại – dịch vụ",
+            list: [
                `Nằm gần Quốc lộ 1 và đường tỉnh, thuận lợi giao thông liên vùng.`,
-               `Trung tâm hành chính xã tiếp nhận dịch vụ hành chính công và hỗ trợ dân cư với hơn 18.000 người.`
-
-            ]
+               `Trung tâm hành chính xã tiếp nhận dịch vụ hành chính công và hỗ trợ dân cư với hơn 18.000 người.`,
+            ],
          },
          {
-            des: "Du lịch văn hóa & sinh thái", list: [
-               `Gần các điểm đến như Đầm Ô Loan, Gành Đá Đĩa, xã mới có tiềm năng phát triển du lịch cộng đồng, sinh thái và thúc đẩy văn hóa bản địa.`
-            ]
+            des: "Du lịch văn hóa & sinh thái",
+            list: [
+               `Gần các điểm đến như Đầm Ô Loan, Gành Đá Đĩa, xã mới có tiềm năng phát triển du lịch cộng đồng, sinh thái và thúc đẩy văn hóa bản địa.`,
+            ],
          },
       ],
       info: [
@@ -1525,25 +1436,23 @@ const phuongxaDakLak = [
             list: [
                `Vùng trung tâm nông thôn mới với lễ hội truyền thống điển hình, văn hóa làng xã đậm đà bản sắc.`,
                `Các công trình mới tập trung về trung tâm hành chính xã — tại UBND An Ninh Tây `,
-            ]
+            ],
          },
          {
-            des: 'Ẩm thực & đặc sản:',
+            des: "Ẩm thực & đặc sản:",
             list: [
                `Sinh sống trên nền đất ven biển, xã sản sinh nhiều hải sản tươi: cá, tôm, ghẹ.`,
                `Nông sản: lúa, sắn, cây ăn quả, cùng các mặt hàng nội đồng khác.`,
                `Các món ăn dân dã như gỏi cá, canh chua, đặc sản Chăm phản ánh cổ truyền văn hóa & ẩm thực miền Trung`,
-            ]
-         }
+            ],
+         },
       ],
    },
    {
       id: 61,
       province: 26,
       name: "Xã Ô Loan",
-      image: [
-         "o-loan-1.jpg"
-      ],
+      image: ["o-loan-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Hiệp, An Hòa Hải và An Cư thành xã mới có tên gọi là xã Ô Loan.`,
       square: `Diện tích: 103,48 km².`,
       population: `Dân số: khoảng 40.278 người`,
@@ -1553,14 +1462,12 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Tuy An Nam `,
          `Phía Đông: giáp biển `,
          `Phía Tây: giáp xã Tuy An Tây và xã Tuy An Bắc `,
-
       ],
       economy: [
          `Thủy sản – Nuôi & khai thác hải sản: Vùng đầm Ô Loan được quy hoạch phát triển thành trung tâm nuôi trồng, thuỷ sản chiến lược.`,
          `Nông nghiệp & trồng trọt: Đất ven biển phù hợp cho trồng lúa, màu, kết hợp thủy sản và phát triển vùng nông – đầm đa canh.`,
          `Thương mại – Dịch vụ hành chính: Với dân số lớn và trụ sở tại An Hòa Hải, các dịch vụ hành chính, thương mại, giáo dục được củng cố mạnh.`,
          `Du lịch sinh thái – cộng đồng: Nằm trong quy hoạch du lịch xung quanh đầm Ô Loan, xã có tiềm năng phát triển homestay, trải nghiệm văn hóa biển.`,
-
       ],
       info: [
          {
@@ -1568,26 +1475,22 @@ const phuongxaDakLak = [
             list: [
                `Gồm các làng, buôn ven đầm Ô Loan với nét văn hoá nông thôn và biển đặc trưng.`,
                `Khu vực nằm trong kế hoạch phát triển đầm Ô Loan – có tiềm năng du lịch sinh thái; có lễ hội dân gian, chợ truyền thống.`,
-
-            ]
+            ],
          },
          {
             des: "Đặc sản & ẩm thực",
             list: [
                `Nhiều thủy hải sản tươi: cá, tôm, ghẹ nuôi & khai thác quanh đầm.`,
                `Ẩm thực kết hợp “đồng – đầm”: gỏi cá, canh chua, các sản vật biển và đồng quê đặc trưng.`,
-
-            ]
-         }
+            ],
+         },
       ],
    },
    {
       id: 62,
       province: 26,
       name: "Xã Tuy An Nam",
-      image: [
-         "tuy-an-nam-1.jpg"
-      ],
+      image: ["tuy-an-nam-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã An Thọ, An Mỹ và An Chấn thành xã mới có tên gọi là xã Tuy An Nam.`,
       square: `Diện tích: khoảng 69,99 km².`,
       population: `Dân số: khoảng 29.805 người.`,
@@ -1597,18 +1500,15 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Phú Hòa 2 và phường Bình Kiến `,
          `Phía Đông: giáp biển `,
          `Phía Tây: giáp xã Vân Hòa `,
-
       ],
       economy: [
          `Nông nghiệp – Thủy sản: Đất rộng, xanh nước, thuận lợi cho các hoạt động đồng ruộng, kết hợp nuôi trồng thủy sản ven biển, sông suối.`,
          `Thương mại – Dịch vụ`,
          `Du lịch cộng đồng & sinh thái: Gần đầm Ô Loan, cách Gành Đá Đĩa và các di tích danh thắng hàng đầu-thấu địa điểm phát triển du lịch biển kết hợp văn hóa cộng đồng.`,
-
       ],
       info: [
          `Văn hóa & di tích địa phương: Văn hóa nông thôn miền Trung, chuyện chăn nuôi – nghề biển nhẹ nhàng, cộng đồng gắn bó. Xã có di tích địa phương như đình làng, chùa, nhà văn hóa thôn.`,
          `Ẩm thực & đặc sản: Thủy hải sản từ vùng ven biển/hải đảo: cá, tôm, ghẹ...Đặc sản quê như gỏi cá, canh chua, cùng với ẩm thực từ đồng ruộng trung du.`,
-
       ],
    },
    {
@@ -1625,7 +1525,6 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Vân Hòa và Xã Tuy An Nam `,
          `Phía Đông: giáp xã Ô Loan và xã Tuy An Nam `,
          `Phía Tây: giáp xã Xuân Phước và xã Vân Hòa`,
-
       ],
       economy: [
          {
@@ -1634,14 +1533,14 @@ const phuongxaDakLak = [
                `Đất đai hỗ trợ trồng lúa nước, sắn, cây ăn quả trong nội đồng.`,
                `Hoạt động nuôi trồng và khai thác thủy sản ven biển, sông suối – nền tảng kinh tế chủ lực.`,
                `Giao thông thuận lợi – gần Quốc lộ 1A, đường sắt Bắc–Nam hỗ trợ vận chuyển nông sản, kết nối với đô thị Tuy Hòa.`,
-            ]
+            ],
          },
          {
             des: `Du lịch sinh thái & văn hóa`,
             list: [
                `Vị trí giáp bờ biển và gần các điểm du lịch nổi tiếng (Gành Đá Đĩa, đầm Ô Loan…), có tiềm năng phát triển du lịch cộng đồng, homestay và trải nghiệm văn hóa truyền thống.   `,
-            ]
-         }
+            ],
+         },
       ],
       info: [
          {
@@ -1649,17 +1548,15 @@ const phuongxaDakLak = [
             list: [
                `Các thôn làng phát huy truyền thống ven biển và đồng bằng.`,
                `Lễ hội truyền thống địa phương từ các xã cũ (An Nghiệp, An Xuân, An Lĩnh).`,
-
-            ]
+            ],
          },
          {
             des: `Ẩm thực & đặc sản`,
             list: [
                `Nổi bật với hải sản tươi: tôm, cá, ghẹ, đặc biệt từ vùng ven biển lân cận.`,
                `Các món dân dã: gỏi cá, canh chua, kết hợp với ẩm thực nông thôn trung du (rau, trái cây…) đặc trưng vùng Tuy An.`,
-
-            ]
-         }
+            ],
+         },
       ],
    },
    {
@@ -1681,7 +1578,6 @@ const phuongxaDakLak = [
          `Nông nghiệp – trồng cây ăn quả & lúa nước: Đất phù sa ven sông Đà Rằng, phù hợp trồng lúa, cam, bưởi và cây kinh tế khác.`,
          `Du lịch & dịch vụ: Gần các điểm đến nổi bật như Đá Bàn, tháp Chăm Đồng Miễu, các làng nghề truyền thống, nên phát triển dịch vụ du lịch, homestay, nhà hàng… khá mạnh.`,
          `Thương mại & dịch vụ địa phương: Với quy mô dân số lớn và trụ sở chính quyền, Phú Hòa 1 là một đơn vị hành chính – kinh tế trung tâm.`,
-
       ],
       info: [
          `Văn hóa & di tích: đây là trung tâm hành chính – xã hội mới với các lễ hội địa phương truyền thống và giao thoa văn hóa sau sáp nhập. Các di tích nổi bật của huyện Phú Hòa: đền Lương Văn Chánh, khu du lịch Đá Bàn, tháp Chăm Đồng Miễu, mỏ nước khoáng Phú Sen, làng gốm Hòa Quang.`,
@@ -1702,19 +1598,16 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Phú Hòa 1`,
          `Phía Đông: giáp phường Tuy Hòa`,
          `Phía Tây: giáp xã Vân Hòa`,
-
       ],
       economy: [
          `Nông nghiệp đa dạng: Canh tác lúa, mía, cây ăn quả theo quy mô lớn nhờ diện tích mở rộng.`,
          `Thương mại – dịch vụ: Vị trí gần cao tốc Bắc–Nam tạo thuận lợi giao thương, kết nối vùng.`,
          `Du lịch tiềm năng: Các vùng Hòa Quang – Hòa Trị có thể phát triển tour trải nghiệm sinh thái, homestay nhờ cảnh quan thiên nhiên và văn hóa dân gian.`,
-
       ],
       info: [
          `Mặc dù thiếu di tích lịch sử nổi bật, xã lưu giữ văn hóa vùng trung du Phú Yên: lễ hội làng, sinh hoạt cộng đồng thôn xóm.`,
          `Nông sản địa phương: lúa, mía, cây ăn quả`,
          `Các món truyền thống: cơm lam, canh rau rừng, đặc sản đồng quê`,
-
       ],
    },
    {
@@ -1731,18 +1624,15 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Hòa Mỹ, xã Hòa Thịnh và phường Đông Hòa `,
          `Phía Đông: giáp phường Phú Yên và phường Đông Hòa `,
          `Phía Tây: giáp xã Sơn Thành `,
-
       ],
       economy: [
          `Thương mại – Dịch vụ – Hành chính: Là trung tâm hành chính của huyện Tây Hòa, với dân số lớn và quy mô đô thị hóa nhanh, thúc đẩy các hoạt động thương mại – dịch vụ – ngân hàng – giáo dục – y tế.`,
          `Nông nghiệp – Thủy sản – Đồng bằng: Các vùng lân cận có đất đai phù sa, dễ trồng lúa, màu, rau màu; kết hợp nuôi trồng thủy sản nhỏ lẻ từ ao hồ, suối.`,
          `Du lịch sinh thái – kết nối vùng: Nằm gần Quốc lộ 25 và đường cao tốc Chí Thạnh–Vân Phong, có tiềm năng trở thành đầu mối kết nối du lịch giữa Phú Yên và Khánh Hòa. Địa bàn có sông suối, cảnh quan đồi nhẹ, thuận lợi phát triển du lịch cộng đồng – văn hóa – sinh thái.`,
-
       ],
       info: [
          `Văn hóa & di tích: Duy trì các lễ hội truyền thống của các thôn xã cũ (Phú Thứ, Hòa Bình 1, Hòa Phong, Hòa Tân Tây) `,
          `Ẩm thực & đặc sản: Kết hợp đặc trưng biển – đồng bằng: cơm gà, bánh tráng, hải sản tươi, đặc sản địa phương từ đồng ruộng và ao hồ (bánh phồng, nem chua, trái cây…).`,
-
       ],
    },
    {
@@ -1759,18 +1649,15 @@ const phuongxaDakLak = [
          `Phía Nam: giáp tỉnh Khánh Hòa `,
          `Phía Đông: giáp xã Hòa Xuân và phường Đông Hòa `,
          `Phía Tây: giáp xã Hòa Mỹ `,
-
       ],
       economy: [
          `Thương mại – Dịch vụ – Hành chính: Xã có dân số lớn và quy mô đô thị hóa nhanh, thúc đẩy các hoạt động thương mại – dịch vụ – ngân hàng – giáo dục – y tế.`,
          `Nông nghiệp – Thủy sản – Đồng bằng: Các vùng lân cận có đất đai phù sa, dễ trồng lúa, màu, rau màu; kết hợp nuôi trồng thủy sản nhỏ lẻ từ ao hồ, suối.`,
          `Du lịch sinh thái – kết nối vùng: Nằm gần Quốc lộ 25 và đường cao tốc Chí Thạnh–Vân Phong, có tiềm năng trở thành đầu mối kết nối du lịch giữa Phú Yên và Khánh Hòa. Địa bàn có sông suối, cảnh quan đồi nhẹ, thuận lợi phát triển du lịch cộng đồng – văn hóa – sinh thái.`,
-
       ],
       info: [
          `Văn hóa & di tích: Duy trì các lễ hội truyền thống của các thôn xã cũ.`,
          `Ẩm thực & đặc sản: Kết hợp đặc trưng biển – đồng bằng: cơm gà, bánh tráng, hải sản tươi, đặc sản địa phương từ đồng ruộng và ao hồ (bánh phồng, nem chua, trái cây…).`,
-
       ],
    },
    {
@@ -1784,25 +1671,21 @@ const phuongxaDakLak = [
       ethnic: [
          `Cư dân chủ yếu là người Kinh, bên cạnh có một số dân tộc thiểu số miền Trung.`,
          `Sự hòa nhập dân cư từ hai xã mang lại tính đa dạng văn hóa cho cộng đồng.`,
-
       ],
       location: [
          `Phía Bắc: giáp xã Tây Hòa `,
          `Phía Nam: giáp tỉnh Khánh Hòa `,
          `Phía Đông: giáp xã Hòa Thịnh`,
          `Phía Tây: giáp xã Sơn Thành `,
-
       ],
       economy: [
          `Nông – lâm nghiệp: Phát triển vùng đồng bằng (sắn, lúa) và đồi núi thấp (mía, sắn); tiềm năng khai thác lâm sản và phát triển rừng trồng.`,
          `Du lịch sinh thái – cộng đồng: Cảnh quan thiên nhiên: đồi núi, suối, hệ sinh thái quanh vùng xã cũ là nền tảng để phát triển du lịch sinh thái – homestay.`,
          `Dịch vụ – hành chính: Sau sáp nhập, trụ sở xã được củng cố, đầu tư hạ tầng hành chính – dịch vụ phục vụ gần 25.000 người dân mới.`,
-
       ],
       info: [
          `Văn hóa & di tích: Giữ gìn các lễ hội truyền thống nông thôn cùng văn hóa làng xã điển hình của Tây Hòa. Xã Hòa Mỹ nổi tiếng với nhiều danh lam, thắng cảnh như núi Đá Đen, Hòn Nhọn.`,
          `Ẩm thực & đặc sản: Nông sản nổi bật gồm lúa, sắn, mía (phù sa, đồi thấp). Món truyền thống: cơm lam, canh rau rừng, cá suối, đặc trưng vùng trung du – đồi núi.`,
-
       ],
    },
    {
@@ -1819,13 +1702,11 @@ const phuongxaDakLak = [
          `Phía Nam: giáp xã Sông Hinh `,
          `Phía Đông: giáp xã Hòa Mỹ `,
          `Phía Tây: giáp xã Đức Bình`,
-
       ],
       economy: [
          `Nông – lâm nghiệp: Diện tích rộng lớn thuận lợi phát triển cây lương thực (lúa, sắn), cây công nghiệp, kết hợp lâm nghiệp và rừng sản xuất.`,
          `Du lịch sinh thái & cộng đồng: Cơ sở phát triển homestay trải nghiệm văn hóa miền núi thấp, du lịch dã ngoại kết hợp với lễ hội làng.`,
          `Dịch vụ – hành chính: Với quy mô dân số lớn và trụ sở hành chính tập trung, phát triển mạnh các dịch vụ hành chính, giáo dục, y tế, thương mại địa phương.`,
-
       ],
       info: [
          {
@@ -1833,26 +1714,22 @@ const phuongxaDakLak = [
             list: [
                `Giữ gìn lễ hội làng, văn hóa cộng đồng truyền thống tại các thôn Sơn Thành Đông, Tây và Hòa Phú.`,
                `Khu vực gồm cả đồng bằng và đồi núi thấp, có tiềm năng phát triển du lịch sinh thái – trải nghiệm văn hóa bản địa.`,
-
-            ]
+            ],
          },
          {
             des: `Ẩm thực & đặc sản:`,
             list: [
                `Nông sản phổ biến: lúa nước, mía, cây ăn quả.`,
                `Món ăn đặc trưng: cơm lam, canh rau rừng, cá suối, cùng các sản phẩm địa phương khác`,
-
-            ]
-         }
+            ],
+         },
       ],
    },
    {
       id: 70,
       province: 26,
       name: "Xã Sơn Hòa",
-      image: [
-         "son-hoa-1.jpg"
-      ],
+      image: ["son-hoa-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Củng Sơn và các xã Suối Bạc, Sơn Hà, Sơn Nguyên, Sơn Phước thành xã mới có tên gọi là xã Sơn Hòa.`,
       square: `Diện tích: 215 Km2`,
       population: `Dân số: 38.500 người`,
@@ -1862,30 +1739,24 @@ const phuongxaDakLak = [
          `Phía nam: giáp xã Đức Bình và xã Sơn Thành `,
          `Phía đông: giáp xã Vân Hòa và xã Phú Hòa 1 `,
          `Phía tây: giáp xã Suối Trai`,
-
       ],
       economy: [
          `Nông nghiệp bền vững: Sơn Hòa có thế mạnh về nông nghiệp với các loại cây trồng chủ lực như lúa, mía, sắn và cây ăn quả.`,
          `Du lịch sinh thái và văn hóa: Với địa hình đa dạng, bao gồm đồng bằng, đồi núi thấp và các khu vực tự nhiên như Suối Bạc, Sơn Hòa có tiềm năng phát triển du lịch sinh thái. Các lễ hội truyền thống và phong tục địa phương cũng là điểm nhấn thu hút du khách, góp phần quảng bá văn hóa địa phương.`,
          `Công nghiệp nhỏ và chế biến: Gần các khu công nghiệp như Củng Sơn và Hòa Hưng Tây, Sơn Hòa có cơ hội phát triển các ngành chế biến nông sản và thủ công mỹ nghệ. Các cơ sở sản xuất nhỏ lẻ được khuyến khích để tạo việc làm và tăng thu nhập cho người dân, góp phần vào sự phát triển kinh tế địa phương.`,
          `Chính sách thu hút đầu tư: Chính quyền xã Sơn Hòa đang triển khai các chính sách ưu đãi như hỗ trợ vay vốn, đơn giản hóa thủ tục hành chính và cung cấp thông tin quy hoạch để thu hút các nhà đầu tư. Các dự án nông nghiệp công nghệ cao và khu đô thị mới đang được lên kế hoạch, hứa hẹn mang lại sự phát triển đột phá.`,
-
       ],
       info: [
          `Dân tộc: đa dạng với người Kinh và các dân tộc thiểu số sinh sống cùng nhau. Các lễ hội lớn như cồng chiêng, đập heo đất, trèo cột mỡ… được duy trì và tổ chức cộng đồng sôi nổi, góp phần giữ gìn bản sắc văn hóa.`,
          `Nghề truyền thống: Dệt thổ cẩm, thủ công mỹ nghệ là thế mạnh; người dân tích cực bảo tồn nghề, dùng văn hóa để phát triển kinh tế du lịch.`,
          `Văn nghệ, phong tục: Các chương trình văn nghệ dân gian, trò chơi truyền thống, múa hát, giao lưu văn hóa giữa buôn làng được tổ chức đều đặn, góp phần tăng cường mối đoàn kết cộng đồng.`,
-
       ],
    },
    {
       id: 71,
       province: 26,
       name: "Xã Vân Hòa",
-      image: [
-         "van-hoa-1.jpg",
-         "van-hoa-2.jpg",
-      ],
+      image: ["van-hoa-1.jpg", "van-hoa-2.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sơn Long, Sơn Xuân và Sơn Định thành xã mới có tên gọi là xã Vân Hòa.`,
       square: `Diện tích: 151,47 km2 `,
       population: `Dân số: 6.661 người `,
@@ -1912,9 +1783,7 @@ const phuongxaDakLak = [
       id: 72,
       province: 26,
       name: "Xã Tây Sơn",
-      image: [
-         "tay-son-1.jpg"
-      ],
+      image: ["tay-son-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Sơn Hội, Cà Lúi và Phước Tân thành xã mới có tên gọi là xã Tây Sơn. `,
       square: `Diện tích: khoảng 200 km2`,
       population: `Dân số: 15.052 người `,
@@ -1927,27 +1796,22 @@ const phuongxaDakLak = [
          `Phía nam: giáp xã Sơn Hòa `,
          `Phía đông: giáp xã Xuân Phước, xã Phú Mỡ và xã Vân Hòa `,
          `Phía tây: giáp tỉnh Gia Lai `,
-
       ],
       economy: [
          `Nông nghiệp hiện đại hóa: Với diện tích đất nông nghiệp rộng lớn, xã Tây Sơn đã áp dụng các mô hình canh tác hiện đại, như trồng cây ăn quả chất lượng cao (bưởi, sầu riêng) và chăn nuôi theo hướng hữu cơ. Các hợp tác xã nông nghiệp được thành lập để hỗ trợ người dân tiếp cận công nghệ và thị trường tiêu thụ.`,
          `Du lịch sinh thái và văn hóa: Vùng đất Tây Sơn sở hữu cảnh quan thiên nhiên tuyệt đẹp với các con suối, đồi núi và văn hóa bản địa độc đáo của đồng bào dân tộc thiểu số. Các tour du lịch khám phá văn hóa Chăm và trải nghiệm thiên nhiên đang được phát triển, thu hút du khách từ khắp nơi.`,
          `Thu hút đầu tư: Nhờ cải thiện cơ sở hạ tầng và chính sách ưu đãi của tỉnh, xã Tây Sơn đã thu hút một số dự án đầu tư vào chế biến nông sản và năng lượng tái tạo. Một nhà máy chế biến sầu riêng xuất khẩu đang được xây dựng, dự kiến tạo việc làm cho hơn 200 lao động địa phương`,
-
       ],
       info: [
          `Bảo tồn văn hóa bản địa: Xã Tây Sơn là nơi sinh sống của nhiều đồng bào dân tộc thiểu số, đặc biệt là người Chăm và Êđê. Các lễ hội truyền thống như Lễ Cầu Mưa hay Lễ Hội Katê được tổ chức thường niên, thu hút sự tham gia của cả cộng đồng, giúp bảo tồn và phát huy giá trị văn hóa đặc sắc.`,
          `Hoạt động cộng đồng sôi nổi: Nhà văn hóa xã Tây Sơn đã trở thành trung tâm sinh hoạt cộng đồng, nơi tổ chức các sự kiện như hội thi nấu ăn, giao lưu văn nghệ và các lớp học kỹ năng cho trẻ em. Những hoạt động này giúp người dân từ các xã cũ gắn kết với nhau, xây dựng tinh thần đoàn kết.`,
-
       ],
    },
    {
       id: 73,
       province: 26,
       name: "Xã Suối Trai",
-      image: [
-         "suoi-trai-1.jpg"
-      ],
+      image: ["suoi-trai-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Ea Chà Rang, xã Krông Pa và xã Suối Trai thành xã mới có tên gọi là xã Suối Trai.`,
       square: `Diện tích: 186,95 Km2`,
       population: `Dân số: 11.387 người`,
@@ -1969,9 +1833,7 @@ const phuongxaDakLak = [
       id: 74,
       province: 26,
       name: "Xã Ea Ly",
-      image: [
-         "ea-ly-1.jpg"
-      ],
+      image: ["ea-ly-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Ea Lâm, xã Ea Ly và một phần diện tích tự nhiên, quy mô dân số của xã Ea Bar (huyện Sông Hinh) thành xã mới có tên gọi là xã Ea Ly.`,
       square: `Diện tích: 65 Km2 `,
       population: `Dân số: 22.000 người `,
@@ -1981,13 +1843,11 @@ const phuongxaDakLak = [
          `Phía nam: giáp xã Cư Prao`,
          `Phía đông: giáp xã Ea Bá `,
          `Phía tây: giáp xã Cư Prao và xã Ea knốp`,
-
       ],
       economy: [
          `Phát triển nông nghiệp công nghệ cao: Xã Ea Kly tập trung vào hiện đại hóa nông nghiệp, với các mô hình canh tác cà phê và hồ tiêu theo tiêu chuẩn VietGAP. `,
          `Hỗ trợ đồng bào dân tộc thiểu số: Với 13% dân số là người Ê-đê, Ea Kly được hưởng lợi từ Chương trình mục tiêu quốc gia phát triển kinh tế – xã hội vùng đồng bào dân tộc thiểu số giai đoạn 2021-2030. Các dự án hỗ trợ đất sản xuất, đào tạo nghề và cung cấp thiết bị nông nghiệp đã giúp người dân ổn định cuộc sống và tham gia tích cực vào các hoạt động kinh tế.`,
          `Phát triển thương mại và dịch vụ: Nhờ vị trí giáp Quốc lộ 26, Ea Kly đang phát triển các hoạt động thương mại, với các doanh nghiệp như Công ty TNHH Thương mại Xăng dầu Phú Sơn và Công ty TNHH Vận tải Thương mại Danh Lợi. Các chợ địa phương và cửa hàng kinh doanh nông sản cũng được mở rộng, tạo thêm việc làm và thu nhập cho người dân.`,
-
       ],
       info: [
          `Trải nghiệm văn hóa dân tộc Ê-đê: Các buôn làng tại Ea Kly, như buôn Krai B, đã phát triển mô hình du lịch cộng đồng với các homestay, cho phép du khách trải nghiệm cuộc sống của người Ê-đê. Du khách có thể tham gia các hoạt động như dệt thổ cẩm, nấu ăn truyền thống hay học đánh cồng chiêng, mang lại trải nghiệm văn hóa sâu sắc và gần gũi.`,
@@ -2036,13 +1896,11 @@ const phuongxaDakLak = [
          `Phía nam: giáp xã Sông Hinh và xã Sơn Thành `,
          `Phía đông: giáp xã Sơn thành `,
          `Phía tây: giáp xã Sông Hinh và xã Suối Trai `,
-
       ],
       economy: [
          `Nông nghiệp chủ đạo: Nông nghiệp chiếm 80% cơ cấu kinh tế của xã với các loại cây trồng chính như lúa nước, sắn, đậu phộng và bắp. Các mô hình trồng bưởi da xanh và cam sành tại xã đã mang lại thu nhập ổn định.`,
          `Chăn nuôi phát triển: Chăn nuôi bò đàn là thế mạnh của xã.`,
          `Tiềm năng du lịch sinh thái: Với cảnh quan sông Hinh và sông Ba, cùng các đồi rừng tại xã, xã có tiềm năng phát triển du lịch sinh thái và trải nghiệm văn hóa. Các điểm đến như khu rừng gỗ quý của ông Tô Đình Kền tại thôn Tân Lập, với các loại cây như trắc, cà te, hương, đang được định hướng trở thành điểm tham quan nông thôn mới.`,
-
       ],
       info: [
          `Lễ hội truyền thống: Xã nổi tiếng với các lễ hội của đồng bào Ê Đê, như lễ cúng bến nước, lễ cúng lúa mới, được tổ chức với sự tham gia của cả cộng đồng. Những lễ hội này không chỉ mang ý nghĩa tâm linh mà còn là dịp để người dân thể hiện sự đoàn kết và gìn giữ bản sắc văn hóa.`,
@@ -2052,7 +1910,7 @@ const phuongxaDakLak = [
       ],
       image_back: {
          title: "Cơm Lam",
-         img: `com-lam-duc-binh.jpg`
+         img: `com-lam-duc-binh.jpg`,
       },
    },
    {
@@ -2069,13 +1927,11 @@ const phuongxaDakLak = [
          `Phía nam: giáp tỉnh Khánh Hòa `,
          `Phía đông: giáp xã Đức Bình, xã Sơn Thành và xã Hòa Mỹ `,
          `Phía tây: giáp xã Ea Bá, xã Cư M’ta và xã Ea riêng `,
-
       ],
       economy: [
          `Nông nghiệp và nuôi trồng: Nông nghiệp tại xã tập trung vào trồng mía, sắn, và lúa nước, với các mô hình nuôi cá bống tượng tại hồ thủy điện Sông Hinh mang lại hiệu quả kinh tế cao. `,
          `Lâm nghiệp và tài nguyên: xã có tiềm năng khai thác lâm sản như gỗ và nhựa thông.Tuy nhiên, xã cũng chú trọng bảo vệ rừng, với các chương trình quản lý cộng đồng nhằm duy trì độ che phủ rừng và bảo vệ môi trường sinh thái, hỗ trợ phát triển du lịch bền vững.`,
          `Du lịch sinh thái: Hồ thủy điện Sông Hinh, được xây dựng từ năm 1993 đến 2001, là điểm đến du lịch nổi bật với cảnh quan núi rừng hùng vĩ.Công trình này không chỉ cung cấp điện năng mà còn hỗ trợ tưới tiêu cho 4.450 ha đất nông nghiệp và thu hút du khách bởi vẻ đẹp hoang sơ, lý tưởng cho các hoạt động khám phá và nghỉ dưỡng.`,
-
       ],
       info: [
          `Di sản văn hóa Ê Đê: Đồng bào Ê Đê tại Ea Trol lưu giữ các phong tục như lễ cúng bến nước, cúng lúa về kho, và lễ cưới truyền thống.Nhà dài Ê Đê tại các buôn như buôn Ly là biểu tượng văn hóa, nơi diễn ra các hoạt động cộng đồng và sinh hoạt gia đình, thể hiện tinh thần đoàn kết và gắn bó.`,
@@ -2084,16 +1940,14 @@ const phuongxaDakLak = [
       ],
       image_back: {
          title: "Nuôi trồng thuỷ sản",
-         img: `song-hinh-1.jpg`
+         img: `song-hinh-1.jpg`,
       },
    },
    {
       id: 78,
       province: 26,
       name: "Xã Xuân Lãnh",
-      image: [
-         "xuan-lanh-1.jpg"
-      ],
+      image: ["xuan-lanh-1.jpg"],
       introduce: `Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của xã Đa Lộc và xã Xuân Lãnh thành xã mới có tên gọi là xã Xuân Lãnh.`,
       square: `Diện tích: 183 Km2`,
       population: `Dân số: 11.933 người `,
@@ -2103,13 +1957,11 @@ const phuongxaDakLak = [
          `Phía nam: giáp xã Đồng Xuân `,
          `Phía đông: giáp xã Xuân Thọ `,
          `Phía tây: giáp xã Phú Mỡ `,
-
       ],
       economy: [
          `Nông nghiệp truyền thống: Xuân Lãnh có diện tích đất nông nghiệp lớn, tập trung tại các thôn Lãnh Vân và Lãnh Trường, với cây lúa và sắn là chủ lực. Hệ thống thủy lợi từ các suối nhỏ hỗ trợ tưới tiêu, giúp người dân đạt năng suất ổn định.`,
          `Du lịch cộng đồng: mô hình du lịch cộng đồng thôn Xí Thoại, tận dụng văn hóa Ba Na và cảnh quan đồi núi. Các hoạt động như trải nghiệm dệt thổ cẩm, tham gia lễ hội cồng chiêng, và khám phá thiên nhiên thu hút du khách, tạo nguồn thu nhập mới cho người dân và quảng bá hình ảnh Xuân Lãnh.`,
          `Chăn nuôi và lâm nghiệp: Người dân tại các thôn như Xí Thoại phát triển chăn nuôi gia súc, gia cầm, với các mô hình nuôi bò và heo mang lại hiệu quả kinh tế cao. Ngoài ra, trồng rừng keo lai tại các khu vực đồi núi giúp bảo vệ môi trường và cung cấp nguyên liệu cho ngành công nghiệp gỗ, góp phần đa dạng hóa nguồn thu nhập cho người dân.`,
-
       ],
       info: [
          `Di sản văn hóa phi vật thể: Nghệ thuật “Trống đôi, cồng ba, chiêng năm” tại Xuân Lãnh là biểu tượng văn hóa của người dân tộc Ba Na, thường được trình diễn trong các lễ hội và nghi thức cộng đồng. Âm thanh trầm bổng của cồng chiêng kết hợp với nhịp trống tạo nên sức hút đặc biệt, thu hút du khách và được bảo tồn thông qua các lớp học truyền dạy tại thôn Xí Thoại. Di sản này không chỉ là niềm tự hào mà còn là động lực để phát triển du lịch văn hóa.`,
@@ -2118,11 +1970,11 @@ const phuongxaDakLak = [
       ],
       image_back: {
          title: `LỄ HỘI TRỐNG ĐÔI CỦA NGƯỜI DÂN TỘC CHĂM H’ROI VÀ BA NA`,
-         img: `trong-doi-xuan-lanh.jpg`
-      }
+         img: `trong-doi-xuan-lanh.jpg`,
+      },
    },
    {
-      id: 68,
+      id: 79,
       province: 26,
       name: "Xã Phú Mỡ",
       image: [],
@@ -2135,19 +1987,16 @@ const phuongxaDakLak = [
          `Phía nam: giáp xã Xuân Phước và xã Tây Sơn `,
          `Phía đông: giáp xã Xuân Lãnh và xã Đồng Xuân`,
          `Phía tây: giáp tỉnh Gia Lai`,
-
       ],
       economy: [
          `Nông nghiệp và chăn nuôi: Nông nghiệp là ngành kinh tế chủ lực của xã Phú Mỡ với các loại cây trồng như lúa, mía, sắn và cây ăn quả. Chăn nuôi bò, lợn và gà thả vườn cũng được phát triển mạnh.`,
          `Khai thác tài nguyên nước khoáng: Xã Phú Mỡ sở hữu các suối nước khoáng nóng Trà Ô, Triêm Đức và Cây Vừng, là nguồn tài nguyên quý giá cho phát triển du lịch nghỉ dưỡng và chăm sóc sức khỏe. Các dự án đầu tư vào khu du lịch suối nước khoáng nóng đang được triển khai, hứa hẹn thu hút du khách.`,
          `Tiềm năng du lịch sinh thái: Với địa hình đồi núi và các suối nước khoáng nóng, xã Phú Mỡ có tiềm năng phát triển du lịch sinh thái và nghỉ dưỡng. Các điểm đến như suối Trà Ô kết hợp với các hoạt động trải nghiệm văn hóa dân tộc Chăm, Bana có thể thu hút du khách yêu thích khám phá thiên nhiên và văn hóa bản địa.`,
-
       ],
       info: [
          `Lễ hội truyền thống: Xã Phú Mỡ huyện Đồng Xuân là nơi diễn ra Lễ hội Trống đôi, Cồng ba, Chiêng năm, một di sản văn hóa phi vật thể quốc gia của đồng bào Chăm và Bana. Lễ hội này thường được tổ chức vào mùa xuân, thu hút đông đảo người dân và du khách với các màn trình diễn nhạc cụ truyền thống và các nghi thức cầu mùa độc đáo.`,
          `Di tích và phong tục: Xã Phú Mỡ nổi tiếng với các suối nước khoáng nóng Trà Ô, Triêm Đức và Cây Vừng, không chỉ là tài nguyên thiên nhiên mà còn gắn liền với các câu chuyện dân gian về chữa bệnh và tâm linh. Người dân địa phương thường tổ chức các nghi lễ cúng đất, cúng rừng, thể hiện sự tôn kính với thiên nhiên và tổ tiên.`,
          `Ẩm thực đặc sắc: Ẩm thực tại xã Phú Mỡ huyện Đồng Xuân mang đậm hương vị miền núi, với các món ăn như chả dông, cơm lam và gà nướng. Các món ăn này sử dụng nguyên liệu từ rừng và đồng ruộng, được chế biến theo cách truyền thống, tạo nên sức hút với du khách muốn trải nghiệm văn hóa ẩm thực địa phương`,
-
       ],
    },
 
@@ -2554,13 +2403,12 @@ const phuongxaDakLak = [
       economy: [
          `Nuôi trồng thủy sản: Phường Sông Cầu được biết đến là nơi có số lượng lồng nuôi tôm hùm lớn. Nghề nuôi tôm hùm không chỉ mang lại thu nhập cao mà còn góp phần quảng bá thương hiệu hải sản của vùng.`,
          `Du lịch biển: Với bờ biển đẹp và vịnh Xuân Đài nổi tiếng, Phường đang phát triển mạnh mẽ các loại hình du lịch như tham quan, nghỉ dưỡng và trải nghiệm văn hóa biển.`,
-
       ],
       info_description: `Văn hóa của xã Xuân Phương Sông Cầu Phú Yên là sự kết hợp hài hòa giữa truyền thống và hiện đại, phản ánh qua đời sống của người dân và các hoạt động lễ hội liên quan đến văn hóa biển. Người dân nơi đây thân thiện, mến khách và luôn tự hào về những giá trị văn hóa bản địa. Các lễ hội truyền thống và phong tục tập quán đặc sắc đã góp phần tạo nên bản sắc riêng.`,
       info: [
          `Các di sản văn hóa, thắng cảnh tiêu biểu: Bãi biển Vịnh Hòa, và Đảo Nhất Tự Sơn, Bãi Ôm Xuân Phương,…. `,
          `Các món ăn và đặc sản: Ghẹ Sông Cầu, tôm hùm, các loại ốc (ốc bướm, ốc gai, ốc mỡ,...), sò huyết, và các món làm từ chúng như ốc hấp sả, ốc luộc, gỏi ốc, sò huyết nướng, ...`,
-      ]
+      ],
    },
    {
       id: 94,
@@ -2577,7 +2425,6 @@ const phuongxaDakLak = [
          `Phía nam giáp xã Hòa Thịnh, xã Hòa Xuân `,
          `Phía đông giáp xã Hòa Xuân`,
          `Phía tây giáp xã Hòa thịnh, xã Tây Hòa `,
-
       ],
       economy_description: ``,
       economy: [
@@ -2589,8 +2436,7 @@ const phuongxaDakLak = [
       info: [
          `Các lễ hội, nghành nghề truyền thống vẫn được duy trì, thu hút du khách và quảng bá văn hóa địa phương.`,
          `Các món ăn và đặc sản: ốc hương bơ tỏi, mực lá bơi hấp, hàu sữa, nhum nướng, ốc nhảy, và nhiều loại hải sản tươi ngon khác, …`,
-
-      ]
+      ],
    },
    {
       id: 95,
@@ -2607,19 +2453,17 @@ const phuongxaDakLak = [
          `Phía Bắc: giáp phường Phú Yên`,
          `Phía Nam: giáp xã Hòa Xuân`,
          `Phía Tây: giáp phường Đông Hòa.`,
-
       ],
       economy_description: `Phường được hưởng lợi từ các tuyến giao thông trọng điểm như Quốc lộ 1A và đường ven biển. Các dự án giao thông mới như cao tốc Bắc – Nam đi qua khu vực này, mở ra cơ hội kết nối và phát triển kinh tế.`,
       economy: [
          `Kinh tế biển và thủy sản: Phường Hòa Hiệp có đường bờ biển dài và cảng cá, tạo điều kiện thuận lợi cho việc khai thác và nuôi trồng thủy sản, thúc đẩy hoạt động mua bán hải sản tại cảng cá Đa Ngư.`,
          `Phát triển công nghiệp: Phường có cụm các khu công nghiệp Hòa Hiệp lớn, thu hút đầu tư vào các lĩnh vực chế biến và sản xuất. `,
-
       ],
       info_description: `Các lễ hội truyền thống như lễ hội cầu ngư tại khu vực Hòa Hiệp Nam vẫn được duy trì, thu hút du khách và quảng bá văn hóa địa phương.`,
       info: [
          `Các di sản văn hóa, thắng cảnh tiêu biểu: Gành đá Hòa Hiệp Nam, Làng Lò, bãi biển Hòa Hiệp, cảng cá Phú Lạc... `,
          `Các món ăn và đặc sản: ghẹ Sông Cầu, tôm hùm Sông Cầu, các loại ốc, bánh canh hẹ và gà chỉ Sông Cầu, …`,
-      ]
+      ],
    },
    {
       id: 96,
@@ -2652,7 +2496,7 @@ const phuongxaDakLak = [
          `Xã có các buôn làng truyền thống, như Buôn Niêng, Buôn Kó Đung với lễ hội cồng chiêng, lễ ban phước cho voi.`,
          `Di tích và du lịch: Nhà sàn cổ Bản Đôn, Lăng vua voi, “Khu bảo tồn lan Trohbư”, “Lâu đài Yến Buôn Đôn”, thác Bảy Nhánh, Vườn Quốc gia Yok Đôn.`,
          `Món ăn đặc trưng: cơm lam, thịt ghè (heo rừng), rau rừng, đặc sản từ buôn làng…; cộng thêm mật ong, cam, tiêu bản địa.`,
-      ]
+      ],
    },
    {
       id: 97,
@@ -2669,14 +2513,12 @@ const phuongxaDakLak = [
          `Phía nam: Giáp các xã Ea Wy, xã Ea Drăng.`,
          `Phía đông: Giáp xã Ea Hiao`,
          `Phía tây: Giáp xã Ea Rốk`,
-
       ],
       economy_description: ``,
       economy: [
          `Nông – Lâm nghiệp: Sản xuất cà phê, tiêu, điều, mì cùng khai thác lâm sản và mật ong tự nhiên. Diện tích rộng lớn phù hợp các mô hình kinh tế nông lâm kết hợp.`,
          `Du lịch sinh thái – văn hóa: Hồ câu cá, vườn lan cổ, voi rừng, buôn làng Ê Đê, phòng trưng bày lịch sử – thu hút du lịch trải nghiệm. Giao thông cải thiện và đầu tư hạ tầng liên tục nâng cao khả năng tiếp cận.`,
          `Xã nằm sát biên giới tỉnh, có vai trò quan trọng trong quốc phòng và an ninh địa phương.`,
-
       ],
       info_description: ``,
       info: [
@@ -2684,8 +2526,7 @@ const phuongxaDakLak = [
          `Gần các khu bảo tồn thiên nhiên như rừng nguyên sinh Yok Đôn và cây cổ thụ Ea Ral.`,
          `Di tích nổi bật: Nhà sàn cổ Buôn Đôn của vua voi Khun Ju Nốp và Lăng vua voi.`,
          `Món ăn – Đặc sản: Ẩm thực đậm nét dân tộc: cơm lam, rau rừng, thịt heo rừng, mật ong rừng. Nông sản địa phương như cà phê, tiêu, cam, mật ong tiếp tục phân phối rộng ở khu vực miền Trung – Tây Nguyên.`,
-
-      ]
+      ],
    },
    {
       id: 98,
@@ -2701,21 +2542,19 @@ const phuongxaDakLak = [
          `Phía Tây:  giáp xã Ia Lốp`,
          `Phía Nam:  giáp xã Ia R'vê`,
          `Phía Bắc:  giáp cả xã Ia Lốp và xã Ea Bung`,
-
       ],
       economy_description: ``,
       economy: [
          `Nông – lâm nghiệp: trồng cà phê, tiêu, điều; khai thác lâm sản và mật ong; đất đỏ bazan phù hợp cây công nghiệp lâu năm.`,
          `Du lịch cộng đồng – văn hóa: Phát triển dựa vào cảnh quan núi rừng và văn hóa dân tộc – homestay, buôn làng, trải nghiệm văn hóa Ê Đê.`,
          `An ninh biên giới – quốc phòng: Làm nhiệm vụ bảo vệ vùng miền núi, giữ trật tự khu vực cửa ngõ phía bắc huyện.                                    `,
-
       ],
       info_description: ``,
       info: [
          `Văn hóa bản địa: Gắn với văn hóa Tây Nguyên, bao gồm lễ hội cồng chiêng, nhà sàn Ê Đê, những giá trị văn hóa truyền thống.`,
          `Di tích – cảnh quan: Có thể có nhà sinh hoạt cộng đồng, trường, đình bản, các bản làng theo truyền thống địa phương (chi tiết cần khảo sát tại địa phương).`,
          `Ẩm thực – đặc sản: Loại đặc sản như cơm lam, rau rừng, cá suối, heo rừng, mật ong rừng, thể hiện nét đặc trưng ẩm thực miền núi Tây Nguyên.`,
-      ]
+      ],
    },
    {
       id: 99,
@@ -2731,22 +2570,19 @@ const phuongxaDakLak = [
          `Phía Đông: Giáp xã Ea Rốk.`,
          `Phía Nam: Giáp xã Ea Rốk, xã Ia Rvê,`,
          `Phía Tây: Giáp Vương quốc Campuchia. `,
-
       ],
       economy_description: ``,
       economy: [
          `Nông nghiệp: Trồng cà phê, hồ tiêu, cao su, cây ăn quả, chăn nuôi gia súc – gia cầm.`,
          `Du lịch sinh thái – văn hóa: Tiềm năng mạnh nhờ cảnh quan đồi rừng, hồ bản địa, văn hóa dân tộc – phù hợp với du lịch cộng đồng.`,
          `Hạ tầng xã hội: Chính quyền địa phương đang đầu tư vào giao thông, điện, nước, giáo dục, y tế để nâng cao điều kiện sống.`,
-
       ],
       info_description: ``,
       info: [
          `Văn hóa: Nét đẹp văn hóa Tây Nguyên đậm đà, với cồng chiêng, lễ hội buôn làng mang đậm bản sắc Ê Đê – M’nông.`,
          `Di tích: Cảnh quan thiên nhiên đẹp với đồi núi, hồ nước bản địa, có thể phát triển du lịch sinh thái – văn hóa.`,
          `Món ăn & đặc sản: Cơm lam, rau rừng, cá suối, thịt heo rừng, mật ong, cùng nông sản như cà phê, tiêu, cao su, cây ăn quả.`,
-
-      ]
+      ],
    },
    {
       id: 100,
@@ -2762,22 +2598,19 @@ const phuongxaDakLak = [
          `Phía Tây: Giáp Vương quốc Campuchia.`,
          `Phía Nam: Giáp xã Ea Bung`,
          `Phía Bắc: Giáp xã Ia Lốp`,
-
       ],
       economy_description: ``,
       economy: [
          `Nông – lâm nghiệp: Trồng cà phê, tiêu, điều, khai thác lâm sản, mật ong. Diện tích lớn phù hợp phát triển nông nghiệp kết hợp với bảo tồn rừng.`,
          `Du lịch sinh thái & văn hóa: Hướng đến phát triển du lịch giáp biên, cộng đồng, trải nghiệm văn hóa, đặc biệt tại hồ Ea Súp và buôn làng dệt thổ cẩm.`,
          `An ninh biên giới đóng vai trò quan trọng trong quốc phòng – an ninh vùng giáp Campuchia.`,
-
       ],
       info_description: ``,
       info: [
          `Văn hóa & di tích: Giữ gìn văn hóa cồng chiêng Ê Đê, hội thao dân tộc và lễ hội truyền thống. Có các làng nghề dệt thổ cẩm truyền thống.`,
          `Nằm sát biên giới Campuchia, có hồ Ea Súp Thượng và cảnh quan rừng đẹp – tiềm năng cho du lịch sinh thái và văn hóa.`,
          `Món ăn & đặc sản: gắn với núi rừng: cơm lam, rau rừng, cá suối, thịt heo`,
-
-      ]
+      ],
    },
    {
       id: 101,
@@ -2794,14 +2627,12 @@ const phuongxaDakLak = [
          `Phía Tây: Giáp tỉnh Lâm Đồng`,
          `Phía Nam: Giáp tỉnh Lâm Đồng`,
          `Phía Bắc: Giáp xã Đắk phơi, xã Nam Ka, xã Liên Sơn Lắk`,
-
       ],
       economy_description: ``,
       economy: [
          `Nông – Lâm nghiệp: Sản xuất cà phê, hồ tiêu, sầu riêng, kết hợp khai thác mật ong và lâm sản.`,
          `Du lịch sinh thái & văn hóa: Dựa vào cảnh quan suối, rừng xanh, văn hóa bản địa, phát triển du lịch trải nghiệm, homestay, cồng chiêng.`,
          `Vai trò chiến lược hành chính & phát triển hạ tầng: Xã nằm trên quốc lộ 27, nối liền trung tâm huyện và các xã khác, có vai trò kết nối giao thông quan trọng.`,
-
       ],
       info_description: ``,
       info: [
@@ -2810,8 +2641,7 @@ const phuongxaDakLak = [
          `Nghề dệt thổ cẩm truyền thống.`,
          `Di tích – cảnh quan: Gần suối, thác và sông Krông Nô – điểm du lịch sinh thái nhiều tiềm năng.`,
          `Ẩm thực & đặc sản: cơm lam, rau rừng, cá suối, thịt heo rừng, mật ong rừng. Nông sản: cà phê, tiêu, sầu riêng – đặc biệt cây công nghiệp có giá trị.`,
-
-      ]
+      ],
    },
    {
       id: 102,
@@ -2827,20 +2657,18 @@ const phuongxaDakLak = [
          `Phía Nam: Giáp xã Krông Bông, xã Cư Pui`,
          `Phía Đông: Giáp xã Ea Ô`,
          `Phía Tây: Giáp xã Tân Tiến`,
-
       ],
       economy_description: ``,
       economy: [
          `Nông – lâm nghiệp: Trồng cà phê, tiêu, sầu riêng, kết hợp khai thác lâm sản và mật ong rừng.`,
          `Du lịch sinh thái & văn hóa: Có tiềm năng phát triển du lịch cộng đồng: gom cảnh quan suối, thác, buôn làng dân tộc. Quy hoạch gắn với xây dựng nông thôn mới và kết nối hạ tầng.`,
          `Hạ tầng phát triển: Hội nhập vào cao tốc, Quốc lộ, có dự án xây dựng cầu, đường phục vụ dân cư và gắn kết xã.`,
-
       ],
       info_description: ``,
       info: [
          `Văn hóa & di tích: Phong phú sắc màu văn hóa dân tộc: lễ hội cồng chiêng, lễ hội mừng lúa mới, văn hóa buôn làng. Khu vực xã Vụ Bổn nằm gần suối, thác, phù hợp du lịch sinh thái.`,
          `Món ăn & đặc sản: Cơm lam, thịt heo rừng, rau rừng, cá suối, mật ong rừng. Cà phê, hồ tiêu, cây ăn quả là nông sản nổi bật`,
-      ]
+      ],
    },
 ];
 
