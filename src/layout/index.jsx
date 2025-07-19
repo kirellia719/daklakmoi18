@@ -9,6 +9,7 @@ import TrangPhuongXa from "../pages/TrangPhuongXa";
 import TrangChu from "../pages/TrangChu";
 import TrangDanToc from "../pages/TrangDanToc/TrangDanToc";
 import ThongTinDanToc from "../pages/ThongTinDanToc";
+import TestPage from "./TestPage"
 
 const MainLayout = () => {
     return <div className="MainLayout">
@@ -22,6 +23,7 @@ const MainLayout = () => {
                 <Route path="/dak-lak" element={<TrangDakLak />} />
                 <Route path="/dan-toc/:id" element={<ThongTinDanToc />} />
                 <Route path="/dan-toc" element={<TrangDanToc />} />
+                <Route path="/test" element={<TestPage />} />
                 <Route path="/" index element={<TrangChu />} />
             </Routes>
         </div>
