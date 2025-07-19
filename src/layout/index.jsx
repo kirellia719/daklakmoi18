@@ -7,6 +7,8 @@ import ThongTinTinh from "../pages/ThongTinTinh";
 import TrangDakLak from "../pages/TrangDakLak";
 import TrangPhuongXa from "../pages/TrangPhuongXa";
 import TrangChu from "../pages/TrangChu";
+import TrangDanToc from "../pages/TrangDanToc/TrangDanToc";
+import ThongTinDanToc from "../pages/ThongTinDanToc";
 
 const MainLayout = () => {
     return <div className="MainLayout">
@@ -16,8 +18,10 @@ const MainLayout = () => {
                 <Route path="/gioi-thieu" element={<TrangGioiThieu />} />
                 <Route path="/tinh-thanh" element={<VietNamMapPage />} />
                 <Route path="/tinh/:id" element={<ThongTinTinh />} />
-                <Route path="/dak-lak/ward/:id" element={<TrangPhuongXa />} />
+                <Route path="/dak-lak/phuong-xa/:id" element={<TrangPhuongXa />} />
                 <Route path="/dak-lak" element={<TrangDakLak />} />
+                <Route path="/dan-toc/:id" element={<ThongTinDanToc />} />
+                <Route path="/dan-toc" element={<TrangDanToc />} />
                 <Route path="/" index element={<TrangChu />} />
             </Routes>
         </div>
