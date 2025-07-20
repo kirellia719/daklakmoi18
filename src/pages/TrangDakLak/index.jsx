@@ -41,7 +41,7 @@ const TrangDakLak = () => {
                      </div>
                   </Card.Header>
                   <Card.Body>
-                     <InputGroup>
+                     <InputGroup className="input-search">
                         <InputGroup.Addon>Tìm theo tên: </InputGroup.Addon>
                         <Input value={input} onChange={(v) => setInput(v)} placeholder="..." />
                      </InputGroup>
@@ -49,12 +49,12 @@ const TrangDakLak = () => {
                   <Card.Body>
                      <div className="ward-list">
                         {newList.map((p) => (
-                           <Button appearance="link" key={p.name}>
+                           <div key={p.name} className="ward-item-btn">
                               <PageEndIcon />{" "}
                               <NavLink to={`/dak-lak/phuong-xa/${p.id}`} className="ward-item">
                                  {p.name}
                               </NavLink>
-                           </Button>
+                           </div>
                         ))}
                      </div>
                   </Card.Body>

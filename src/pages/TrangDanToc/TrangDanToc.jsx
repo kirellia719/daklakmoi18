@@ -14,8 +14,8 @@ const TrangDanToc = () => {
         {dulieuDanToc.map((danToc) => (
           <div className="ethnic-card" key={danToc.id}>
             <h2>{danToc.ten_dan_toc}</h2>
-            <p><strong>Tên gọi khác:</strong> {danToc.thong_tin_chung.ten_goi_khac || "Không rõ"}</p>
-            <p><strong>Dân số:</strong> {danToc.thong_tin_chung.dan_so || "Không rõ"}</p>
+            <div className="p-1line"><strong>Tên gọi khác:</strong> {danToc.thong_tin_chung.ten_goi_khac || "Không có"}</div>
+            <p><strong>Dân số:</strong> {danToc.thong_tin_chung.dan_so || "Chưa rõ"}</p>
             <p>
               <strong>Ngôn ngữ:</strong>{" "}
               {danToc.thong_tin_chung.ngon_ngu?.match(/ngữ hệ[^,.;:{}）)」】]*/i)?.[0] || "Không rõ"}

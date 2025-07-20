@@ -9,6 +9,8 @@
       max-width: 1200px;
       padding: var(--padding-var);
       display: flex;
+      flex-direction: column;
+      align-items: center;
 
       .title {
          font-size: 1.2rem;
@@ -19,33 +21,46 @@
       .map {
          display: flex;
          justify-content: center;
-         width: var(--map-width);
+         width: 100%;
+         max-width: 800px;
       }
 
       .ward-container {
          padding: var(--padding-var);
-         width: calc(100% - var(--map-width));
+         width: 100%;
+
+         .input-search {
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+         }
          .ward-list {
             display: grid;
             gap: 10px;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
 
-            @media (width < 768px) {
+            @media (width < 900px) {
                grid-template-columns: repeat(3, 1fr);
             }
-            @media (width < 570px) {
+            @media (width < 667px) {
                grid-template-columns: repeat(2, 1fr);
             }
             @media (width < 440px) {
                grid-template-columns: repeat(1, 1fr);
             }
 
-            .ward-item {
-               text-align: center;
-               padding: 0.5rem;
-               color: currentcolor;
-               &:hover {
-                  text-decoration: underline;
+            .ward-item-btn {
+               // display: block;
+               font-size: 14px;
+               .ward-item {
+                  // text-align: center;
+                  padding: 0.5rem;
+                  color: #333;
+                  &:hover {
+                     text-decoration: underline;
+                     color: rgb(13, 135, 206);
+                     font-weight: 600;
+                  }
                }
             }
          }

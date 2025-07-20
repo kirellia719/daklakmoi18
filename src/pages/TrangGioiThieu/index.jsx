@@ -6,10 +6,13 @@ import anh3 from "./hinh-anh/3.jpg"
 import anh4 from "./hinh-anh/4.jpg"
 import anh5 from "./hinh-anh/5.jpg"
 import TiltImage from "../../components/TiltImage"
+import { useRef } from "react"
+import TTSButton from "../../components/TTSButton"
 
 const HomePage = () => {
+    const contentRef = useRef();
     return <div className="HomePage">
-        <div className="home-container">
+        <div className="home-container" ref={contentRef}>
             <div className="tieu-de">
                 <strong><i>“Vali thông minh 360 - Hành trình khám phá tổ quốc trong kỷ nguyên vươn mình của dân tộc”</i></strong>
             </div>
@@ -84,7 +87,7 @@ const HomePage = () => {
         </div>
 
         &nbsp;
-
+        <TTSButton contentRef={contentRef} />
     </div>
 }
 

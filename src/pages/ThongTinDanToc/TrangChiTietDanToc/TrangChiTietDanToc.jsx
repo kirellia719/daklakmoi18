@@ -1,5 +1,6 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import "./TrangChiTietDanToc.scss";
+import TTSButton from "../../../components/TTSButton";
 
 const iconMap = {
   "Lịch sử": "📜",
@@ -21,6 +22,7 @@ const iconMap = {
 
 const TrangChiTietDanToc = ({ danToc }) => {
   const sectionsRef = useRef({});
+  const contentRef = useRef();
 
   if (!danToc) return <p>Không có dữ liệu.</p>;
 
@@ -28,7 +30,7 @@ const TrangChiTietDanToc = ({ danToc }) => {
 
   return (
     <div className="chi-tiet-layout">
-      <main className="noi-dung">
+      <main className="noi-dung" ref={contentRef}>
         <h1 className="ten-dan-toc">{ten_dan_toc}</h1>
 
         <section className="thong-tin-chung">
@@ -55,6 +57,7 @@ const TrangChiTietDanToc = ({ danToc }) => {
               </h3>
               <p>{muc.noi_dung}</p>
             </section>
+
           );
         })}
       </main>
@@ -81,6 +84,7 @@ const TrangChiTietDanToc = ({ danToc }) => {
           })}
         </ul>
       </aside>
+      <TTSButton contentRef={contentRef} />
     </div>
   );
 };

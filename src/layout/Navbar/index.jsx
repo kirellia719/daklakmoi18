@@ -26,7 +26,7 @@ const Navbar = () => {
                         <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/gioi-thieu">Giới thiệu</NavLink>
                     </div>
                     <div className="nav-item">
-                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/tinh-thanh">Việt Nam</NavLink>
+                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/tinh">Việt Nam</NavLink>
                     </div>
                     <div className="nav-item">
                         <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/dak-lak">Đăk Lăk</NavLink>
