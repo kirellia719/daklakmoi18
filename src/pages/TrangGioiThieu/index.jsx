@@ -6,6 +6,7 @@ import anh3 from "./hinh-anh/3.jpg"
 import anh4 from "./hinh-anh/4.jpg"
 import anh5 from "./hinh-anh/5.png"
 import anh6 from "./hinh-anh/6.jpg"
+import anh7 from "./hinh-anh/7.png"
 // import anh5 from "./hinh-anh/5.jpg"
 import TiltImage from "../../components/TiltImage"
 import { useRef } from "react"
@@ -23,6 +24,7 @@ const HomePage = () => {
                     <img src={anh2} alt="" />
                 </div>
             </div>
+            <p>Kính chào quý thầy cô, các bạn và mọi người!</p>
             <div className="tieu-de">
                 <div>
                     <strong style={{ color: "red" }}>“Vali Thông minh 360”</strong>
@@ -58,7 +60,7 @@ const HomePage = () => {
                             <div className="six-face">
                                 <img src={anh5} alt="" />
                                 <div className="des">
-                                    <i>Bảng 1: Hình ảnh 6 mặt của 34 khối lập phương</i>
+                                    <i>Bảng 1: Hình ảnh 6 mặt của 102 khối lập phương</i>
                                 </div>
                             </div>
                             <div className="six-face">
@@ -66,12 +68,13 @@ const HomePage = () => {
                                     <img src={anh6} alt="" style={{ width: "60%" }} />
                                 </div>
                                 <div className="des">
-                                    <i>Bảng 2: Một số câu hỏi phụ hoặc phần quà bất ngờ khi tổ chức trò chơi</i>
+                                    <i>Bảng 2: Hình ảnh của 18 khối lập phương dành cho câu hỏi phụ hoặc phần quà bất ngờ khi tổ chức trò chơi</i>
                                 </div>
                             </div>
+                            <br />
                             <li>Ngăn 2: Chứa 60 khối lập phương đại diện cho 34 tỉnh/thành mới, 54 dân tộc Việt Nam cùng các khối trò chơi mở rộng.</li>
                             <div className="six-face">
-                                <img src={anh5} alt="" />
+                                <img src={anh7} alt="" />
                                 <div className="des">
                                     <i>Bảng 3: Hình ảnh 6 mặt của 34 khối lập phương</i>
                                 </div>
@@ -81,7 +84,7 @@ const HomePage = () => {
                                     <img src={anh6} alt="" style={{ width: "60%" }} />
                                 </div>
                                 <div className="des">
-                                    <i>Bảng 4: Một số câu hỏi phụ hoặc phần quà bất ngờ khi tổ chức trò chơi</i>
+                                    <i>Bảng 4: Hình ảnh của 26 khối lập phương dành cho câu hỏi phụ hoặc phần quà bất ngờ khi tổ chức trò chơi</i>
                                 </div>
                             </div>
 

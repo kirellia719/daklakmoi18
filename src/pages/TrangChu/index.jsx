@@ -6,6 +6,8 @@ import anhDT from "./dantoc.jpg";
 import anh from "./vali.png";
 import { NavLink } from "react-router-dom";
 
+import TiltImage from "../../components/TiltImage"
+
 const TrangChu = () => {
   return <div className="TrangChu">
     <section className="hero-wrapper">
@@ -22,7 +24,7 @@ const TrangChu = () => {
 
         <div className="hero-right">
           <div className="image-stack">
-            <img src={anh} alt="Hình 1" className="img" />
+            <TiltImage src={anh} width={500} />
           </div>
         </div>
       </div>
@@ -33,7 +35,7 @@ const TrangChu = () => {
         <h2 className="title">Khám phá dữ liệu</h2>
       </div>
       <div className="card-list">
-        <NavLink to="/tinh-thanh" className="card">
+        <NavLink to="/tinh" className="card">
           <img src={anhVN} alt="Khối tỉnh thành" />
           <div className="card-content">
             <h3>Tỉnh thành Việt Nam</h3>

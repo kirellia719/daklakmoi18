@@ -28,7 +28,6 @@ const TiltImage = ({ src, alt = 'Tilt Image' }) => {
     };
 
     useEffect(() => {
-        const container = containerRef.current;
         const image = imageRef.current;
 
         // Căn container theo đúng kích thước ảnh sau khi load
