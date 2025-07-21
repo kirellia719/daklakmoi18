@@ -20,146 +20,147 @@
       flex-direction: column;
       padding: 1.5rem;
    }
-}
 
-// Tiêu đề lớn
-.ten-dan-toc {
-   font-size: 2rem;
-   font-weight: 700;
-   margin-bottom: 1.5rem;
-   color: #1e293b;
-}
-
-// Phần thông tin chung
-.thong-tin-chung {
-   margin-bottom: 2rem;
-
-   h2 {
-      font-size: 1.25rem;
-      margin-bottom: 0.5rem;
-      color: #1d4ed8;
+   .ten-dan-toc {
+      font-size: 2rem;
+      font-weight: 700;
+      margin-bottom: 1.5rem;
+      color: #1e293b;
    }
 
-   ul {
-      list-style: none;
-      padding: 0;
+   // Phần thông tin chung
+   .thong-tin-chung {
+      margin-bottom: 2rem;
 
-      li {
+      h2 {
+         font-size: 1.25rem;
          margin-bottom: 0.5rem;
-         line-height: 1.6;
-
-         strong {
-            color: #0f172a;
-         }
+         color: #1d4ed8;
       }
-   }
-}
 
-// Nội dung chính
-.noi-dung {
-   flex: 1;
-   padding: 1rem;
-   border-radius: 8px;
-   background: #f8fafc;
-   box-shadow: 0 0 0 1px #e5e7eb;
-}
+      ul {
+         list-style: none;
+         padding: 0;
 
-// Mỗi mục nội dung chi tiết
-.noi-dung-muc {
-   margin-bottom: 2rem;
+         li {
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
 
-   h3 {
-      font-size: 1.1rem;
-      margin-bottom: 0.5rem;
-      color: #0f172a;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-
-      .icon {
-         font-size: 1.2rem;
-      }
-   }
-
-   p {
-      line-height: 1.6;
-      color: #334155;
-      margin: 0;
-   }
-}
-
-// ScrollSpy (mục lục)
-.muc-luc {
-   width: 240px;
-   position: sticky;
-   top: 100px;
-   align-self: flex-start;
-   border-radius: 8px;
-   background: #f8fafc;
-   box-shadow: 0 0 0 1px #e5e7eb;
-   padding: 1rem;
-
-   h2 {
-      font-size: 1rem;
-      margin-bottom: 0.75rem;
-      color: #1d4ed8;
-   }
-
-   ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-
-      li {
-         margin-bottom: 0.5rem;
-
-         button {
-            all: unset;
-            cursor: pointer;
-            font-size: 0.95rem;
-            color: #334155;
-            display: block;
-            width: 100%;
-            text-align: left;
-            padding-left: 0.25rem;
-
-            &:hover {
-               text-decoration: underline;
+            strong {
+               color: #0f172a;
             }
          }
       }
    }
 
-   // Mobile layout
-   @media (max-width: 768px) {
-      width: 100%;
-      position: static;
-      order: -1;
-      margin-bottom: 1.5rem;
-      background: transparent;
-      box-shadow: none;
-      padding: 0;
+   // Nội dung chính
+   .noi-dung {
+      flex: 1;
+      padding: 1rem;
+      border-radius: 8px;
+      background: #f8fafc;
+      box-shadow: 0 0 0 1px #e5e7eb;
+   }
+
+   // Mỗi mục nội dung chi tiết
+   .noi-dung-muc {
+      margin-bottom: 2rem;
+
+      h3 {
+         font-size: 1.1rem;
+         margin-bottom: 0.5rem;
+         color: #0f172a;
+         display: flex;
+         align-items: center;
+         gap: 0.5rem;
+
+         .icon {
+            font-size: 1.2rem;
+         }
+      }
+
+      p {
+         line-height: 1.6;
+         color: #334155;
+         margin: 0;
+      }
+   }
+
+   // ScrollSpy (mục lục)
+   .muc-luc {
+      width: 240px;
+      position: sticky;
+      top: 100px;
+      align-self: flex-start;
+      border-radius: 8px;
+      background: #f8fafc;
+      box-shadow: 0 0 0 1px #e5e7eb;
+      padding: 1rem;
+
+      h2 {
+         font-size: 1rem;
+         margin-bottom: 0.75rem;
+         color: #1d4ed8;
+      }
 
       ul {
-         display: flex;
-         flex-wrap: wrap;
-         gap: 0.75rem;
+         list-style: none;
+         padding: 0;
+         margin: 0;
 
          li {
-            margin: 0;
+            margin-bottom: 0.5rem;
 
             button {
-               font-size: 0.875rem;
-               background-color: #e2e8f0;
-               padding: 0.4rem 0.75rem;
-               border-radius: 5px;
-               white-space: nowrap;
+               all: unset;
+               cursor: pointer;
+               font-size: 0.95rem;
+               color: #334155;
+               display: block;
+               width: 100%;
+               text-align: left;
+               padding-left: 0.25rem;
 
                &:hover {
-                  background-color: #cbd5e1;
+                  text-decoration: underline;
+               }
+            }
+         }
+      }
+
+      // Mobile layout
+      @media (max-width: 768px) {
+         width: 100%;
+         position: static;
+         order: -1;
+         margin-bottom: 1.5rem;
+         background: transparent;
+         box-shadow: none;
+         padding: 0;
+
+         ul {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+
+            li {
+               margin: 0;
+
+               button {
+                  font-size: 0.875rem;
+                  background-color: #e2e8f0;
+                  padding: 0.4rem 0.75rem;
+                  border-radius: 5px;
+                  white-space: nowrap;
+
+                  &:hover {
+                     background-color: #cbd5e1;
+                  }
                }
             }
          }
       }
    }
 }
+
+// Tiêu đề lớn

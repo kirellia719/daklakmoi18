@@ -741,7 +741,7 @@ const dataDanToc = [
       "ten_tu_goi": "La Ha, Klá, Phlạo",
       "ten_goi_khac": "Xá Cha, Xá Bung, Xá Khao, Xá Táu Nhạ, Xá Poọng, Xá Uống, Bủ Hà, Pụa",
       "nhom_dia_phuong": "La Ha cạn (Khlá Phlao), La Ha nước (La Ha củng)",
-      "dan_so": "10.157 (Theo số liệu Điều tra 53 dân tộc thiểu số 01/4/2019)",
+      "dan_so": "10.157 người",
       "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Ka Đai, (ngữ hệ Thái - Ka Đai)"
     },
     "noi_dung_chi_tiet": [
@@ -863,9 +863,1824 @@ const dataDanToc = [
         "noi_dung": "Chiều chiều, trẻ em thường quây quần bên đống lửa quanh nhà, bên bờ suối vừa chơi, vừa hát, gõ cây làm nhịp."
       }
     ]
+  },
+  {
+    "id": 29,
+    "ten_dan_toc": "NGƯỜI LÀO",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Thay, Thay Duồn, Thay Nhuồn.",
+      "ten_goi_khac": "Phu Thay, Phu Lào.",
+      "nhom_dia_phuong": "Lào Bốc (Lào Cạn) và Lào Nọi (Lào Nhỏ).",
+      "dan_so": "17.532 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Tày - Thái (ngữ hệ Thái - Ka Ðai)."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Lào có nguồn gốc di cư từ Lào sang."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Người Lào làm ruộng nước với kỹ thuật dẫn thuỷ nhập điền hợp lý. Ngoài ra họ còn làm nương, chăn nuôi gia súc, gia cầm. Tiểu thủ công nghiệp gia đình của dân tộc đặc biệt phát triển. Họ làm gốm bằng bàn xoay với các sản phẩm như chum vại, vò, ché, nồi với chất lượng tốt. Nghề dệt thổ cẩm tạo ra nhiều sản phẩm có giá trị cao, thể hiện thẩm mỹ tinh tế. Nghề rèn, nghề chạm bạc... cũng góp phần thu nhập đáng kể cho nhiều gia đình. Hái lượm còn có vai trò nhất định đối với đời sống kinh tế của người Lào.\n\nLợi dụng sức nước để giã gạo là tập quán vốn có của nhiều dân tộc miền núi ở miền Bắc nước ta. Ðây là một dạng cối nước của người Lào ở thượng nguồn sông Mã."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Người Lào ăn nếp là chính. Về thực phẩm họ ưa ăn các món chế biến từ cá; đặc biệt có món Pàđẹc (cá ướp) rất nổi tiếng."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Phụ nữ Lào mặc váy thắt ngang ngực, buông ngang tầm bắp chân. Gấu váy thêu hoa văn màu tươi sáng rực rỡ. áo nữ ngắn, để hở phần ngực trên. Chiếc trâm bạc cài tóc hay khăn piêu đội đầu của phụ nữ Lào cũng được chạm khắc hoặc thêu thùa khéo léo. Nam phục Lào có nhiều nét tương đồng với người Thái."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Người Lào cư trú xen kẽ với người Thái, người Lự, người Khơ Mú ở các huyện Ðiện Biên, Phong Thổ (Lai Châu) và Sông Mã (Sơn La). Họ ở nhà sàn, lòng rộng, thoáng đãng, cột kèo được chạm khắc tinh vi. Mái nhà thường kéo dài tạo nên hiên để đặt khung cửi và các công cụ làm vải."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Người Lào quen gùi, gánh đôi dậu, đặc biệt giỏi đi thuyền trên sông, ở một số nơi họ còn sử dụng ngựa thồ."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Trước kia xã hội người Lào tuy phụ thuộc hệ thống tổ chức hành chính của phong kiến Thái nhưng được tự quản ở cấp bản. Mỗi bản có một người đứng đầu gọi là chẩu bản đại diện cho lợi ích cộng đồng. Thiết chế tự quản chi phối nhiều tới hoạt động kinh tế, đời sống tâm linh và đạo đức truyền thống.\n\nQuay xa dệt vải là công việc của người phụ nữ Lào.\n\nCũng như người Thái, người Lào quan niệm mỗi người có ba quan hệ họ hàng chính: ải Noọng - Lung Ta - Dinh Xao. Các dòng họ đều có tục kiêng cấm liên quan đến tô tem giáo."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Theo nguyên tắc hôn nhân thuận chiều. Con trai phía họ Dinh Xao được phép và khuyến khích lấy con gái phía họ Lung Ta, nhưng nghiêm cấm lấy ngược lại. Không có tục hôn nhân anh em chồng hoặc hôn nhân chị em vợ. Gia đình của người Lào dù lớn hay nhỏ mang tính phụ quyền rõ rệt mặc dầu người phụ nữ vẫn được đề cao. Sau hôn nhân, cô dâu cư trú bên nhà chồng. Gia đình của họ thường bền vững, ít có trường hợp đa thê, ngoại tình hay ly dị. Quan hệ trong mỗi nhà thường hoà hiếu, con cái được chăm sóc như nhau không phân biệt trai gái."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ mang thai và sinh đẻ được chăm sóc và quan tâm chu đáo. Họ cũng phải tuân theo nhiều kiêng cấm trong ăn uống cũng như hành vi ứng xử. Trẻ sơ sinh được đặt tên sau một tháng."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Tục thiêu xác chỉ thực hiện đối với người đứng đầu bản (chầu bản). Các trường hợp khác đều thổ táng. Lễ thiêu xác chầu bản do chẩu hua (ông sư) chủ trì với các nghi thức Phật giáo đã được hoà nhập và cải biến hợp với truyền thống tộc người. Người Lào không khóc trong các đám tang bởi họ quan niệm sự chết chỉ là quá trình thay đổi thế giới."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Người Lào theo Phật lịch và ăn tết vào tháng 4 âm lịch hàng năm (Bun Pi May). Hàng tháng, vào ngày rằm và ba mươi có tục dâng lễ lên tháp theo nghi thức Phật giáo, lễ vật chỉ có hoa quả. Họ cũng có nhiều nghi thức tín ngưỡng khác liên quan đến nông nghiệp như lễ cầu mưa (Xo Nặm Phôn) hay có tục ăn cơm mới."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Mỗi gia đình đều có nơi thờ tổ tiên. Mỗi bản làng có một ông thầy cúng (món) chuyên việc cúng khi có người đau ốm. Phật giáo ảnh hưởng sâu sắc đến đời sống văn hóa và xã hội người Lào."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Người Lào có chữ theo mẫu tự Sanscrit. Hiện nay vẫn còn nhiều sách viết trên lá cọ do các thầy cúng (mo lắm) giữ. Xưa, con trai đều phải kinh qua học sách Phật từ 3 đến 7 năm. Học xong thầy đặt cho học trò là Siêng nghĩa là người đã giỏi chữ."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Người Lào có vốn văn học dân gian phong phú với nhiều huyền thoại, cổ tích, dân ca... Phụ nữ Lào không chỉ hát hay mà còn rất giỏi các điệu dân vũ. Do sống xen kẽ lâu đời với người Thái, văn nghệ dân gian Lào ít nhiều chịu ảnh hưởng của văn hoá Thái. Chính điều đó đã làm cho văn nghệ của họ thêm phong phú."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "ten_dan_toc": "NGƯỜI LÔ LÔ",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Lô Lô.",
+      "ten_goi_khac": "Mùn Di, Di, Màn Di, La La, Qua La, Ô Man, Lu Lộc Màn.",
+      "nhom_dia_phuong": "Lô Lô hoa và Lô Lô đen.",
+      "dan_so": "4.827 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Tạng-Miến (ngữ hệ Hán-Tạng), gần với Miến hơn."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Họ là cư dân có mặt rất sớm ở vùng cực bắc của Hà Giang."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Người Lô Lô chủ yếu làm ruộng nước và nương định canh với các cây trồng chính như lúa nếp, lúa tẻ và ngô. Chăn nuôi gia đình tương đối phát triển và là một nguồn lợi đáng kể."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Người Lô Lô chủ yếu ăn ngô bằng cách xay thành bột đồ chín. Bữa ăn phải có canh. Họ thường dùng bát và thìa bằng gỗ."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Phụ nữ có nhóm mặc áo cổ tròn, xẻ ngực, có nhóm mặc áo cổ vuông chui đầu, quần chân què, có nơi bên ngoài còn quấn xà cạp. Trang trí trên y phục bằng hoa văn chắp ghép những mảng vải màu to. Họ có sử dụng hoa văn in bằng sáp ong."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Tuỳ từng nơi họ sống trong ba loại nhà: nhà trệt, nhà sàn hoặc nhà nửa sàn nửa đất ở các huyện Ðồng Văn, Mèo Vạc (Hà Giang), Bảo Lạc (Cao Bằng), Mường Khương (Lào Cai)."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Người Lô Lô quen dùng gùi đan bằng mây, giang, có hai quai để chuyên chở; địu trẻ em trên lưng khi đi xa hoặc lúc làm việc."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Người Lô Lô sống tập trung trong các bản tương đối ổn định. Tính cộng đồng tộc người thể hiện rõ nét.\nCó hơn 30 dòng họ khác nhau. Mỗi dòng họ thường quần tụ trong phạm vi một làng bản, thờ cúng chung một ông tổ và có một khu nghĩa địa riêng nằm trong nghĩa địa chung của công xã. Người Lô Lô thích các quan hệ hôn nhân nội tộc người và thực hiện nguyên tắc ngoại hôn giữa các dòng họ."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Phong tục cưới xin của người Lô Lô mang nặng tính gả bán với việc thách cưới cao (bạc trắng, rượu, thịt...). Sau hôn nhân, cô dâu cư trú bên chồng. Con trai cô có thể lấy con gái cậu song không được ngược lại."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ khi mang thai phải kiêng kỵ nhiều trong chế độ ăn uống và sản xuất. Sản phụ đẻ ở nhà với sự giúp đỡ của bà mụ trong bản. Sau 12 ngày làm lễ đặt tên cho con và có thể đổi tên nếu đứa trẻ hay khóc hoặc chậm lớn."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Tang ma có nhiều lễ thức độc đáo như hoá trang, nhảy múa, đánh lộn... Dấu vết của tục săn đầu còn thể hiện khá rõ ở hiện tượng một người luôn đeo chiếc túi vải có đựng khúc gỗ hay quả bầu có vẽ mặt người trong tang lễ."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Người Lô Lô thờ cúng tổ tiên, bố mẹ và những người thân đã mất. Trên bàn thờ có những bài vị hình nhân bằng gỗ, vẽ mặt bằng than đen. Linh hồn giữ vị trí quan trọng trong đời sống tâm linh."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Tết Nguyên đán như người Hán và người Việt. Ngoài ra còn có tục ăn Cơm mới, tết Ðoan ngọ, Rằm tháng bảy..."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Họ sử dụng lịch truyền miệng chia năm thành 11 tháng, mỗi tháng tương ứng với một con vật."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Khoảng thế kỷ thứ 14 người Lô Lô đã có chữ tượng hình với 140 bộ thủ. Người ta dùng phương pháp ghép bộ thủ để diễn đạt nghĩa. Chữ được ghi trên các tấm gỗ mỏng, trên da thú hoặc loại giấy dày, thô. Tới nay chỉ có một số gia đình còn giữ lại được một vài mảnh có ghi lại loại chữ đó mà ít ai đọc được."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Là một trong số ít các dân tộc ở nước ta hiện nay còn sử dụng trống đồng trong sinh hoạt. Trống đồng là một nhạc cụ truyền thống của người Lô Lô gắn liền với huyền thoại về nạn hồng thuỷ. Truyện kể rằng: xưa có nạn lụt lớn, nước dâng cao đến tận trời. Có hai chị em nhờ trời cứu để chị vào trống đồng to, em vào trống đồng nhỏ. Hai chị em thoát chết nhờ trống nổi lên mặt nước. Hết lụt họ ở trên núi, sống với nhau thành vợ, thành chồng. Họ là thuỷ tổ của loài người tái sinh.\n\nTrống đồng với tư cách là nhạc khí chỉ được dùng trong đám tang, giữ nhịp cho các điệu múa dân gian của cộng đồng. Quan niệm về âm dương, sự sinh sôi nảy nở có lẽ còn được bảo tồn rõ ràng với lối hoà tấu hai trống đực và cái cùng một lúc. Trống treo trên giá đặt ở phía chân người chết; mặt của hai trống quay lại với nhau. Người đánh trống đứng ở giữa, cầm dùi đánh bằng hai đầu, cứ một đầu dùi đánh một trống. Chỉ những người đàn ông chưa vợ hoặc có vợ không ở trong thời kỳ thai nghén mới được đánh trống.\n\nTrống đồng không những là một tài sản quý, một nhạc cụ độc đáo mà còn là một khí cụ mang tính chất tôn giáo. Có tiếng trống đồng thì hồn người chết mới tìm được đường về nơi sinh tụ đầu tiên của tổ tiên. Chỉ có trong đám ma mới đánh trống đồng. Ngày thường, người ra chôn trống dưới đất ở nơi sạch sẽ, kín đáo."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "ten_dan_toc": "NGƯỜI LỰ",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Lừ, Thay hoặc Thay Lừ.",
+      "ten_goi_khac": "Phù Lừ, Nhuồn, Duồn.",
+      "nhom_dia_phuong": "ở Việt Nam chỉ có nhóm Lự Ðen (Lừ Ðăm) ở xã Bản Hon, huyện Phong Thổ, Sìn Hồ (Lai Châu), phân biệt nhóm Lự Trắng (Lừ Khao) ở Síp Song Păn Na (Trung Quốc).",
+      "dan_so": "6.757 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Tày - Thái (ngữ hệ Thái - Ka Ðai)."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Lự đã có mặt ở khu vực Xam Mứn (Ðiện Biên) ít nhất cũng trước thế kỷ XI - XII. Tại đây họ đã xây thành Xam Mứn (Tam Vạn) và khai khẩn nhiều ruộng đồng. Vào thế kỷ chiến tranh người Lự phải phân tán đi khắp nơi, một bộ phận nhỏ chạy lên sinh sống ở vùng núi Phong Thổ, Sìn Hồ."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Người Lự sáng tạo ra hệ thống mương, phai truyền thống để dẫn thuỷ nhập điền. Ruộng trồng lúa nếp theo kỹ thuật cấy mạ hai lần. Có nơi đã biết dùng phân xanh, rác rưởi và phân chuồng để bón ruộng. Họ làm nương phát, đốt, chọc lỗ tra hạt hoặc cày do tiếp thu từ người Hmông. Nghề dệt phát triển. Dệt thổ cẩm với nhiều đường nét hoa văn đẹp. Người Lự có nghề rèn gươm nổi tiếng. Hái lượm, săn bắt, đặc biệt đánh cá ở suối là hoạt động thường xuyên."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Người Lự ăn xôi, ưa thích các món chế biến từ cá, trong đó có món nộm chua với thịt cá tươi. Lợn, trâu, bò chỉ mổ ăn khi có lễ tết, không mổ để bán."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Nữ mặc áo chàm, xẻ ngực. Váy nữ bằng vải chàm đen, có thêu dệt thành hai phần trang trí, dễ cảm giác như váy có hai tầng ghép lại. Cổ đeo vòng được nối hai đầu bằng chuỗi dây xà tích bằng bạc. Ðầu đội khăn cuốn nghiêng về phía trái, để lộ mặt trước với những đường gấp viền thêu hoa văn bổ dọc. Nhuộm răng đen. Ðeo vòng tay bằng bạc, bằng đồng.\n\nNam mặc quần áo bằng vải chàm đen, áo cánh kiểu xẻ ngực, cài cúc tết dây vải, có hai túi ở hai vạt áo và một túi ở ngực trái. Quần từ đầu gối trở xuống có thêu hoa văn. Họ đội khăn đen, gấp nếp cuốn nhiều vòng, thích nhuộm răng đen. Ðàn ông thường đeo gươm, không những để tự vệ mà còn là tập quán trang trí."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Người Lự cư trú ở các huyện Phong Thổ, Sìn Hồ, Ðiện Biên (Lai Châu). Nhà sàn 4 mái, mái kéo dài che làm hiên sàn nơi đặt khung dệt và các dụng cụ làm ra vải. Trong nhà có chăn, đệm, màn, rèm; bếp ở giữa nhà."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Gùi, trâu kéo, ngựa thồ."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Quan hệ láng giềng là chủ đạo. Họ theo tập quán tương trợ giữa các gia đình trong lao động sản xuất, khi làm nhà mới, cưới xin ma chay.\n\nHai họ - Pu Da (nội) và Ta Nai (ngoại) là quan trọng nhất."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Người Lự khuyến khích hôn nhân ngược chiều với câu tục ngữ \"dao khâu đồng, hôn nhân trở về lối cũ\". Em lấy vợ, anh em của vợ thuộc bàng hệ chéo hai, ba đời lại lấy chị em gái của chồng. Không có trường hợp ép duyên. Theo tục ở rể 3 năm sau đó về làm dâu 2 năm thì đôi vợ chồng được phép ra ở riêng để thành đơn vị gia đình hạt nhân sống trong nếp nhà sàn riêng của mình. Có ba bước cưới xin:\n\n+ \"Ăn giáp tối\": lễ nhập phòng.\n+ \"Ăn mới\": tổ chức ăn uống và nhà trai dâng lễ vật cho nhà gái trong đó phải có một thanh gươm.\n+ \"Ðón dâu\"."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Khi đầy tháng nhờ ông máy đem bút vót bằng cây guột và một mảnh vải trắng đĩa mực tàu đến bói và tìm tên cho trẻ nhỏ. Ðặt trứng gà lên bát gạo, ông máy gieo hạt gạo lên trông trứng xem chẵn, lẻ. Nếu ứng đúng như ông xướng thì lấy tên đó đặt cho trẻ và ghi tên vào mảnh vải rồi trao lại cho bố mẹ giữ lấy làm khai sinh. Nữ thường có tên là Kẻo (Ngọc) và nam là Khăm (Vàng)..."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Khi có người chết, người trong họ nội đội khăn trắng để tang. Mổ một trâu đen (không trắng) để cúng tiễn hồn về cõi hư vô. Quàn thi thể ở nhà 3 ngày rồi thuê 8 người ngoài họ để khiêng ra rừng ma. Chôn không đắp thành mồ. Những người đi đưa đám trước khi lên nhà phải tắm rửa sạch sẽ. Bà con gần gũi thuộc họ nội của người chết phải kiêng 3 ngày không lao động sản xuất."
+      },
+      {
+        "tieu_de": "Nhà mới",
+        "noi_dung": "Kiêng không làm lễ lên nhà mới vào giữa trưa. Sau khi quét sạch nhà, mời 4 cụ già ngoài họ đến uống rượu quanh một cái chậu có 4 chén rượu đặt ở giữa nhà. Một chàng trai trẻ đến bên cửa ra vào, ngồi xổm và cất tiếng xin mua nhà, các cụ đang uống rượu đáp: \"chủ nhà sắp đến nhận rồi\". Vợ chồng chủ nhà đã đứng sẵn ở chân cầu thang. Chồng mang một cái chài trên vai, vợ gánh một bên là kiềng và một bên là chõ xôi; chồng trước, vợ theo sau leo lên cầu thang, đặt đồ vào nhà. Tiếp theo, hai thiếu nữ thắp hai bó đuốc bước lên nhà. Một cô khác ở đầu cầu thang cầm ống nước để dập tắt lửa cháy ở bó đuốc đi đầu. Người thứ hai, cầm bó đuốc vẫn cháy sáng, đưa đến nhóm lửa ở bếp. Ngọn lửa phải giữ cho cháy suốt 3 ngày 3 đêm. Chủ nhà làm lễ thờ tổ tiên bằng cỗ đầu lợn. Dân bản được mời ăn cỗ uống rượu, mọi người vui hát theo điệu sáo đôi."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Người Lự thờ cúng tổ tiên ở gian \"hóng\" trong nhà, mỗi năm một lần vào tháng giêng theo lịch Lự, tương đương với tháng 10 âm lịch; thắp thêm 10 ngọn nến sáp ong ở quanh mâm cỗ. Ông \"chủ đầu\" (chảu hô) đọc bài cúng. Vào tháng giêng có lễ cúng bản gọi là \"kiêng bản\" (căm bản) với mâm cỗ 3 yến lợn đều cúng dựng ở đầu bản và cạnh sông, suối. Vào tháng 3 mồng 3 có lễ cúng ở khu \"rừng thiêng\" (đóng căm) với mâm cỗ 3 yến lợn và cũng như thế, tháng 6 mồng 6 với mâm cỗ 6 yến lợn. Sau khi \"chủ đầu\" làm lễ xong, cả bản ăn cỗ, uống rượu, chơi kéo co, ném én, hát sáo đôi và kiêng nội bất xuất, ngoại bất nhập từ 3 đến 9 ngày gọi chung là \"kiêng bản kiêng mường\"."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Cách đương đại 3 thế hệ về trước, khoảng 60-70 năm, người Lự còn thực hiện những nghi lễ Phật giáo gọi là bun như: lễ mừng năm mới (bun pi mày) vào tháng giêng; lễ té nước (bun huất nặm) vào tháng11, tháng 12 và lễ thả ống pháo sáng (bun bẳng phay) vào tháng 2, 3 theo âm lịch Lự."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Có lịch riêng - tháng giêng là tháng10 âm lịch."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Người Lự có sử dụng chữ theo mẫu tự Pali. Người ta lấy gai hoặc que sắt nhọn làm bút viết trên lá cọ rừng ghi nhiều loại truyện thần thoại, cổ tích. Cũng có thể vỏ cây guột khô, vót nhọn, chấm mực tàu viết trên miếng vải trắng. Xưa kia, trẻ 7-8 tuổi có tập quán đến học chữ của ông \"chẩu hua\" (sư)."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Hát Lự (Khắp Lử) là cách con gái dùng một khăn vải màu đỏ che mặt hát theo tiếng sáo đôi do con trai thổi đệm. Theo lối hát này (ỉn khống). Xưa, vào lúc màn đêm buông xuống, các đôi nam nữ ngồi trên chiếu cói trải giữa sân say sưa hát, thổi sáo cùng nhau đến tận nửa đêm."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Người Lự có các trò chơi kéo co, ném én. Nam thanh niên thích múa gươm."
+      }
+    ]
+  },
+  {
+    id: 32,
+    ten_dan_toc: "Người Mạ",
+    thong_tin_chung: {
+      ten_tu_goi: "Mạ",
+      ten_goi_khac: "Châu Mạ, Chô Mạ, Chê Mạ",
+      nhom_dia_phuong: "Mạ Ngăn, Mạ Xốp, Mạ Tô, Mạ Krung",
+      dan_so: "50.322 người",
+      ngon_ngu: "Tiếng nói thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á)."
+    },
+    noi_dung_chi_tiet: [
+      {
+        tieu_de: "Lịch sử",
+        noi_dung: "Người Mạ là cư dân sinh tụ lâu đời ở Tây Nguyên."
+      },
+      {
+        tieu_de: "Hoạt động sản xuất",
+        noi_dung: "Nương rẫy đóng vai trò chủ yếu trong đời sống của người Mạ. Ðây là loại rẫy đa canh, ngoài trồng lúa còn trồng các loại cây khác như bắp, bầu, bí, thuốc lá, bông vải, ở vùng sông Ðồng Nai, người Mạ làm ruộng bằng kỹ thuật lùa cả đàn trâu xuống ruộng quần đất đến khi nhão bùn thì gieo lúa giống. Họ tính năng suất của rẫy theo số gùi lúa thu được khi trỉa một gùi lúa giống. Công cụ làm rẫy chủ yếu là rìu, xà gạc, dao, liềm, gậy chọc lỗ, gùi. Nghề đánh cá khá phổ biến. Trước đây, họ biết chế thuốc độc từ loại lá rừng bỏ xuống suối để bắt cá. Người Mạ nổi tiếng về nghề trồng bông dệt vải."
+      },
+      {
+        tieu_de: "Ăn",
+        noi_dung: "Cơm gạo tẻ với muối trộn ớt, sả, măng tươi và một số loại rau rừng. Cách chế biến thức ăn chủ yếu là nướng, luộc, nấu canh. Họ thích uống rượu cần và hút thuốc lá bằng điếu khan."
+      },
+      {
+        tieu_de: "Mặc",
+        noi_dung: "Phụ nữ mặc váy quấn dài quá bắp chân, áo chui đầu vừa sát thân dài tới thắt lưng, kín tà. Nam đóng khố, áo hở tà, vạt sau dài hơn vạt trước. Mùa lạnh, người già thường khoác thêm tấm mền. Người Mạ có tập quán cà răng, căng tai, phụ nữ thích đeo chuỗi hạt cườm nhiều màu sắc. Thanh niên mang nhiều vòng đồng ở cổ tay có ngấn khắc chìm như là ký hiệu của các lễ hiến sinh tế thần linh, cầu mát cho chính mình."
+      },
+      {
+        tieu_de: "Ở",
+        noi_dung: "Người Mạ thường sống thành từng làng (bon) với một khu vực đất đai riêng biệt trên các cao nguyên Bảo Lộc, Di Linh, Ðạ Tẻ, lưu vực sông Ðồng Nai (Lâm Ðồng). Mỗi \"bon\" có từ 5 đến 10 nhà sàn dài. Nhà được làm bằng nứa, bương mai, hai mái lợp bằng lá mây. Mái cửa ra vào (cửa mẹ) uốn khum thành vòm bằng cành trúc đội trên mái cỏ. Xung quanh nhà ở, Họ còn dựng nhiều kho lúa trên sàn cao. Các cột nhà kho đều trang trí theo mô típ chày cối."
+      },
+      {
+        tieu_de: "Phương tiện vận chuyển",
+        noi_dung: "Chủ yếu là chiếc gùi nan mang sau lưng với nhiều loại to nhỏ khác nhau. Chiếc gùi dùng đi xa được trang trí hoa văn qua các đường đan. ở vùng ven sông Ðồng Nai, người Mạ làm thuyền độc mộc để đi lại, vận chuyển và đánh cá trên sông."
+      },
+      {
+        tieu_de: "Quan hệ xã hội",
+        noi_dung: "Làng là đơn vị tổ chức xã hội cao nhất của người Mạ do chủ làng đứng đầu (quăng bon). Chủ làng có nhiệm vụ cùng tế trong các nghi lễ mang tính chất cộng đồng. Người Mạ tồn tại hai hình thức gia đình: gia đình lớn phụ quyền và gia đình nhỏ phụ quyền. Người chủ gia đình lớn là người cao tuổi nhất của thế hệ cao nhất trong gia tộc, có nhiệm vụ điều hành mọi công việc trong gia đình và trông coi các đồ dùng quý hiếm như chiêng, ché.\n\nTrong loại gia đình lớn phụ quyền, từng cặp vợ chồng với con cái ở chung nhưng làm ăn riêng, còn gia đình nhỏ phụ quyền thì như một đơn vị kinh tế cá thể nhưng vẫn lưu giữ dấu vết của gia đình lớn phụ hệ.\n\nNgôi nhà dài truyền thống của người Mạ còn lại rất ít trong các buôn làng."
+      },
+      {
+        tieu_de: "Cưới xin",
+        noi_dung: "Quyền chủ động hôn nhân do bên nhà trai, nhưng sau lễ cưới nếu nhà trai nộp đủ sính lễ thì đôi vợ chồng chỉ ở lại nhà gái 8 ngày, còn không, chàng trai phải ở rể đến khi nộp đủ mới được đưa vợ về nhà mình."
+      },
+      {
+        tieu_de: "Sinh đẻ",
+        noi_dung: "Khi sinh con trai, nhau của đứa trẻ đựng trong vỏ trái bầu khô chôn trước nhà, nếu sinh con gái nhau chôn sau nhà. Sang ngày thứ 8, người mẹ bồng con ra sân tắm nắng, nếu con trai phải mang theo xà gạt, nỏ, dao vót nan, con gái mang theo gùi, rìu chẻ củi, túi đựng cơm và giới bên kia như xà gạt, rìu, ché, váy áo chôn cùng huyệt hoặc bỏ rải rác xung quanh mộ. Sau lễ mai táng thì bỏ mả và tang chủ phải kiêng 7 ngày không được vào rừng hoặc lên rẫy."
+      },
+      {
+        tieu_de: "Thờ cúng",
+        noi_dung: "Người Mạ tin có thần (Yang). Họ thờ cúng nhiều Yang như Yang Hiu (thần nhà), Yang Koi (thần lúa), Yang Bơnơm (thần núi). Họ thường giết súc vật tế thần vào những dịp được mùa, sinh đẻ, bệnh tật, chết chóc. Lễ hiến sinh lớn nhất là lễ đâm trâu, thường được thực hiện lúc kết thúc mùa rẫy."
+      },
+      {
+        tieu_de: "Lịch",
+        noi_dung: "Người Mạ theo âm lịch."
+      },
+      {
+        tieu_de: "Học",
+        noi_dung: "Người Mạ không có chữ viết, nền văn hoá dân gian Mạ vẫn sống bằng lối sống nghìn xưa - thuộc lòng và truyền miệng."
+      },
+      {
+        tieu_de: "Văn nghệ",
+        noi_dung: "Vốn văn học nghệ thuật dân gian khá phong phú gồm nhiều truyền thuyết, truyện cổ và những bài dân ca trữ tình gọi là \"tam bớt\".\n\nNhạc cụ truyền thống là bộ chiêng đồng 6 chiếc không núm. Khi hoà tấu có trống bịt da trâu đánh giáo đầu, giữ nhịp và đổ hồi trước khi kết thúc. Con trai Mạ thường thổi khèn bầu, sáo trúc, tù và bằng sừng trâu."
+      }
+    ]
+  },
+  {
+    id: 33,
+    ten_dan_toc: "Người Mảng",
+    thong_tin_chung: {
+      ten_tu_goi: "Mảng",
+      ten_goi_khac: "Mảng Ư, Xá Mảng, Niểng O, Xá Bá O",
+      nhom_dia_phuong: "Mảng Gứng, Mảng Hệ",
+      dan_so: "4.650 người",
+      ngon_ngu: "Tiếng nói thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam - Á). Nhiều người Mảng biết tiếng Thái."
+    },
+    noi_dung_chi_tiet: [
+      {
+        tieu_de: "Lịch sử",
+        noi_dung: "Xưa nay vùng Nặm Ban (Dum Bai) thuộc xã Nặm Ban, huyện Sìn Hồ tỉnh Lai Châu vẫn được gọi là \"quê hương\" của người Mảng. Nhiều truyền thuyết, truyện kể còn lưu truyền cho đến ngày nay giúp chúng ta có thể nhận ra người Mảng là một trong những dân cư bản địa ở vùng Tây Bắc."
+      },
+      {
+        tieu_de: "Hoạt động sản xuất",
+        noi_dung: "Người Mảng là cư dân \"ăn nương\" chuyên sống bằng nông nghiệp nương rẫy theo lối sống du canh du cư. Việc chọn nương, đánh dấu sở hữu được tiến hành từ sau tết. Tháng 3-4 phát cỏ, để khô, nỏ; tháng 5-6 đốt rồi gieo hạt. Công cụ làm nương có rìu, dao, gậy chọc lỗ. Năng suất lúa thường thấp do đất đai cằn cỗi, rừng non, đời sống bấp bênh, thiếu ăn quanh năm. Mấy năm gần đây họ đã biết làm nương cuốc; một số nơi làm ruộng bậc thang, năng suất lúa ổn định hơn. Chăn nuôi, thủ công chưa phát triển. Hái lượm, săn bắt trong suốt 4 mùa vẫn giữ vai trò quan trọng. Nhiều sản phẩm đan lát như bem, cót, gùi rất được các dân tộc khác ưa chuộng."
+      },
+      {
+        tieu_de: "Ăn",
+        noi_dung: "Người Mảng ăn 2 bữa (trưa - tối), ngô là lương thực chính, ngô trộn sắn hoặc trộn với ít gạo đồ lên. Lá sắn non đồ muối là thức ăn gần như quanh năm. Họ ưa hút thuốc lào, uống rượu trắng."
+      },
+      {
+        tieu_de: "Mặc",
+        noi_dung: "Y phục truyền thống vẫn được giữ gìn. Nét độc đáo trong y phục phụ nữ Mảng là tấm choàng quấn quanh thân bằng vải thô màu trắng, ở giữa thêu hàng chỉ đỏ. Đầu để trần, tóc buộc thành chỏm bằng dây có tua, chân quấn xà cạp. Nhiều người hiện mặc giống người Thái hoặc Việt."
+      },
+      {
+        tieu_de: "Ở",
+        noi_dung: "Nhà sàn, gỗ tạp, kỹ thuật thô sơ."
+      },
+      {
+        tieu_de: "Phương tiện vận chuyển",
+        noi_dung: "Phổ biến dùng gùi, có dây đeo trên trán sau gáy có ách."
+      },
+      {
+        tieu_de: "Quan hệ xã hội",
+        noi_dung: "Người đứng đầu tổ chức xã hội truyền thống là Pơgia cùng hội đồng các trưởng họ điều khiển hoạt động văn hóa, tôn giáo, xã hội. Sau bị chi phối bởi xã hội Thái. Tổ chức bản (Muy) vẫn duy trì. Bản có trưởng bản, hội đồng già làng và các họ lớn. Người Mảng có năm họ chính, mỗi họ lấy một con vật làm vật tổ."
+      },
+      {
+        tieu_de: "Ma chay",
+        noi_dung: "Tang lễ gồm nhiều nghi thức phức tạp. Quan tài xưa làm bằng vỏ cây, tre ghép; sau này bằng thân cây khoét rỗng hoặc hòm gỗ."
+      },
+      {
+        tieu_de: "Nhà mới",
+        noi_dung: "Từ khâu chọn đất, san nền, dựng cột, lợp mái đều nhờ thầy bói xem ngày giờ. Lễ mừng nhà mới là ngày hội của bản, gồm nhiều nghi lễ đặc trưng thể hiện bản sắc tộc người."
+      },
+      {
+        tieu_de: "Lễ tết",
+        noi_dung: "Ngoài tết Nguyên đán, người Mảng còn ăn tết Cơm mới sau vụ gặt tháng 10 âm lịch. Hằng năm còn cúng ma bản, ma nhà. Có nhiều nghi lễ nông nghiệp: lễ gieo nương, cúng hồn lúa, mẹ lúa, cúng sau vụ thu hoạch..."
+      },
+      {
+        tieu_de: "Thờ cúng",
+        noi_dung: "Ma nhà được cúng dịp tết hoặc khi có người ốm. Trời là đấng sáng tạo tối cao. Có truyền thuyết quả bầu về nguồn gốc loài người. Quan niệm vũ trụ có 4 tầng: trời - người & ma - người lùn - thế giới thuồng luồng. Người Mảng tin có nhiều ma, thờ cả ma Đẳm - tổ tiên dòng họ."
+      },
+      {
+        tieu_de: "Văn nghệ",
+        noi_dung: "Làn điệu dân ca \"xoỏng\" được nhiều người biết và ưa thích. Truyện dã sử, truyện kể về lịch sử dân tộc thường do người già kể say sưa."
+      },
+      {
+        tieu_de: "Chơi",
+        noi_dung: "Vào lễ tết, trẻ em chơi cầu lông, đánh quay. Thanh niên có nơi chơi ném còn."
+      }
+    ]
+  },
+  {
+    id: 34,
+    ten_dan_toc: "Người Mnông",
+    thong_tin_chung: {
+      ten_tu_goi: "Mnông",
+      ten_goi_khac: "",
+      nhom_dia_phuong: "Mnông Gar, Mnông Nông, Mnông Chil, Mnông Kuênh, Mnông Rlâm, Mnông Preh, Mnông Prâng, Mnông Ðíp, Mnông Bhiêt, Mnông Sitô, Mnông Bu Ðâng, Mnông Bu Nor, Mnông Bu Ðêh...",
+      dan_so: "127.334 người",
+      ngon_ngu: "Tiếng nói thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á)."
+    },
+    noi_dung_chi_tiet: [
+      {
+        tieu_de: "Lịch sử",
+        noi_dung: "Người Mnông là cư dân sinh tụ lâu đời ở miền trung Tây Nguyên nước ta."
+      },
+      {
+        tieu_de: "Hoạt động sản xuất",
+        noi_dung: "Người Mnông trồng lúa nương bằng phương pháp \"đao canh hoả chủng\": phát, đốt rồi chọc lỗ tra hạt; thu hoạch bằng cách tuốt tay. Họ trồng lúa nước bằng \"đao canh thuỷ nậu\" trên vùng đầm lầy, không cấy mạ, dùng trâu quần đất rồi gieo hạt. Vai trò của cái cuốc rất quan trọng trong sản xuất nông nghiệp truyền thống. Ngoài ra, họ còn săn bắn, hái lượm, đan đồ gia dụng, trồng bông dệt vải, làm gốm thô, nặn tay và nung lộ thiên. Ở vùng Buôn Đôn, nghề săn và thuần dưỡng voi rừng rất nổi tiếng."
+      },
+      {
+        tieu_de: "Ăn",
+        noi_dung: "Họ ăn cơm gạo tẻ nấu bằng nồi đất, trước kia phổ biến là cơm lam. Trưa ăn cháo chua đựng trong trái bầu khô. Thức ăn gồm muối ớt, rau rừng, thịt chim thú, cá suối. Rau củ trồng để bổ sung cho hái lượm. Thức uống phổ biến là rượu cần."
+      },
+      {
+        tieu_de: "Mặc",
+        noi_dung: "Về mùa nóng, đàn ông thường đóng khố, ở trần; đàn bà quấn váy tấm, cũng ở trần. Mùa lạnh khoác thêm mền. Hiện nay trang phục đã tiếp thu yếu tố Việt. Tập quán 'cà răng căng tai' phổ biến trước kia, nay chỉ còn ở người cao tuổi."
+      },
+      {
+        tieu_de: "Ở",
+        noi_dung: "Người Mnông cư trú theo nhóm địa phương tại Đắk Lắk, Đắk Nông, Lâm Đồng, một phần phía bắc Sông Bé và miền đông Campuchia. Tùy nhóm mà làm nhà trệt hoặc nhà sàn. Nhà trệt mái tranh sát đất phổ biến ở Mnông Gar, Preh, Prâng; nhà sàn sàn thấp 0.7–1m phổ biến ở Mnông Kuênh, Chil, Bhiêt; Mnông Rlâm có nhà sàn cao như người Ê Đê. Nhà làm bằng tre nứa, gỗ, kết nối bằng chạc, ngoãm, dây mây rừng."
+      },
+      {
+        tieu_de: "Phương tiện vận chuyển",
+        noi_dung: "Chủ yếu dùng gùi cõng trên lưng. Vận chuyển bằng voi phổ biến ở vùng người Mnông. Đi lại, vận chuyển trên sông, hồ dùng thuyền độc mộc."
+      },
+      {
+        tieu_de: "Quan hệ xã hội",
+        noi_dung: "Đơn vị cư trú gọi là bon hoặc uôn. Các gia đình có quan hệ láng giềng, huyết thống, hôn nhân. Dấu vết mẫu hệ rất rõ, con mang họ mẹ. Người đứng đầu là Rnút hoặc Kroanh bon, có phụ tá Rnoi, Rnớp. Khi cần chiến đấu cử Né tăm lăm lở làm thủ lĩnh. Xã hội vận hành theo tập quán pháp truyền miệng qua các thế hệ."
+      },
+      {
+        tieu_de: "Cưới xin",
+        noi_dung: "Phụ nữ chủ động hôn nhân, hai bên cùng tổ chức lễ cưới. Cư trú phổ biến phía nhà gái hoặc luân cư. Con mang họ mẹ. Tập quán cưới gồm ba lễ: Sa ur (chạm ngõ), Tâm ốp (ăn hỏi), Tám nsông (thành hôn). Chế độ một vợ một chồng nghiêm ngặt. Luật tục phạt nặng tội loạn luân, ngoại tình."
+      },
+      {
+        tieu_de: "Ma chay",
+        noi_dung: "Người chết do già, bệnh thì quàn 2 ngày rồi mai táng. Chết do tai nạn (rắn cắn, hổ vồ, chiến tranh...) bị coi là 'chết bất đắc kỳ tử', không được đưa vào nhà, phải chôn gấp. Không cải táng. Người chết được chia tài sản để mang về thế giới ông bà (Phan)."
+      },
+      {
+        tieu_de: "Nhà mới",
+        noi_dung: "Sau khi dựng xong nhà, tổ chức lễ khánh thành linh đình với tiệc mặn cúng heo, sau đó là tiệc rượu cần và nhạc chiêng."
+      },
+      {
+        tieu_de: "Lễ tết",
+        noi_dung: "Lễ hội đâm trâu là lớn nhất. Mỗi làng tổ chức tết mừng cơm mới sau mùa gặt để tạ ơn thần lúa, trời đất và cầu mùa vụ mới tốt lành."
+      },
+      {
+        tieu_de: "Lịch",
+        noi_dung: "Nông lịch cổ truyền Mnông tính theo âm lịch, dựa trên quy trình canh tác rẫy. Một năm có 12 tháng, mỗi tháng từ 29 đến 30 ngày."
+      },
+      {
+        tieu_de: "Học",
+        noi_dung: "Xã hội cổ truyền không có chữ viết, chỉ có văn chương truyền miệng. Việc học qua làm mẫu, bắt chước. Thập kỷ gần đây có chữ viết nhưng phổ biến còn hạn chế."
+      },
+      {
+        tieu_de: "Văn nghệ",
+        noi_dung: "Kho tàng truyện cổ, sử thi, tập quán pháp ca phong phú. Tục ngữ, ca dao, dân ca đa dạng. Nhạc cụ có cồng chiêng, kèn bầu, kèn sừng trâu, kèn môi, đàn độc huyền, đàn 8 dây, sáo dọc. Vỏ trái bầu khô dùng làm bộ khuếch đại âm thanh. Có bộ đàn đá nguyên thủy nổi tiếng phát hiện giữa thế kỷ XX."
+      },
+      {
+        tieu_de: "Chơi",
+        noi_dung: "Trẻ em thích chơi diều, đánh cù, bịt mắt bắt dê, chạy nhảy..."
+      }
+    ]
+  },
+  {
+    id: 35,
+    ten_dan_toc: "Người Mông",
+    thong_tin_chung: {
+      ten_tu_goi: "Mông, Na Miẻo",
+      ten_goi_khac: "Mẹo, Mèo, Miếu Hạ, Mán Trắng",
+      nhom_dia_phuong: "Mông Trắng, Mông Hoa, Mông Ðỏ, Mông Ðen, Mông Xanh, Na Miẻo",
+      dan_so: "1.393.547 người",
+      ngon_ngu: "Tiếng nói thuộc ngôn ngữ hệ Mông - Dao."
+    },
+    noi_dung_chi_tiet: [
+      {
+        tieu_de: "Hoạt động sản xuất",
+        noi_dung: "Nguồn sống chính là làm nương định canh hoặc nương du canh trồng ngô, lúa, lúa mạch. Trồng xen canh với ý dĩ, khoai, rau, lạc, vừng, đậu. Phát triển nghề trồng lanh, cây ăn quả, chăn nuôi trâu, bò, lợn, gà, ngựa thồ. Phát triển các nghề thủ công như đan lát, rèn, làm yên cương, đồ gỗ, làm giấy bản, đồ trang sức bạc. Chợ phiên là nơi giao lưu văn hóa và trao đổi hàng hóa quan trọng."
+      },
+      {
+        tieu_de: "Ăn",
+        noi_dung: "Người Mông ăn 2–3 bữa/ngày. Món chính gồm mèn mén, cơm, rau xào mỡ, canh. Thức uống phổ biến là rượu ngô, rượu gạo. Họ hút thuốc bằng điếu cày, từng phổ biến hút thuốc phiện. Đặc sản thắng cố được nấu trong các dịp đặc biệt."
+      },
+      {
+        tieu_de: "Mặc",
+        noi_dung: "Trang phục sặc sỡ, khác nhau giữa các nhóm địa phương. Phụ nữ Mông Trắng mặc váy trắng, áo xẻ ngực, thêu tay áo. Mông Hoa mặc váy chàm thêu sáp ong, áo xẻ nách. Mông Đen mặc váy chàm, áo xẻ ngực. Mông Xanh mặc váy ống, tóc búi cao như hai sừng. Trang trí chủ yếu bằng thêu, vải màu hình ốc, vuông, quả trám, chữ thập."
+      },
+      {
+        tieu_de: "Ở",
+        noi_dung: "Người Mông sống thành bản vài chục nóc nhà, nhà trệt ba gian hai chái. Gian giữa đặt bàn thờ. Nhà giàu có tường trình, mái ngói. Phổ biến là nhà vách nứa, mái tranh. Lương thực cất trên sàn hoặc nhà kho. Chuồng gia súc sạch sẽ, lát ván. Vùng cao có tường đá ngăn giữa các khuôn viên nhà."
+      },
+      {
+        tieu_de: "Phương tiện vận chuyển",
+        noi_dung: "Người Mông dùng ngựa thồ, gùi đeo hai vai làm phương tiện vận chuyển chủ yếu ở vùng cao."
+      },
+      {
+        tieu_de: "Quan hệ xã hội",
+        noi_dung: "Mỗi bản có nhiều họ, một vài họ giữ vị trí chủ đạo. Quan hệ gắn kết qua thờ thổ thần và quy ước chung. Rất coi trọng dòng họ. Cùng họ không được kết hôn. Trưởng họ có uy tín, giữ vai trò điều hành nghi lễ. Gia đình nhỏ, phụ hệ. Vợ chồng gắn bó, có tục cướp vợ."
+      },
+      {
+        tieu_de: "Thờ cúng",
+        noi_dung: "Thờ tổ tiên, ma nhà, ma cửa, ma bếp. Người làm thầy, thầy thuốc còn lập bàn thờ riêng. Sau lễ cúng thường đeo bùa cầu may. Có nhiều kiêng kỵ với người lạ trong ngày cúng."
+      },
+      {
+        tieu_de: "Học",
+        noi_dung: "Chữ Mông được soạn từ thập kỷ 60 theo hệ chữ quốc ngữ nhưng chưa phổ biến rộng rãi."
+      },
+      {
+        tieu_de: "Lễ tết",
+        noi_dung: "Tết cổ truyền vào đầu tháng 12 âm lịch, sớm hơn người Kinh một tháng. Ngày tết thường có chơi ném còn, đu, thổi khèn, ca hát. Các tết khác: mùng 5/5, mùng 3/3, 13/6, 7/7 âm lịch."
+      },
+      {
+        tieu_de: "Văn nghệ",
+        noi_dung: "Thanh niên thích thổi khèn, múa khèn. Khèn, trống dùng trong lễ tang, lễ cúng. Kèn lá, đàn môi dùng để trao đổi tâm tình."
+      }
+    ]
+  },
+  {
+    id: 36,
+    ten_dan_toc: "Người Mường",
+    thong_tin_chung: {
+      ten_tu_goi: "Mol (hoặc Mon, Moan, Mual)",
+      ten_goi_khac: "",
+      nhom_dia_phuong: "Ao Tá (Âu Tá), Mọi Bi",
+      dan_so: "1.452.095 người",
+      ngon_ngu: "Tiếng nói thuộc nhóm ngôn ngữ Việt - Mường (ngữ hệ Nam Á)."
+    },
+    noi_dung_chi_tiet: [
+      {
+        tieu_de: "Lịch sử",
+        noi_dung: "Cùng nguồn gốc với người Việt, cư trú lâu đời ở vùng Hoà Bình, Thanh Hoá, Phú Thọ."
+      },
+      {
+        tieu_de: "Hoạt động sản xuất",
+        noi_dung: "Làm ruộng nước là chính, trồng lúa, làm nương rẫy, chăn nuôi, săn bắn, đánh cá, hái lượm, dệt vải, đan lát... Dụng cụ phổ biến: cày chìa vôi, bừa răng tre/gỗ. Lúa gặt bó, phơi trên gác, chà bằng chân, giã lấy gạo. Có kinh nghiệm làm thuỷ lợi nhỏ."
+      },
+      {
+        tieu_de: "Ăn",
+        noi_dung: "Thích ăn đồ hấp như xôi, cơm tẻ, rau, cá. Dùng rá để tãi cơm, tránh nát. Rượu cần nổi tiếng, uống trong lễ hội. Nam và nữ đều hút thuốc lào bằng điếu to, phụ nữ có thể chuyền nhau hút chung."
+      },
+      {
+        tieu_de: "Mặc",
+        noi_dung: "Phụ nữ đội khăn trắng, mặc yếm, áo cánh ngắn, váy dài, nổi bật với cạp váy dệt hoa văn tinh xảo. Trang sức có vòng tay, chuỗi hạt, xà tích đeo hộp trầu hình quả đào, móng hổ, móng gấu bịt bạc. Thầy mo có trang phục riêng khi hành lễ."
+      },
+      {
+        tieu_de: "Ở",
+        noi_dung: "Sống tập trung thành làng ở chân núi, sườn đồi, gần sông suối (Hoà Bình, Thanh Hoá, Phú Thọ). Nhà sàn kiểu bốn mái, trên ở, dưới để gia súc, dụng cụ. Mỗi làng vài chục nóc nhà, vườn thường trồng cau, mít."
+      },
+      {
+        tieu_de: "Phương tiện vận chuyển",
+        noi_dung: "Phụ nữ dùng gùi đan giang hoặc tre, đeo qua trán hoặc vai. Còn có đôi dậu, đòn gánh, đòn xóc. Nước sạch đựng trong ống nứa dài hơn 1 mét vác vai từ suối về."
+      },
+      {
+        tieu_de: "Quan hệ xã hội",
+        noi_dung: "Quan hệ làng xóm chủ yếu là láng giềng. Gia đình phổ biến 2–3 thế hệ, theo phụ quyền, con lấy họ cha, con trai trưởng được thừa kế tài sản."
+      },
+      {
+        tieu_de: "Cưới xin",
+        noi_dung: "Trai gái tự do yêu đương. Lễ cưới có nhiều bước: ướm hỏi, bỏ trầu, xin cưới, lễ cháu, đón dâu. Chú rể gùi cơm, gà lễ vật sang nhà gái. Cô dâu đội nón, mặc áo dài đen, mang theo chăn, đệm, gối biếu nhà chồng."
+      },
+      {
+        tieu_de: "Sinh đẻ",
+        noi_dung: "Chồng làm buồng đẻ bằng phên nứa, bà đỡ cắt rốn bằng dao nứa lấy từ mái nhà. Rốn con đựng chung ống nứa. Sau sinh, tổ chức ăn mừng, tặng quà. Trẻ được đặt tên khi khoảng 1 tuổi."
+      },
+      {
+        tieu_de: "Ma chay",
+        noi_dung: "Người chết được phát tang bằng nghi lễ do thầy mo chủ trì. Con trai trưởng chặt vào khung cửa để báo tang. Thi thể liệm nhiều lớp, quan tài bằng gỗ khoét rỗng, phủ áo vẩy rồng. Con dâu, cháu dâu có tang phục riêng gọi là quạt ma."
+      },
+      {
+        tieu_de: "Lịch",
+        noi_dung: "Lịch cổ truyền gọi là sách đoi, làm từ 12 thẻ tre, mỗi thẻ tương ứng 1 tháng. Dựa vào chuyển động sao Đoi để tính ngày tốt/xấu. Người Mường Bi có cách tính lịch riêng khác so với các nơi khác."
+      },
+      {
+        tieu_de: "Văn nghệ",
+        noi_dung: "Hát Xéc bùa, Ràng thường (hoặc Xường), Bọ mẹng (giao duyên), ví đúm, hát ru, đồng dao... Lễ ca là các áng mo do thầy mo đọc/hát. Nhạc cụ: sáo, nhị, trống, kèn, đặc biệt là cồng chiêng."
+      },
+      {
+        tieu_de: "Chơi",
+        noi_dung: "Trò chơi truyền thống gồm thi bắn nỏ, đánh đu, ném còn... Trẻ em chơi cò le, đánh chó, buôn chó, chăm chỉ, chằm chăn... được tổ chức linh hoạt và vui nhộn."
+      }
+    ]
   }
+  ,
+  {
+    id: 37,
+    ten_dan_toc: "Người Ngái",
+    thong_tin_chung: {
+      ten_tu_goi: "Sán Ngải",
+      ten_goi_khac: "Ngái Hắc Cá, Ngái Lầu Mần, Hẹ, Sín, Ðản, Lê, Xuyến",
+      nhom_dia_phuong: "",
+      dan_so: "1.649 người",
+      ngon_ngu: "Tiếng nói thuộc nhóm ngôn ngữ Hán (ngữ hệ Hán - Tạng)."
+    },
+    noi_dung_chi_tiet: [
+      {
+        tieu_de: "Lịch sử",
+        noi_dung: "Người Ngái có nhiều gốc khác nhau và thiên di tới Việt Nam làm nhiều đợt, chủ yếu trong thời Trung và Cận đại."
+      },
+      {
+        tieu_de: "Hoạt động sản xuất",
+        noi_dung: "Chủ yếu trồng lúa nước, trồng ngô, khoai, sắn và chăn nuôi. Người sống ven biển làm nghề đánh cá. Một số nghề thủ công phổ biến gồm: làm mành trúc, dệt chiếu, mộc, nề, rèn, làm gạch ngói, nung vôi..."
+      },
+      {
+        tieu_de: "Ăn",
+        noi_dung: "Ăn ba bữa mỗi ngày. Thích ăn cháo, rau và sử dụng nhiều gia vị như tỏi, ớt, gừng trong bữa ăn."
+      },
+      {
+        tieu_de: "Mặc",
+        noi_dung: "Trang phục không có thêu thùa. Nam mặc quần lá tọa, áo có 2–3 túi. Nữ mặc áo năm thân dài quá mông, cài khuy bên nách phải, thích tết tóc và cuốn quanh đầu."
+      },
+      {
+        tieu_de: "Ở",
+        noi_dung: "Sống phân tán tại các tỉnh: Bắc Giang, Cao Bằng, Lạng Sơn, Quảng Ninh... Ở nhà đất với nhiều kiểu kiến trúc khác nhau. Bộ phận ven biển, hải đảo sống trên thuyền."
+      },
+      {
+        tieu_de: "Phương tiện vận chuyển",
+        noi_dung: "Người miền núi dùng gùi, sọt; người miền biển dùng thuyền, xuồng ba lá."
+      },
+      {
+        tieu_de: "Quan hệ xã hội",
+        noi_dung: "Gia đình nhỏ, theo phụ quyền. Vẫn duy trì quan hệ cộng đồng mạnh. Vị trí tộc trưởng có vai trò lớn. Dòng họ theo cha, nhưng họ mẹ (đặc biệt là ông cậu) cũng có ảnh hưởng. Dùng hệ thống tên đệm để phân biệt chi ngành."
+      },
+      {
+        tieu_de: "Cưới xin",
+        noi_dung: "Chế độ một vợ một chồng. Có hai lần cưới: thành hôn và nhập phòng. Kết hôn sớm, mang tính gả bán. Sau cưới, vợ ở bên chồng; ở rể chỉ khi đặc biệt."
+      },
+      {
+        tieu_de: "Sinh đẻ",
+        noi_dung: "Phụ nữ mang thai và sinh con phải kiêng cữ trong ăn uống, hành vi. Trẻ sơ sinh được cho ăn bột sau 2–3 ngày."
+      },
+      {
+        tieu_de: "Ma chay",
+        noi_dung: "Tin rằng linh hồn tiếp tục sống ở thế giới khác nên chôn theo đồ tuỳ táng. Tang lễ có nhiều công đoạn: báo tang, nhập quan, chôn cất, mở mả..."
+      },
+      {
+        tieu_de: "Thờ cúng",
+        noi_dung: "Tin vào sự tồn tại của linh hồn, thần thánh. Thờ tổ tiên, thần, Phật, ma rừng, vong hồn... Nghi thức và lễ vật tuỳ đối tượng. Có lớp người chuyên làm nghề tôn giáo."
+      },
+      {
+        tieu_de: "Lễ tết",
+        noi_dung: "Ăn Tết Nguyên đán đầu năm. Các lễ khác gồm: Tết Hàn thực (3/3 âm), Đoan ngọ (5/5 âm), Vu lan (15/7 âm), Tết cơm mới (10/10 âm)."
+      },
+      {
+        tieu_de: "Học",
+        noi_dung: "Nói nhiều thổ ngữ tiếng Hán phương Nam. Trước đây ít người biết chữ. Nay trẻ em phần lớn biết chữ quốc ngữ và tiếng phổ thông."
+      },
+      {
+        tieu_de: "Văn nghệ",
+        noi_dung: "Kho tàng dân gian phong phú: dân ca, dân vũ, văn học truyền miệng với nhiều truyện cổ tích, truyền thuyết, thành ngữ, tục ngữ thể hiện thế giới quan, nhân sinh quan giàu tính nhân văn."
+      },
+      {
+        tieu_de: "Chơi",
+        noi_dung: "Thích chơi cù, khăng, đuổi bắt, đánh cầu lông gà, đá cầu chinh và một số trò chơi tập thể khác."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "ten_dan_toc": "Người Nùng",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Nồng",
+      "ten_goi_khac": "",
+      "nhom_dia_phuong": "Nùng Giang, Nùng Xuồng, Nùng An, Nùng Inh, Nùng Lòi, Nùng Cháo, Nùng Phàn Slình, Nùng Quy Rịn, Nùng Dín",
+      "dan_so": "1.083.298",
+      "ngon_ngu": "Tiếng Nùng thuộc nhóm ngôn ngữ Tày - Thái (ngữ hệ Thái - Ka Đai)."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Nùng phần lớn từ Quảng Tây (Trung Quốc) di cư sang Việt Nam cách đây khoảng 200–300 năm."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Chủ yếu sống bằng làm nương rẫy, trồng ngô, lúa, củ, bầu bí, rau xanh... Nghề thủ công gồm: dệt, rèn, đúc, đan lát, làm đồ gỗ, giấy dó, ngói âm dương. Một số nghề truyền thống đang mai một (dệt), số khác còn duy trì (rèn ở xã Phúc Sen, Cao Bằng)."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Ở nhiều nơi ăn ngô là chính, thường xay thành bột nấu cháo đặc như bánh đúc. Thức ăn thường được rán, xào, nấu, ít luộc. Một số người kiêng thịt trâu, bò, chó. Dịp tết làm nhiều loại bánh từ gạo xay bằng cối đá."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Trang phục đơn giản, vải thô tự dệt, nhuộm chàm, không thêu. Nam mặc áo cổ đứng, xẻ ngực, cúc vải. Nữ mặc áo năm thân, cài cúc bên nách phải, áo thường dài quá hông."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Cư trú tại vùng Đông Bắc Việt Nam, sống xen kẽ với người Tày. Chủ yếu ở nhà sàn. Một số ở nhà đất kiểu trình tường, hoặc xây gạch mộc. Ven biên giới có kiểu nhà pháo đài với lỗ châu mai để chống giặc."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Truyền thống gồm khiêng, vác, gánh, xách. Hiện nay dùng thêm xe có bánh lốp kéo bằng vật nuôi."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Trước Cách mạng tháng Tám đã có xã hội phân hóa giai cấp (địa chủ – nông dân). Ruộng nương trở thành tài sản tư hữu, có thể mua bán, chuyển nhượng."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Nam nữ tự do yêu đương, tặng kỷ vật (giỏ, áo, túi thêu). Tuy nhiên hôn nhân do cha mẹ quyết định, dựa vào môn đăng hộ đối và hợp tuổi. Lễ cưới có nhiều nghi thức, quan trọng nhất là lễ đưa dâu. Sau cưới, cô dâu vẫn ở nhà mẹ đẻ đến gần ngày sinh con mới về ở hẳn nhà chồng."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Có lễ đặt bàn thờ bà mụ, lễ đầy tháng. Một số nhóm tổ chức lễ đặt tên khi trẻ đến tuổi trưởng thành."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Nhiều nghi lễ với mục đích chính là đưa linh hồn người chết về thế giới bên kia."
+      },
+      {
+        "tieu_de": "Nhà mới",
+        "noi_dung": "Xem trọng việc chọn đất, hướng, ngày dựng nhà. Có lễ lên nhà mới với mong ước cuộc sống yên ổn, làm ăn phát đạt."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Thờ tổ tiên là chính. Bàn thờ đặt nơi trang trọng, có bức 'phùng slằn' viết chữ Hán ghi tổ tiên dòng họ. Thờ thêm thổ công, Phật bà Quan Âm, bà mụ, ma cửa, ma sàn... Không cúng giỗ nhưng có tục mừng sinh nhật."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Ăn tết giống người Việt và người Tày."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Theo âm lịch."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Có chữ Nôm Nùng dựa vào chữ Hán, đọc theo tiếng Nùng và chữ Tày – Nùng dựa trên chữ cái Latinh."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Sli là hình thức hát giao duyên nam nữ theo hình thức đối đáp, thường hát trong hội, lễ, chợ phiên, thậm chí trên tàu, xe."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Các trò chơi phổ biến: tung còn, đánh cầu lông, đánh quay, kéo co, thường tổ chức trong lễ, tết, hội."
+      }
+    ]
+  },
 
-
-
+  {
+    "id": 39,
+    "ten_dan_toc": "Người Ơ Đu",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Ơ Đu hoặc I Đu",
+      "ten_goi_khac": "Tày Hạt (người đói rách)",
+      "nhom_dia_phuong": "",
+      "dan_so": "428 người",
+      "ngon_ngu": "Thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á). Nay chỉ còn tiếng mẹ đẻ. Hầu hết người Ơ Đu dùng các tiếng Khơ Mú, Thái làm công cụ giao tiếp hàng ngày."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Xưa cư trú dọc sông Nặm Mộ và Nặm Nơn, tập trung ở Nặm Nơn. Do biến cố lịch sử, nay tập trung ở bản Xốp Pột và Kim Hòa, xã Kim Đa, huyện Tương Dương, Nghệ An. Ở Lào, sống chung với Tày Phoọng ở tỉnh Sầm Nưa."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Chủ yếu làm nương rẫy, mỗi năm một vụ. Công cụ gồm rìu, dao, gậy chọc lỗ. Trồng lúa, sắn, bầu, bí, ngô, ý dĩ, đỗ; săn bắt, hái lượm quan trọng. Chăn nuôi phát triển. Đan lát bằng giang, mây để dùng và trao đổi. Trước kia còn dệt vải."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Ăn 1 bữa phụ (sáng), 2 bữa chính. Trước kia ăn xôi đồ, nay thêm cơm gạo tẻ. Khi mất mùa ăn củ nâu, củ mài, sắn, ngô thay cơm. Thích uống rượu, hút thuốc lào."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Hiện mặc giống người Thái, Việt trong vùng. Trang phục truyền thống rất ít được giữ lại."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Ở nhà sàn 4 mái, lợp nứa hoặc tranh, giống người Thái. Trước kia nhà sàn dựng dọc, quay đầu vào núi."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Phổ biến là gùi dây đeo trán, bền chắc và đẹp."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Dân số ít, sống xen với người Khơ Mú, Thái nên bị ảnh hưởng mạnh. Họ theo họ Thái, Lào. Tổ chức dòng họ mờ nhạt. Gia đình phụ quyền, đàn ông quyết định mọi việc. Phụ nữ không được thừa kế. Phổ biến tục ở rể. Lễ vật cưới gồm thịt sóc, chuột sấy khô, cá ướp muối."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ sinh ở góc nhà. Nhau trẻ bỏ vào ống tre chôn dưới gầm sàn. Tuổi đứa trẻ tính từ ngày đầu tiên có tiếng sấm trong năm. Lễ đặt tên diễn ra khi có sấm đầu mùa."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Tin rằng hồn người chết thành ma. Hồn thể xác ở nghĩa địa, hồn gốc ở chỏm tóc làm ma nhà, chỉ ở lại một đời từ con trưởng đến con út. Khi con trai đều mất, tổ chức lễ tiễn ma nhà. Bàn thờ ma nhà treo cao sát mái tại gian thứ hai."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Ăn Tết Nguyên đán, Tết cơm mới. Lễ hội lớn nhất là lễ đón tiếng sấm đầu năm tại bản Xốp Pột, xã Kim Đa, huyện Tương Dương, Nghệ An."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Dùng nhạc cụ của người Khơ Mú, Thái như sáo, khèn, chiêng, trống. Hát dân ca Khơ Mú, Thái, kể chuyện dã sử."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Có trò chơi đánh khăng, chơi quay, ném còn, ô ăn quan."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "ten_dan_toc": "Người Pà Thẻn",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Pà Hưng",
+      "ten_goi_khac": "Mèo Lài, Mèo Hoa, Mèo Đỏ, Bát tiên tộc",
+      "nhom_dia_phuong": "",
+      "dan_so": "8.248 người",
+      "ngon_ngu": "Thuộc ngữ hệ Hmông-Dao"
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Theo truyền thuyết, người Pà Thẻn từ vùng Than Lô (Trung Quốc) đến Việt Nam khoảng 200–300 năm trước, vượt biển cùng người Dao."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Trước kia sống bằng nương rẫy, canh tác phát đốt chọc lỗ tra hạt. Trồng lúa, ngô, rau, khoai, đậu. Công cụ: rìu, cuốc, dao. Khi giáp hạt, đào củ mài, củ nâu. Hái lượm vẫn quan trọng. Dệt thổ cẩm phát triển, đàn ông đan lát, làm mộc. Chăn nuôi trâu, bò, dê, lợn, gà phục vụ tiêu dùng và lễ nghi."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Chủ yếu ăn cơm tẻ, hai bữa chính mỗi ngày. Ưa chuộng món luộc và xào."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Phụ nữ vẫn giữ trang phục truyền thống gồm áo, váy, khăn trong và khăn ngoài. Màu sắc sặc sỡ, hoạ tiết gần giống người Dao."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Cư trú tại Tuyên Quang và Hà Giang. Nhà ở có thể là nhà sàn, nhà nền đất hoặc nửa sàn nửa nền. Nhiều nơi dựng nhà cột kê vững chắc."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Gánh là phương tiện vận chuyển chính."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Quan hệ xóm giềng là chủ đạo. Họ giúp nhau, đổi công. Có 8 họ gốc và một số họ Dao. Mỗi họ chia thành nhiều chi họ với truyền thuyết riêng."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Một vợ một chồng, cấm kết hôn cùng họ. Ngoại tình bị lên án. Nghi lễ cưới hỏi nhiều bước. Có 2 hình thức ở rể: tạm thời (tối đa 12 năm) và ở rể đời (con mang họ mẹ)."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Người nhà bắn 3 phát súng báo tin. Lễ vật do con gái đã lấy chồng mang đến. Có thể là lợn (25 kg), gà trống nếu nhà nghèo. Quan tài khoét rỗng, đổ gạo rang, phủ giấy bản trước khi chôn."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Tin vào thần linh và ma quỷ. Chia thành loại lành (tổ tiên, thổ địa) và dữ (ma sông, ma suối...). Bàn thờ hình chữ U ngược, đặt bát hương và bát nước. Có nhiều lễ cúng liên quan nông nghiệp, chăn nuôi, săn bắn. Truyền thuyết lúa do chó, mèo, lợn lấy trộm trên trời, nên cúng cơm mới phải cho 3 con vật ăn trước. Khi hạn hán tổ chức lễ cầu mưa."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Ăn Tết Nguyên đán và các lễ tết giống dân tộc vùng Đông Bắc."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Vận dụng âm lịch trong sản xuất và đời sống."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Nhiều người biết đọc, viết chữ Nôm Tày, Nùng."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Văn nghệ dân gian phong phú. Ca hát, thổi sáo và trò chơi dân gian được giữ gìn, phát triển."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "ten_dan_toc": "Người Phù Lá",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Lao Va Xơ, Bồ Khô Pạ, Phù Lá",
+      "ten_goi_khac": "Xá Phó, Cần Thin",
+      "nhom_dia_phuong": "Phù Lá Lão - Bồ Khô Pạ, Phù Lá Đen, Phù Lá Hán",
+      "dan_so": "12.471 người",
+      "ngon_ngu": "Thuộc nhóm ngôn ngữ Tạng Miến (ngữ hệ Hán - Tạng)"
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Nhóm Phù Lá Lão - Bồ Khô Pạ cư trú sớm ở Tây Bắc Việt Nam. Các nhóm khác đến muộn hơn, khoảng 200–300 năm trở lại đây. Quá trình hội nhập của nhóm Phù Lá Hán còn kéo dài đến thập niên 1940."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Làm nương, ruộng bậc thang. Sản phẩm đan lát bằng mây, trúc rất nổi tiếng. Biết sử dụng nỏ, tên tẩm thuốc độc. Trồng bông, dệt vải, xe sợi bằng con trượt."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Giã gạo bằng chày tay, ăn cơm tẻ hai bữa sáng và tối. Đồ nếp dùng trong lễ cúng, cơm nếp và các món cá, thịt ướp với gạo rang, rau thơm, thịt nướng rất được ưa thích."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Trang phục phụ nữ khác nhau theo nhóm. Phù Lá Lão - Bồ Khô Pạ: váy, áo ngắn cổ vuông, thêu và trang trí hạt cườm, thắt lưng đính vỏ ốc núi. Nam giới có áo đính hạt cườm sau lưng. Thường đeo túi vải bên mình."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Cư trú tại Hà Giang, Lào Cai, Yên Bái, Lai Châu. Phù Lá Lão sống phân tán thành chòm xóm nhỏ. Các nhóm khác ở tập trung hơn. Nhà sàn hoặc nhà trệt tùy nơi. Kho thóc đặt cách xa nhà đề phòng cháy."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Phù Lá Lão - Bồ Khô Pạ đeo gùi đỡ bằng trán. Phù Lá Hán và Phù Lá Đen cõng gùi lưng hoặc dùng ngựa thồ."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Quan hệ láng giềng giữ vai trò chủ đạo. Các gia đình thường đổi công, giúp đỡ nhau trong việc lớn. Bản có nhiều họ, mỗi họ chia chi. Một số dòng họ còn giữ tên họ tiếng dân tộc và dấu vết thờ vật tổ."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Nam nữ tự do tìm hiểu, ngủ chung tại nhà bạn. Nếu yêu nhau thật sự thì làm lễ dạm hỏi, cưới. Lễ cưới có tục hát đối, uống rượu, vẩy nước bẩn và bôi nhọ nồi vào mặt nhà trai. Sau cưới 12 ngày làm lễ lại mặt."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Sản phụ đẻ ngồi, ngủ trên đệm rơm. Nhau chôn dưới gầm giường hoặc chân cột. Kiêng người lạ vào nhà 3 ngày. Lễ đặt tên sau 12 ngày do thầy mo làm. Mỗi người có hai tên (tên cúng và tên thường)."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Thờ tổ tiên nam (phù hộ sức khỏe), tổ tiên nữ (phù hộ mùa màng). Lễ cơm mới do phụ nữ đại diện và được ăn trước. Có lễ cúng bản, nghi lễ nông nghiệp, cúng chài. Thầy cúng giữ vai trò quan trọng, học nghề truyền khẩu dịp tết."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Ăn Tết Nguyên đán, các tết tháng năm, tháng bảy, lễ cơm mới."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Một bộ phận người Phù Lá ở Mường Khương, Bắc Hà, Xín Mần biết chữ Hán và sử dụng tiếng Hán phương Nam trong giao tiếp."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Kho tàng văn học dân gian phong phú, nhiều truyện cổ tích gần với người Việt. Sử dụng kèn, trống, hát giao duyên. Phù Lá Lão còn biết múa xòe trong âm hưởng dân ca Thái."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Trẻ em chơi đu quay, đá cầu, trốn tìm, đánh cỏ, chơi cù. Người lớn cũng tham gia trò chơi trong lễ hội với tinh thần hồn nhiên."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "ten_dan_toc": "Người Pu Péo",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Kabeo",
+      "ten_goi_khac": "La Quả, Penti Lô Lô",
+      "dan_so": "903 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm Ka Ðai (ngữ hệ Thái - Ka Ðai). Người Pu Péo nói giỏi tiếng Hmông, Quan hoả."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Họ đã từng sinh sống lâu đời ở miền cực bắc Việt Nam. Các dân tộc láng giềng đều thừa nhận người Pu Péo là một trong những cư dân khai khẩn ruộng nương đầu tiên ở vùng cực bắc."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Người Pu Péo chuyên trồng ngô, đậu trên nương với kỹ thuật cao, như cày nương, bón phân và trồng xen canh gối vụ. Một số trồng lúa trên ruộng bậc thang. Họ sử dụng trâu bò làm sức kéo. Có người làm nghề ngói máng, mộc."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Bột ngô đồ, canh là 2 món ăn chính của người Pu Péo. Họ dùng thìa để húp canh."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Váy và áo phụ nữ rất đặc sắc, chỉ sử dụng kỹ thuật đắp vải màu. áo mặc hai lớp. áo ngoài xẻ ngực, không khuy cài, xung quanh gấu và hò áo được trang trí bằng cách đắp những miếng vải khác màu xếp thành hình tam giác, hình vuông hay hình quả trám; cổ tay áo viền những khoanh vải khác màu. áo ngắn mặc trong, cài khuy bên nách phải cũng được trang trí bằng vải màu như áo trong. Tóc của phụ nữ vấn trước trán gài lại bằng chiếc lược gỗ, phủ khăn vuông."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Người Pu Péo định cư ở huyện Ðồng Văn, tỉnh Hà Giang. Xưa kia họ ở nhà sàn, nay ở nhà trệt. Nhà trình tường hay chỉ là ván bưng, lợp ngói máng hoặc cỏ gianh."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Phổ biến dùng gùi đeo lưng."
+      },
+      {
+        "tieu_de": "Các quan hệ xã hội",
+        "noi_dung": "Người Pu Péo tồn tại song song hai loại dòng họ. Một loại gọi theo tên bằng chữ Hán, đọc theo cách phiên âm của địa phương như Củng, Tráng, Phù... được sử dụng chính thức trong các giấy tờ. Một loại họ khác cổ hơn, thể hiện mối dây liên lạc máu mủ giữa các thành viên của dòng họ, mỗi dòng họ như thế thường gồm một cặp như Kacung - Kacăm, Karảm - Kachâm, Karu - Karựa, Ka bu - Ka bởng."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Cưới xin có nhiều bước. Hôm đón dâu, phù dâu phải cõng cô dâu ra khỏi cổng để theo đoàn nhà trai về. Trong bữa cơm cúng tổ tiên, thức ăn để trên nong, cả nhà cùng dâu rể phải ăn bốc. Lễ lại mặt tiến hành nhiều lần, sau ngày cưới 3,7, 13, 30 ngày."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Quan niệm phổ biến về ảnh hưởng to lớn của bà mụ tới con trẻ từ thai nhi cho đến tuổi 13. Sản phụ đẻ trong căn buồng riêng của mình. Nhau đẻ chôn trong ống tre dưới gầm giường hoặc bọc vào chiếu cũ để lên cành cây trên rừng. Con trai đặt tên sau 5 ngày. Trong thời gian chưa đặt tên cho con, bố chỉ được quanh quẩn trong nhà, ra khỏi nhà phải đội nón. Tên này được dùng cho đến 13 tuổi, sau đó đặt tên theo tiếng Quan hoả cùng với tên đệm chung, như họ Củng có 18 tên đệm, họ Tráng 7 tên."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Có lễ làm ma và lễ làm chay hay còn gọi là ma khô. Khi bố mẹ chết, người ta đặt nghiêng hũ thờ trên bàn thờ tổ tiên biết cho tổ tiên biết có người chết và chậm nhất 13 ngày sau khi chôn phải làm lễ dựng lại hũ thờ này. Trong những ngày còn quàn trong nhà, cơm nước không được nấu ở bếp chính mà kê đá làm bếp ở gian giữa nhà. Mỗi bài cúng của thầy cúng đều có nội dung riêng liên quan đến nhiều truyền thuyết lịch sử của người Pu Péo, đưa hồn về quê cũ. Người ta cắm Ta leo trước cửa ngăn ma vào nhà, sau khi khiêng quan tài ra khỏi cửa và đốt lửa ngoài sân đun nước rửa chân tay trước khi vào nhà, sau lễ đưa đám.\n\nTin vào sự tái sinh của người chết, sáng hôm sau khi chôn người chết, gia đình xem vết chân trên lớp tro rắc rối trước cửa nhà.\n\nVài năm sau, gia đình sẽ tổ chức làm chay để cúng đưa hồn người chết về quê cũ. Trong lễ này người Pu Péo còn bảo lưu hai phong tục cổ là uống rượu cần và đánh trống đồng."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Họ tin mỗi người có 8 hồn, chín vía. Ðêm 30 tết Nguyên đán các gia đình đều làm lễ gọi hồn cho từng thành viên trong nhà. Thờ tổ tiên 3 đời. Trên bàn thờ có những hũ sành nhỏ tượng trưng cho đối tượng thờ, ít nhất 3 hũ cho 3 đời. Mỗi khi thành viên nào đó trong gia đình ốm đau thầy bói sẽ bói và cho biết cần phải thờ ai để có thêm một hũ thờ nữa đặt lên bàn thờ."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Tết Nguyên đán, đêm 29 gói và nấu bánh chưng đen tiễn năm cũ và đêm 30 gói và nấu bánh chưng trắng mừng năm mới, cúng tổ tiên. Sáng mồng một tết nam nữ đi gánh nước vàng nước bạc lấy lộc. Trong 3 ngày tết sau bữa cơm không được rửa bát, mỗi lần đến bữa chỉ dùng giấy lau sạch với mong muốn không có mưa quá to sẽ trôi hết đất mầu."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Sử dụng lịch 12 con vật, khớp với âm lịch."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Hát đám cưới xin dâu giữa nhà trai và nhà gái suốt 3-4 giờ trở thành một sinh hoạt văn nghệ rất độc đáo. Ðám cưới là dịp để trai gái ca hát, vui chơi."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "ten_dan_toc": "Người Ra Glay",
+    "thong_tin_chung": {
+      "nhom_dia_phuong": "Rai (ở Hàm Tân - Bình Thuận), Hoang, La Oang (Ðức Trọng - Lâm Ðồng)...",
+      "dan_so": "146.613 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Malayô - Pôlynêxia (ngữ hệ Nam Ðảo). Do có sự tiếp xúc với các dân tộc khác quanh vùng nên ở người Ra Glai đã xuất hiện tượng song ngữ và đa ngữ. Tiếng phổ thông hiện giữ một vai trò quan trọng, là ngôn ngữ giao tiếp của người dân nơi đây với những dân tộc cận cư khác."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Ra Glay đã sinh sống lâu đời ở vùng miền Nam Trung bộ."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Nghề làm rẫy luôn chi phối các hoạt động kinh tế khác. Trên rẫy đồng bào trỉa cả lúa, bắp, đậu, bầu bí và cây ăn trái. Rẫy được phát bằng chà gạc, rựa hoặc rìu. Cư dân sử dụng đoạn gỗ ngắn, nhọn đầu để trỉa giống, làm cỏ rẫy bằng chiếc cào nhỏ và thu hoạch lúa bằng tay... Rèn và đan lát là hai nghề thủ công khá phát triển... Chăn nuôi phổ biến với các đàn gia súc, gia cầm gồm trâu, lợn, gà, vịt... Ngày nay cư dân đã biết trồng cấy lúa nước."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Sáng và chiều là hai bữa ăn chính. Cơm trưa thường được mang lên rẫy. Canh nấu lẫn thịt, cá và các loại rau là món ăn được ưa thích. Ðồ uống gồm nước lã đựng trong vỏ bầu khô và rượu cần. Thuốc lá tự thái, quấn trong vỏ bắp ngô được dùng phổ biến trong các gia đình."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Rất khó tìm thấy y phục truyền thống của người Ra Glai. Ngày nay, đàn ông thì mặc quần âu và áo sơ mi, đàn bà mặc váy hoặc quần với áo bà ba. Thời xa xưa, đàn ông nơi đây ở trần, đóng một loại khố đơn giản, không có hoa văn trang trí. Những ngày lễ hội truyền thống, phụ nữ mặc áo dài, phía trên được ghép thành những ô vuông màu đỏ trắng xen kẽ nhau."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Người Ra Glai ở trong vùng núi và thung lũng có độ cao từ 500-1000m, tập trung ở các huyện Ninh Sơn (Ninh Thuận), Bắc Bình (Bình Thuận) và một số nơi thuộc Phú Yên, Khánh Hoà, Lâm Ðồng. Trước đây, họ ở nhà sàn. Hiện nay, nhà đất đã khá phổ biến. Những căn nhà thường có dạng hình vuông, chỉ rộng chừng 12-14m2. Một vài nhà lớn hơn, có hình chữ nhật. Kỹ thuật lắp ghép rất đơn sơ, chủ yếu sử dụng chạc cây và dây buộc. Mái lợp bằng tranh hoặc lá mây. Vách được che bằng phên đan hay sử dụng đất trát."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Như các dân tộc khác trên Trường Sơn - Tây Nguyên, phương tiện vận chuyển của người Ra Glai là gùi. Gùi được đan đơn giản, không hoa văn trang trí. Gùi có các kích cỡ khác nhau, phù hợp với đôi vai của từng người và từng công việc cụ thể."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Mỗi làng là nơi sinh sống của nhiều dòng họ. Trong những trường hợp cần thiết \"Hội đồng già làng\" hình thành dựa trên sự thừa nhận của mọi thành viên trong làng. Mỗi đơn vị cư trú đều có một người đứng đầu, là người có công tìm đất lập làng. Khi nhiều làng cùng sinh tụ trên một vùng rừng núi thì ở đó có một người là chủ núi bên cạnh các chủ làng... Tầng lớp thày cúng cũng đã hình thành. Tuy nhiên, mọi quan hệ xã hội của người Ra Glai trước kia và hiện nay đều chịu sự chi phối của chế gia đình mẫu hệ."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Tình yêu của trai gái trước hôn nhân được người Ra Glai tôn trọng. Việc cưới xin phải trải qua nhiều bước, nhiều thủ tục khá phức tạp. Lễ cưới được tiến hành cả ở hai bên gia đình: nhà gái trước, nhà trai sau. Quan trọng nhất trong lễ cưới là nghi thức trải chiếu cho cô dâu, chú rể. Cô dâu, chú rể ngồi trên chiếu này để hai ông cậu của hai bên cúng trình với tổ tiên, thần linh về việc cưới xin. Cũng chính trên chiếc chiếu này, họ ăn chung bữa cơm đầu tiên trước sự chứng kiến của hai họ. Sau lễ cưới, việc cư trú bên vợ đang còn phổ biến."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Trước và sau khi sinh nở, phụ nữ Ra Glai kiêng một số thức ăn, không nói tên một vài loài thú và tránh làm những công việc nặng nhọc. Họ được chồng dựng cho một căn nhà nhỏ ở bìa rừng để sinh đẻ. Họ đẻ ngồi và tự mình giải quyết các công việc khi sinh. Một số nơi, sản phụ được sự giúp đỡ của một người đàn bà giàu kinh nghiệm. Khi sinh xong, người mẹ bế con về nhà và khoảng 7 ngày sau họ tiếp tục làm các công việc như bình thường. Ngày nay, phụ nữ nơi đây đã đến sinh đẻ ở trạm xá, với sự giúp đỡ của các nữ hộ sinh."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Người chết được quấn trong vải hoặc quần áo cũ rồi đặt trong quan tài bằng thân cây rỗng hay quấn bằng vỏ cây là tuỳ theo mức giàu nghèo của gia đình. Người chết được chôn trên rẫy hoặc trong rừng, đầu hướng về phía tây. Khi có đủ điều kiện về kinh tế người ta làm lễ bỏ mả, dựng nhà mồ cho người chết. Quanh nhà mồ được trồng các loại cây như: chuối, mía, dứa và khoai môn. Trên đỉnh nhà mồ còn có hình chiếc thuyền và những chú chim bông lau. Vật dụng thuộc về người chết được phá hỏng, đặt quanh nhà và trong nhà mồ."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Người Ra Glai cho rằng có một thế giới thần linh bao quanh và vượt ra ngoài hiểu biết của họ. Các vị thần đều có thể bớt gây tai họa hay trợ giúp họ nếu được cúng tế và thỉnh cầu. Vong linh người chết là lực lượng siêu nhiên gây cho họ nhiều sợ hãi nhất. Cư dân còn tin vào sự linh hoá của các loại thú vật... Vì vậy, hàng năm thường xuyên diễn ra các nghi lễ cúng bái với việc hiến tế để mong thần linh giúp đỡ. Việc cúng tế này đã có sự tham gia của lớp thầy cúng, họ đang dần tách khỏi lao động và coi cúng bái như một nghề nghiệp chính thức."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Theo chu kỳ sản xuất, người Ra Glai thường tiến hành các nghi lễ khi chọn rẫy, phát và đốt rẫy, gieo trỉa và thu hoạch. Theo chu kỳ đời người, đó là các lễ tiết khi sinh nở, lúc ốm đau, rồi cưới xin, ma chay... Những nghi lễ lớn trong năm thường tập trung vào khoảng tháng 1-2 dương lịch, khi đã thu hoạch rẫy, gồm cả lễ mừng thu hoạch, cưới xin và lễ bỏ mả. Ðây chính là những ngày tết của cư dân vùng này."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Ðó là những truyện cổ tích, thần thoại, những làn điệu dân ca, những câu tục ngữ, ca dao... thể hiện tâm tư, tình cảm của cư dân. Ðó cúng còn là bộ nhạc cụ khá phong phú của người Ra Glai. Bộ chiêng đồng đầy đủ với 12 chiếc. Tuy nhiên, có thể sử dụng 4, 6, 7 hay 9 chiếc. Khèn bầu, khèn môi, đàn ống tre khá phổ biến. Người Ra Glai cũng là cư dân biết sử dụng những thanh đá kêu, ghép thành bộ thường gọi là đàn đá, đánh thay chiêng, khá độc đáo và lý thú."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "ten_dan_toc": "Người Rơ Măm",
+    "thong_tin_chung": {
+      "dan_so": "639 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á), chịu ảnh hưởng nhiều yếu tố ngôn ngữ của dân tộc Khơ Me và gần gũi với tiếng nói của một số nhóm trong dân tộc Xơ Ðăng. Người Rơ Măm hiện sử dụng thành thạo tiếng nói của nhiều dân tộc, trong đó có tiếng phổ thông."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Những người già làng cho biết họ là cư dân đã sinh sống ở khu vực này từ xa xưa. Ðầu thế kỷ XX dân số của tộc này còn khá đông, phân bố trong 12 làng, ở lẫn với người Gia Lai. Hiện họ chỉ sống tập trung trong một làng."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Người Rơ Măm sống bằng nghề làm rẫy, trồng lúa nếp là chính, thêm một ít lúa tẻ, ngô và sắn. Họ sử dụng dao phát, rìu để đốn hạ cây, dùng lửa để đốt dọn rẫy, khi gieo trỉa dùng hai gậy chọc lỗ và một ống đựng hạt. Ðôi bàn tay vẫn là công cụ chính để tuốt lúa. Săn bắt và hái lượm còn giữ vai trò kinh tế quan trọng. Việc bắt cá dưới suối khá hiệu quả với đôi tay, rổ, đó và lá độc. Trong số những nghề phụ gia đình, nghề trồng bông, dệt vải được chú ý phát triển nhất. Vải họ dệt ra trước kia đủ cung cấp cho nhu cầu mặc của gia đình ngoài ra còn là hàng hoá trao đổi lấy dầu đốt, muối ăn và các công cụ lao động bằng sắt mà họ không làm ra được."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Tập quán ăn bốc còn tồn tại khá phổ biến vào thời điểm hiện nay. Người dân thích cơm nếp đốt trong ống tre, nứa ăn với canh và muối ớt. Họ lấy nước từ các mạch ngầm, đựng trong những chiếc vỏ bầu khô để uống, không cần đun sôi. Những ngày lễ tết, hội hè cư dân uống rượu cần chế từ các loại gạo, sắn, bắp..."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Trong xã hội truyền thống, đàn ông Rơ Măm mặc khố, phía sau buông đến ống chân. Phụ nữ quấn váy và ở trần, một số mặc áo cộc tay. Váy và khố đều có màu trắng của vải mộc, không nhuộm. Phụ nữ ưa đeo hoa tai làm bằng ngà voi, nứa hoặc gỗ. Nam nữ thanh niên đều cắt 4 hoặc 6 chiếc răng cửa của hàm trên, khi bước vào tuổi trưởng thành."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Làng truyền thống của người Rơ Măm được dựng theo một trật tự cố định. Nhà ở là loại nhà sàn dài, cất kế tiếp, xung quanh ngôi nhà chung. Cửa chính của mọi ngôi nhà đều quay nhìn vào nhà rông và nhà ở của các gia đình là khu sân chơi. Quanh làng có hàng rào bảo vệ. Mỗi nóc nhà thường có nhiều bếp. Mỗi cặp vợ chồng ở trong một buồng có vách ngăn, với một bếp riêng. Gian chính giữa nhà là nơi tiếp khách... Tại làng Le, xã Mo Rai, huyện Sa Thầy, tỉnh Kon Tum, hiện nay mỗi gia đình sống trong một ngôi nhà cao to, rộng, thoáng, vách gỗ, mái ngói, do Nhà nước xây dựng."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Gùi là phương tiện vận chuyển chính của người Rơ Măm, sử dụng sức mạnh của đôi vai và lưng. Gùi được đan cải hoa văn bằng nan nhuộm đen. Có loại gùi dành riêng cho việc vận chuyển công cụ săn bắt, đi rừng, làm rẫy của đàn ông. Có loại gùi lại chỉ sử dụng để vận chuyển váy, áo, đồ trang sức phụ nữ đem theo khi đi dự lễ tết, hội hè..."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Ðứng đầu làng là một già làng, người cao tuổi nhất trong làng, do dân tín nhiệm bầu ra. Làng truyền thống là một công xã láng giềng. Mọi thành viên quan hệ với nhau dựa trên cơ sở bình đẳng về nghĩa vụ và quyền lợi. Họ không chỉ quan hệ với nhau trong khuôn khổ làng mà còn quan hệ với làng khác, dân tộc khác qua việc trao đổi hàng hoá và trao đổi hôn nhân. Quan hệ xã hội ở đây còn lưu giữ khá đậm các tàn dư của thời kỳ mẫu hệ vào giai đoạn đang chuyển nhanh sang chế độ phụ quyền."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Việc cưới xin của người Rơ Măm thường phải qua hai bước chính ăn hỏi và đám cưới. Lễ cưới được tổ chức đơn giản, chỉ là bữa ăn uống cộng cảm của dân làng để chứng kiến và chúc mừng bữa ăn chung đầu tiên của cô dâu, chú rể. Tính chất hôn nhân của họ đang ở giai đoạn tiến lên chế độ phụ hệ. Sau ngày cưới đôi vợ chồng trẻ sống bên nhà vợ 4-5 năm rồi về ở bên nhà chồng hoặc cư trú luân phiên cả hai bên. Việc ly dị rất ít xảy ra."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Trước kia phụ nữ Rơ Măm sinh đẻ trong ngôi nhà nhỏ ở ngoài rừng. Ðứa trẻ ra đời được cắt rốn bằng nứa hoặc một loại lá cây sắc. Mỗi làng có một hay hai bà đỡ là những người phụ nữ đã tuổi, nhiều kinh nghiệm trong việc sinh nở. Phụ nữ phải kiêng một số thức ăn có nhiều mỡ, từ khi có thai cho đến lúc đứa trẻ tròn 3 năm tuổi. Gần đây, họ sinh con tại nhà. Ngày đó người lạ không được vào, nếu ai vi phạm sẽ bị giữ lại trong nhà đến hết thời gian kiêng cữ và đứa trẻ sẽ được đặt tên trùng với tên người khách lạ."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Người Rơ Măm thường dùng trống để báo tin trong nhà có người chết. Xác chết được đặt ở mặt trước ngôi nhà, đầu hướng vào trong, mặt nhìn nghiêng. Việc chôn cất sẽ được tiến hành vào một hai hôm sau. Các ngôi mộ xếp theo hàng lối sao cho mặt người chết không nhìn hướng vào làng. Một số ít ngôi mộ chôn chung, từ 2 đến 3 người, thường là những người thân trong gia đình. Trong lễ bỏ mả có hai người đeo mặt nạ (một nam, một nữ) đánh trống nhảy múa. Mặt nạ nam có hai sừng trên đầu, mặt nạ nữ có hai chiếc răng nanh. Kết thúc lễ bỏ mả, hai chiếc mặt nạ được treo lại trên nhà mồ..."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Người Rơ Măm quan niệm \"vạn vật hữu linh\", cả linh hồn con người sau khi chết cũng là lực lượng siêu nhiên đầy quyền lực và bí ẩn. Ðó là những đối tượng mà họ thờ cúng để cầu mong một cuộc sống tốt đẹp hơn. Một trong những lực lượng siêu nhiên được người dân thờ cúng nhiều nhất là thần lúa. Họ cúng thần lúa vào ngày bắt đầu trỉa giống, khi lúa lên đòng, trước ngày tuốt lúa... để cầu mong một mùa rẫy bội thu."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Trong tất cả những nghi lễ được tiến hành theo chu kỳ sản xuất hay chu kỳ đời người đều có hiến tế các con vật như: gà, lợn hoặc trâu. Ngày lễ lớn nhất thường được tổ chức sau khi thu hoạch mùa rẫy. Các gia đình trong làng làm lễ mừng kế tiếp nhau, có thể mỗi ngày một gia đình hay 4-5 ngày một chủ hộ giết lợn, gà, thậm chí tổ chức đâm trâu mời bà con trong làng tới dự. Sau lễ mừng lúa mới là thời điểm diễn ra hàng loạt đám cưới của nam nữ thanh niên và lễ bỏ mả cho người đã chết."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Những làn điệu dân ca, những bài hát giao duyên của nam nữ thanh niên, những câu chuyện kể của người già với bộ nhạc cụ gồm chiêng, trống và các loại đàn, sáo... được làm ra từ nguồn tre, nứa trong rừng là yếu tố chính tạo dựng nên nền văn nghệ dân gian của cư dân nơi đây."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "ten_dan_toc": "Người Sán Chay",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Sán Chay",
+      "ten_goi_khac": "Hờn Bán, Chùng, Trại...",
+      "nhom_dia_phuong": "Cao Lan và Sán Chỉ",
+      "dan_so": "201.398 người",
+      "ngon_ngu": "Tiếng Cao Lan thuộc nhóm ngôn ngữ Tày - Thái (ngữ hệ Thái - Ka Ðai) còn tiếng Sán Chỉ thuộc nhóm ngôn ngữ Hán (ngữ hệ Hán Tạng)."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Sán Chay từ Trung Quốc di cư sang cách đây khoảng 400 năm."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Là cư dân nông nghiệp, làm ruộng nước thành thạo nhưng nương rẫy vẫn có vai trò to lớn trong đời sống kinh tế và phương thức canh tác theo lối chọc lỗ, tra hạt vẫn tồn tại đến ngày nay. Ðánh cá có vị trí quan trọng. Với chiếc vợt ôm và chiếc giỏ có hom việc đánh cá đã cung cấp thêm nguồn thực phẩm giàu đạm, góp phần cải thiện bữa ăn."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Người Sán Chay ăn cơm tẻ là chính. Rượu cũng được dùng nhiều, nhất là trong ngày tết, ngày lễ. Ðàn ông thường hút thuốc lào. Phụ nữ ăn trầu."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Phụ nữ mặc váy chàm và áo dài có trang trí hoa văn ở hò áo và lưng áo. Thường ngày, chỉ dùng một thắt lưng chàm nhưng trong ngày tết, ngày lễ họ dùng 2-3 chiếc thắt lưng bằng lụa hay nhiễu với nhiều màu khác nhau."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Người Sán Chay cư trú ở các tỉnh Ðông Bắc nước ta. Họ sống trên nhà sàn giống nhà của người Tày cùng địa phương."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Người Sán Chay thường đeo chiếc túi lưới ở sau lưng theo kiểu đeo ba lô."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Trước Cách mạng tháng Tám, ruộng đất dần dần trở thành tư hữu hoá và phân hoá giai cấp ngày càng rõ rệt. Trong xã hội đã xuất hiện địa chủ và phú nông. Tuỳ theo từng địa phương, chính quyền thực dân phong kiến đặt ra một số chức dịch như quản mán, tài chạ, quan lãnh... Bên cạnh đó có tổ chức tự quản ở các bản do dân bầu ra gọi là khán thủ. Có nhiều dòng họ, trong đó có những dòng họ lớn, đông dân như Hoàng, Trần, La, Ninh. Các chi họ và nhóm hương hoả giữ vị trí quan trọng trong sinh hoạt cộng đồng."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Trước khi đón dâu, lễ vật và trang phục của những người đi đón được tập trung lại ở giữa nhà để quan lang làm phép. Khi xuất phát, quan lang đứng dưới giọt giang giương ô lên cho mọi người đi qua. Trên đường về nhà chồng, cô dâu phải đi chân đất. Sau khi cưới, cô dâu vẫn ở nhà bố mẹ đẻ cho đến lúc sắp đẻ mới về ở nhà chồng. Ông mối được cô dâu, chú rể quý trọng, coi như bố mẹ và khi ông mối chết phải để tang."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Trong vòng 42 ngày sau khi đẻ cấm người lạ vào nhà. Nếu ai đó lỡ vào mà sau đó trẻ sơ sinh bị ốm thì phải đem lễ vật đến làm lễ cúng vía. Sau khi đẻ 3 ngày tổ chức lễ ba mai."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Ðám ma do thầy tào chủ trì gồm nhiều nghi lễ chịu ảnh hưởng sâu sắc của Ðạo giáo và Phật giáo. Ðặc biệt ngôi nhà táng được làm rất công phu và đẹp."
+      },
+      {
+        "tieu_de": "Làm nhà mới",
+        "noi_dung": "Việc chọn đất, chọn hướng và chọn ngày giờ để làm nhà mới rất được người Sán Chay coi trọng."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Trong nhà người Sán Chay có rất nhiều bàn thờ. Ngoài thờ cúng tổ tiên, họ còn thờ trời đất, thổ công, bà mụ, thần nông, thần chăn nuôi... Phổ biến nhất là thờ Ngọc Hoàng, Phật Nam Hoa, Táo Quân."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Họ ăn tết như người Tày."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Người Sán Chay theo âm lịch."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Người Sán Chay sử dụng chữ Hán trong cúng bái và chép bài hát."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Ngoài kể chuyện cổ tích, đọc thơ, người Sán Chay còn yêu thích ca hát. Phổ biến hơn cả là sình ca, lối hát giao duyên nam nữ gồm 2 loại: hát ở bản về ban đêm và hát trên đường đi hoặc ở chợ. Bên cạnh đó còn có ca đám cưới, hát ru..."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Ðánh cầu lông, đánh quay là những trò chơi phổ biến của người Sán Chay. Trong ngày hội có nơi còn biểu diễn trò \"trồng chuối\", \"vặn rau cải\"."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "ten_dan_toc": "Người Sán Dìu",
+    "thong_tin_chung": {
+      "ten_tu_goi": "San Déo Nhín (Sơn Dao Nhân)",
+      "ten_goi_khac": "Trại, Trại Ðất, Mán Quần cộc, Mán Váy xẻ...",
+      "dan_so": "183.004 người",
+      "ngon_ngu": "Người Sán Dìu nói thổ ngữ Hán Quảng Ðông (ngữ hệ Hán - Tạng)."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Sán Dìu di cư đến Việt Nam khoảng 300 năm nay."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Người Sán Dìu có làm ruộng nước nhưng không nhiều, canh tác ruộng khô là chính. Ngoài các loại cây trồng thường thấy ở nhiều vùng như lúa, ngô, khoai, sắn... họ còn trồng nhiều cây có củ. Từ rất lâu họ biết dùng phân bón ruộng. Nhờ đắp thêm mũi phụ, lưỡi cày của họ trở nên bền, sắc và thích hợp hơn với việc cày ở nơi đất cứng, nhiều sỏi đá."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Người Sán Dìu ăn cơm tẻ là chính, có độn thêm khoai sắn. Sau bữa ăn, họ thường húp thêm bát cháo loãng như người Nùng."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Bộ Y phục truyền thống của phụ nữ gồm khăn đen, áo dài (đơn hoặc kép), nếu là áo kép thì bao giờ chiếc bên trong cũng màu trắng còn chiếc bên ngoài màu chàm dài hơn một chút; yếm màu đỏ; thắt lưng màu trắng, hồng hay xanh lơ; váy là hai mảnh rời cùng chung một cạp, chỉ dài quá gối có màu chàm; xà cạp màu chàm; xà cạp màu trắng. Ðồ trang trí gồm vòng cổ, vòng tay, hoa tai và dây xà tích bằng bạc. Nam giới ăn mặc như người Việt: búi tóc vấn khăn hoặc đội khăn xếp, áo dài thâm, quần trắng."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Họ sống tập trung ở trung du Bắc bộ, trong vùng từ tả ngạn sông Hồng đổ về phía Ðông. Làng xóm của họ tựa như làng người Việt, có luỹ tre bao bọc và giữa các nhà thường có tường hay hàng rào. ở nhà đất trình tường hay thưng ván."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Ngoài gánh còn sử dụng xe quệt như là một phương tiện vận chuyển chính. Xe làm bằng tre, gỗ do trâu kéo, dùng để vận chuyển tất cả mọi thứ, từ thóc lúa, củi đuốc cho đến phân bón. Do không có bánh bên xe quệt có thể sử dụng ở nhiều loại địa hình khác nhau."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Trước Cách mạng tháng Tám, ruộng đất đã tư hữu hoá và xã hội đã có sự phân hoá giai cấp rõ rệt. Ðịa chủ và phú nông nắm giữ nhiều ruộng đất và bóc lột các tầng lớp nông dân lao động dưới hình thức phát canh thu tô, thuê mướn nhân công và cho vay nặng lãi. Bên cạnh bộ máy chính quyền, ở các làng còn có người đứng đầu làng do dân bầu ra để quản lý công việc chung."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Nam nữ được tự do yêu đương nhưng có thành vợ thành chồng hay không họ lại tuỳ thuộc vào \"số mệnh\" và sự quyết định của bố mẹ. Ðám cưới gồm nhiều nghi lễ. Ðáng chú ý nhất có lễ khai hoa tửu diễn ra tại nhà gái, trước hôm cô dâu về nhà chồng. Người ra lấy một bình rượu và một cái đĩa, trên đĩa lót hai miếng giấy cắt hoa, miếng trắng để dưới, miếng đỏ để trên, đặt lên trên đĩa hai quả trứng luộc có xâu chỉ đỏ và buộc ở mỗi bên trứng hai đồng xu. Sau khi cúng thì bóc trứng lấy lòng đỏ hoà với rượu để mọi người uống mừng hạnh phúc của cô dâu, chú rể."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Khi hạ huyệt, con cái phải từ phía chân quan tài bò một vòng quanh miệng huyệt. Con trai bò từ trái sang phải còn con gái bò từ phải sang trái, vừa bò vừa xô đất lấp huyệt. Lúc đứng dậy, mỗi người vốc một nắm đất và chạy thật nhanh về nhà bỏ vào chuồng trâu, chuồng lợn... với ý nghĩa cho gia súc sinh sôi, nảy nở. Tiếp đó chạy vào nhà và ngồi xuống thúng thóc với quan niệm ai dính nhiều thóc là may mắn. Cuối cùng, mỗi người tự xé lấy một miếng thịt gà luộc để ăn, ai đến trước nhất được mào gà, tiếp theo được đầu, cổ, cánh... Nhà mồ có mái bằng, lợp lá rừng. Khi cải táng, xương được xếp vào tiểu hoặc chum theo tư thế ngồi và nếu chưa chọn được ngày tốt thì chôn tạm ở chân đồi hay bờ ruộng."
+      },
+      {
+        "tieu_de": "Nhà mới",
+        "noi_dung": "Mỗi khi có ai làm nhà thì mọi người trong họ, trong làng tự đến giúp đỡ, chủ nhân không cần phải mời giúp. Trong lễ lên nhà mới chủ nhà mời người cao tuổi trong họ đem lửa, bình vôi, ít hạt giống vào nhà."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Trên bàn thờ thường đặt ba bát hương thờ tổ tiên, pháp sư và táo quân. Nếu chủ nhà chưa được cấp sắc thì chỉ có hai bát hương. Những người mới chết chưa kịp làm ma cũng đặt bát hương lên bàn thờ nhưng để thấp hơn. Ngoài ra, người Sán Dìu còn thờ thổ thần ở miếu thờ thành hoàng ở đình."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Có những ngày tết như nhiều dân tộc ở trong vùng. Riêng tết Ðông chí còn mang thêm ý nghĩa cầu mong có con đàn, cháu đống. Những người đã lấy nhau lâu mà vẫn chưa có con thì sau khi ăn tết xong người vợ về nhà bố mẹ đẻ ở. Người chồng cho ông mối đến hỏi và sau đó tổ chức cưới lại như là cưới vợ mới."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Người Sán Dìu theo âm lịch."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Trước kia, thanh niên thường học chữ Hán để làm thầy cúng nhưng hiện nay còn rất ít người biết chữ Hán."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Giống như ở nhiều dân tộc khác, người Sán Dìu cũng có hát giao duyên nam nữ mà họ gọi là soọng cô, thường được hát về đêm. Có những cuộc hát kéo dài suốt nhiều đêm."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "ten_dan_toc": "Người Si La",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Cù Dề Sừ",
+      "ten_goi_khac": "Kha Pẻ",
+      "dan_so": "909 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Tạng - Miến, gần với Miến hơn."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Si La có nguồn gốc di cư từ Lào sang."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Trước kia chuyên làm nương du canh, nay sống chủ yếu bằng nghề trồng lúa, ngô trên ruộng nương. Hái lượm giữ vị trí quan trọng trong đời sống."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Người Si La quen dùng cả cơm nếp và cơm tẻ với các loại canh rau rừng là chính. Ðạm thực vật chủ yếu là sản phẩm của săn bắt, đánh cá."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Phụ nữ mặc váy, hở bụng, áo cài khuy bên nách phải, nổi bật là vạt ngực gắn đầy những đồng xu bạc, xu nhôm; cổ và tay áo được trang trí bằng cách gắn lên những đường vải màu khác nhau. Váy màu đen hay chàm, khi mặc giắt ra phía sau. Khăn đội đầu phân biệt theo lứa tuổi và tình trạng hôn nhân. Phụ nữ thường đeo túi đan bằng dây gai. Tục nhuộm răng phổ biến, nam giới nhuộm đỏ, nữ nhuộm đen."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Người Si La quần tụ trong vài ba bản ở huyện Mường Tè, Lai Châu. Ở nhà đất, hai gian và hai chái nhỏ, có hiên và một cửa ra vào. Bàn thờ ở góc trái trong cùng, trên có một chén rượu nhỏ và một quả bầu. Bếp chính ở giữa nhà, kê ba ông đầu rau bằng đá, ông đầu rau quan trọng nhất, nơi mà tổ tiên thường ở, trông coi bếp lửa, quay lưng hướng về bàn thờ."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Người Si La phổ biến dùng gùi. Ngoài ra họ còn biết dùng thuyền, mảng đi lại trên sông."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Làng bản Si La xưa kia chịu sự cai quản của hệ thống chức dịch người Thái, chưa có sự phân hoá giai cấp. Tính cộng đồng trong công xã cao. Quan hệ dòng họ khá chặt chẽ. Có nhiều tên họ khác nhau nhưng họ Hù và họ Pờ đông hơn cả. Do quan niệm cùng tên họ là cùng chung tổ tiên xa xưa do điều kiện cư trú xa cách, người ở chi họ này dễ dàng xin nhập sang chi họ khác, cùng thờ tổ tiên với nhau. Mỗi chi họ đều có người già nhất, không phân biệt dòng trưởng hay thứ, đứng đầu. Hàng năm vào hai kì, tết năm mới và cơm mới, có lễ cúng tổ tiên chung ở nhà người trưởng họ với các lễ vật rất đặc trưng như thịt sóc, cua, cá bống, ống rượu cần tượng trưng, vài bông lúa, khoai sọ, bó lá hạt cườm. Trên mâm cúng không dùng hương mà đốt nến bằng sáp ong. Những đồ thờ gia bảo của dòng họ bày ở bàn thờ là trống, nhạc ngựa, quả bầu, chén đựng rượu. Khi người trưởng họ mất, chỉ sau 3 năm người lên thay mới được quyền chuyển những đồ thờ này sang bàn thờ nhà mình. Người trưởng họ có vai trò lớn trong việc điều chỉnh các quan hệ giữa các thành viên trong họ, cưới xin, ma chay, cho người ra khỏi họ hoặc kết nạp thành viên mới vào họ. Những người cùng họ không được lấy nhau."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Trai gái yêu nhau được quan hệ với nhau, người con trai được ngủ qua đêm tại nhà người yêu của mình. Có tục cưới hai lần. Lần đầu đón cô dâu về nhà chồng. Lần thứ hai sau một năm, nhà trai trao tiền cưới cho nhà gái."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ sinh con ở trong nhà, đẻ ngồi. Nhau đẻ đựng trong ống nứa, phủ một lớp tro bếp lên trên dựng ở góc bếp cho đến ngày đặt tên cho đứa trẻ. Họ thường mời bà già trong bản tới đặt tên cho con để mong con sống lâu. Sau khi đặt tên, bà già này bịt ống đựng nhau bằng lá chuối, nếu con trai buộc chín lạt, con gái buộc bảy lạt, rồi đem treo hoặc chôn. Lễ cúng hồn cho trẻ sơ sinh được tiến hành 3 ngày sau khi đặt tên."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Nghĩa địa thường để dưới bản, mộ của những người cùng họ thường ở gần nhau. Kiêng đặt mộ xa giữa những người khác họ. Chọn được đất ưng ý để đặt mộ thì cuốc một nhát, đặt cục than vào nhát cuốc đó, coi như đất đã có chủ. Sáng hôm sau mới làm nhà táng và đào huyệt. Quan tài bằng khúc gỗ bổ đôi khoét rỗng. Cúng đưa hồn người chết về quê hương cũ ở Mồ U. Sau khi chôn, gia đình tang chủ dội nước tắt bếp, mang hết than củi cũ ra ngoài nhà rồi mới đốt bếp. Không có tục cải táng và tảo mộ. Ðể tang bằng cách: con trai buộc túm ít tóc trên đỉnh đầu, con gái tháo vòng tay, vòng cổ."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Con cái thờ bố mẹ đã mất. Mỗi bàn thờ phải có chén thờ lấy từ chén cúng cơm bố mẹ trong ngày làm ma. Nhà có bao nhiêu con trai thì có bấy nhiêu chén và tất cả để lên bàn thờ. Ðến khi chia nhà thì mang chén đó ra lập bàn thờ riêng. Thờ tổ tiên từ đời ông trở lên do người trưởng họ đảm nhận. Lễ cúng bản là lễ cúng quan trọng nhất cầu mong cả bản không ốm đau, bệnh tật, lợn gà không bị thú rừng bắt trong năm. Cứ 7 năm lại làm lễ cúng hồn lúa, dùng vợt bắt cá, gạo đưa đường để đưa hồn lúa từ nương về bản, tới nhà rồi cất kỹ trên bồ thóc."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Trước kia, họ không có chữ viết riêng, kinh nghiệm trao truyền bằng lời hoặc qua thực hành."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Người Si La hát giao duyên giữa nam nữ thanh niên, hát sử ca."
+      },
+      {
+        "tieu_de": "Tết lễ",
+        "noi_dung": "Ngày tết năm mới vào đầu tháng 12 âm lịch. Ngoài ra họ còn ăn tết cơm mới."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Các em nhỏ Si La thường chơi các đồ chơi tự chế từ tre gỗ hay đất sét. Ðồng thời, chúng cũng có các trò chơi tập thể rất vui nhộn."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "ten_dan_toc": "Người Tà Ôi",
+    "thong_tin_chung": {
+      "ten_goi_khac": "Tà Ôi, Pa Cô, Tà Uốt, KanTua, Pa Hy",
+      "nhom_dia_phuong": "Tà Ôi, Pa Cô, Pa Hy",
+      "dan_so": "52.356 người",
+      "ngon_ngu": "Thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á), ít nhiều gần gũi với tiếng Cơ Tu và Bru - Vân Kiều."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Tà Ôi thuộc lớp dân cư tụ lâu đời ở Trường Sơn."
+      },
+      {
+        "tieu_de": "Hoạt động kinh tế",
+        "noi_dung": "Làm rẫy, trồng lúa rẫy là nguồn sống chính của người Tà Ôi. Cách thức canh tác tương tự như ở các tộc Cơ Tu, Bru - Vân Kiều. Ruộng nước đã phát triển ở nhiều nơi. Săn bắn, đánh cá, hái lượm đem lại thức ăn đáng kể. Nghề dệt chỉ có ở một số nơi, sản phẩm được các dân tộc láng giềng ưa chuộng. Đồ đan mây tre đáp ứng nhu cầu tự cấp. Đồ sắt, gốm, đồng trao đổi với người Việt, Lào. Nay đã sử dụng tiền nhưng tập quán đổi vật vẫn phổ biến."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Cơm là lương thực chủ yếu, bổ sung bằng ngô, sắn, khoai, củ mài... Thức ăn gồm rau, măng, nấm, ốc, cá, thịt chim muông. Ưa thích món băm trộn tiết. Uống rượu làm từ nước cây họ dừa. Hút thuốc bằng tẩu làm từ gốc le hoặc đất nung."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Nữ mặc váy ống ngắn và áo, hoặc váy dài che từ ngực (nhóm ở A Lưới), có nơi dùng thắt lưng sợi. Nam thường ở trần, quấn khố. Trang sức gồm vòng tay, chân, cổ, khuyên tai bằng đồng, bạc, cườm, mã não. Phụ nữ đeo vòng ống đồng quanh chân tay. Tục cà răng, xăm mình, đeo trang sức làm rộng dái tai nay còn ở người già."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Cư trú từ Tây Quảng Trị đến Tây Thừa Thiên Huế. Sống quần tụ thành làng, nhà sàn dài có mái uốn tròn ở hai đầu, từng 'bếp' là một gia đình riêng. Quan hệ bà con thân thuộc phổ biến giữa các bếp trong làng."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Chủ yếu dùng gùi đeo sau lưng. Đàn ông có gùi ba ngăn dùng khi đi rừng, săn bắn."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Sống theo tập tục cổ truyền, trọng người già, tin theo già làng, quý trẻ em. Mỗi làng có nhiều dòng họ, mỗi họ có người đứng đầu. Xã hội có phân hóa nhưng tính cộng đồng vẫn cao. Làng là đơn vị xã hội cơ bản và tự quản."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Trai gái sau khi cắt cụt 6 răng cửa hàm trên mới được yêu đương, cưới hỏi. Nhà trai chủ động cưới, nhà gái gả con và nhận của hồi môn. Có lễ 'đạp bếp' để đánh dấu người con gái là người nhà chồng. Sau vài năm tổ chức lễ tạ ơn thần linh. Ưa chuộng hôn nhân con trai cô - con gái cậu. Một số người giàu có nhiều vợ."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ kiêng kỵ trong thời kỳ mang thai và sau sinh để dễ sinh, con dễ nuôi. Lao động đến khi gần sinh và nghỉ ít ngày sau sinh. Con trai hay con gái đều được yêu quý."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Bãi mộ chung của làng chỉ chôn người chết bình thường. Quan tài đẽo độc mộc. Có tục chia của cho người chết. Sau vài năm sẽ cải táng và chôn lại trong bãi mộ. Nhà mồ được trang trí chạm khắc đẹp."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Tin vào linh hồn trong mọi vật: trời, đất, cây, suối, người, vật... Bói toán và lễ cúng rất quan trọng. Mỗi dòng họ có bàn thờ chung, có thể làm lễ khi ốm đau, rủi ro. Nhiều làng còn thờ vật thiêng dị dạng hoặc có xuất xứ kỳ lạ như đá, vòng đồng, chiêng, ché..."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Nhiều lễ liên quan đến sức khoẻ, tài sản, ngăn bệnh, làm rẫy... Lễ lớn có đâm trâu, trở thành hội làng. Có tết lúa mới, tết truyền thống sau khi tuốt lúa và trước mùa rẫy."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Dựa theo trăng tròn - khuyết. Tháng 30 ngày, năm 12 tháng, có ngày tốt/xấu cho từng việc."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Chữ viết ra đời cách đây mấy chục năm, dựa trên chữ cái La-tinh, chuẩn hóa từ tiếng Pa Cô."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Có tục ngữ, ca dao, truyện cổ, câu đố. Dân ca gồm nhiều điệu: Calơi (đối đáp khi uống rượu), Ba boih (hát khi lao động), Roih (dặn dò con cháu), Cha chap (tình cảm trai gái). Nhạc cụ gồm: cồng, chiêng, tù và, khèn 14 ống, sáo 6 lỗ, nhị, đàn Ta lư. Dùng theo phong tục và dịp cụ thể như lễ hội hay tang ma."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "ten_dan_toc": "Người Tày",
+    "thong_tin_chung": {
+      "ten_goi_khac": "Thổ",
+      "nhom_dia_phuong": "Thổ, Ngạn, Phén, Thu Lao và Pa Dí",
+      "dan_so": "1.845.492 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Tày - Thái (ngữ hệ Thái - Ka Đai)"
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Tày có mặt ở Việt Nam từ rất sớm, có thể từ nửa cuối thiên niên kỷ thứ nhất trước Công nguyên."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Là cư dân nông nghiệp có truyền thống làm ruộng nước, biết thâm canh và áp dụng thuỷ lợi (đào mương, bắc máng, đắp phai, làm cọn). Có tập quán đập lúa ngoài đồng bằng máng gỗ (loỏng), sau đó dùng dậu gánh thóc về nhà. Ngoài lúa còn trồng hoa màu, cây ăn quả. Chăn nuôi phát triển nhưng vẫn phổ biến cách nuôi thả rông. Có nghề thủ công nổi bật là dệt thổ cẩm. Chợ đóng vai trò kinh tế quan trọng."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Trước kia ăn nếp là chính, nhà nào cũng có ninh và chõ đồ xôi. Ngày lễ tết làm nhiều loại bánh như bánh chưng, bánh giầy, bánh gai, bánh gio, bánh rán, bánh trôi, bánh khảo... Có món đặc biệt là bánh bột hấp nhân trứng kiến và cốm từ thóc nếp non."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Y phục làm từ vải bông nhuộm chàm, ít thêu thùa. Phụ nữ mặc váy hoặc quần, áo cánh ngắn trong, áo dài ngoài. Nhóm Ngạn mặc áo ngắn, nhóm Phén mặc áo nâu, Thu Lao đội khăn chóp nhọn, Pa Dí đội mũ hình mái nhà, nhóm Thổ mặc giống người Thái ở Mai Châu."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Cư trú ở các tỉnh Đông Bắc: Quảng Ninh, Bắc Giang, Lạng Sơn, Cao Bằng, Bắc Kạn, Thái Nguyên, Hà Giang, Tuyên Quang, Lào Cai, Yên Bái. Thường sống thành bản đông đúc. Nhà sàn truyền thống có 4-7 hàng cột, mái lợp ngói/tranh/lá cọ, vách thưng ván hoặc liếp nứa."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Đồ nhỏ gọn gánh bằng dậu hoặc đeo túi vải. Đồ lớn khiêng vác hoặc trâu kéo. Dùng bè, mảng để chở trên nước."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Có chế độ quằng - hình thức xã hội phong kiến sơ kỳ, cha truyền con nối. Quằng sở hữu ruộng đất, rừng, sông suối... và bóc lột dân bằng tô, lao dịch, hiện vật. Chế độ này tồn tại đến cuối thế kỷ XIX - đầu thế kỷ XX."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Nam nữ tự do yêu đương nhưng việc cưới do bố mẹ và 'số mệnh' quyết định. Nhà trai xin lá số cô gái để so. Sau cưới, cô dâu ở nhà cha mẹ đến khi gần sinh mới về ở hẳn nhà chồng."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ kiêng cữ nhiều thứ khi mang thai và sau sinh để mẹ tròn con vuông. Sau 3 ngày cúng tẩy vía, lập bàn thờ bà mụ. Đầy tháng đặt tên và tổ chức lễ mừng."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Đám ma tổ chức linh đình để báo hiếu và đưa hồn sang thế giới bên kia. Sau 3 năm làm lễ mãn tang, đưa hồn lên bàn thờ tổ tiên. Hàng năm cúng giỗ vào ngày nhất định."
+      },
+      {
+        "tieu_de": "Nhà mới",
+        "noi_dung": "Làm nhà phải chọn đất, hướng, tuổi và ngày tốt. Ngày vào nhà mới phải nhóm lửa và giữ lửa suốt đêm đến sáng hôm sau."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Chủ yếu thờ tổ tiên. Ngoài ra còn thờ thổ công, vua bếp, bà mụ."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Có nhiều ngày tết: Tết Nguyên đán, Rằm tháng 7 là lớn nhất. Tết gọi hồn trâu bò (mùng 6/6 âm lịch) và tết cơm mới (trước mùa thu hoạch) là đặc trưng cho cư dân trồng lúa nước."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Người Tày theo âm lịch."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Chữ Nôm Tày xuất hiện khoảng thế kỷ XV, dùng ghi truyện thơ, bài hát, cúng. Chữ Tày-Nùng dùng chữ cái La-tinh ra đời năm 1960, tồn tại đến giữa thập niên 1980, được dùng trong các trường cấp I vùng có người Tày, Nùng."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Có nhiều làn điệu dân ca: lượn (lượn cọi, lượn slương, lượn then...), phong slư, phuối pác, vén eng... Lượn phổ biến trong lễ hội, cưới xin, mừng nhà mới. Ngoài ra có múa nghi lễ và múa rối gỗ."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Trong hội lồng tồng tổ chức ném còn, kéo co, múa sư tử, đánh cờ tướng... Trẻ em chơi quay, khăng, chắt, ô..."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "ten_dan_toc": "Người Thái",
+    "thong_tin_chung": {
+      "ten_goi_khac": "Tay Thanh, Man Thanh, Tay Mười, Tày Mường, Hàng Tổng, Tay Dọ, Thổ",
+      "ten_tu_goi": "Tay hoặc Thay",
+      "nhom_dia_phuong": "Ngành Đen (Tay Đăm), Ngành Trắng (Tay Đón hoặc Khao)",
+      "dan_so": "1.820.950 người",
+      "ngon_ngu": "Thuộc nhóm ngôn ngữ Tày - Thái (ngữ hệ Thái - Ka Đai)"
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Thái có cội nguồn ở vùng Đông Nam Á lục địa, tổ tiên xa xưa có mặt ở Việt Nam từ rất sớm."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Người Thái sớm trồng lúa nước theo hệ thống thủy lợi 'mương, phai, lái, lịn'. Trồng một vụ lúa nếp, nay chuyển sang 2 vụ lúa tẻ. Làm nương trồng ngô, hoa màu, cây thực phẩm, cây thuốc nhuộm, dâu tằm. Nghề nuôi cá lồng trên sông suối mang lại thu nhập cao."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Lương thực chính là gạo tẻ, truyền thống là gạo nếp. Có món 'chéo' làm từ ớt, muối, tỏi, rau thơm, gan gà, ruột cá. Có món nặm pịa (nước nhúng từ lòng non). Các món phổ biến: nộm, nhúng, mắm, nướng, lùi, đồ, sấy, canh, xào, rang, luộc. Thích vị cay, chua, đắng, chát, bùi. Uống rượu cần, hút thuốc lào. Người Thái Trắng mời thuốc trước khi hút."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Phụ nữ mặc áo cánh ngắn có khuy bạc, váy ống thâm, thắt lưng xanh, đeo xà tích bạc. Ngày lễ mặc thêm áo dài đen hoặc kiểu áo chui đầu. Thái Đen đội khăn piêu thêu hoa văn sặc sỡ. Nam mặc quần thắt lưng, áo cánh xẻ ngực có túi. Áo Thái Trắng có thêm túi ngực trái. Màu phổ biến: đen, gạch non, sọc, trắng. Ngày lễ cuốn khăn dài một sải tay."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Nhà sàn có các kiểu: mái tròn hình mai rùa, 4 mái mặt bằng hình chữ nhật, nhà sàn dài cao, nhà mái thấp giống nhà Mường. Hiên có lan can. Gian hồi làm tiền sảnh."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Phổ biến là gánh, gùi dây đeo trán, dùng ngựa cưỡi/thồ, thuyền đuôi én xuôi ngược trên sông."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Cơ cấu cổ truyền gọi là bản mường, theo chế độ phìa tạo, Tông tộc gọi là Đằm. Ba mối quan hệ dòng họ quan trọng: Ải Noong (nam sinh từ một ông tổ 4 đời), Lung Ta (nam thuộc họ vợ), Nhinh Xao (nam thuộc họ người đến làm rể)."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Trước kia theo chế độ mua bán và ở rể. Có hai bước chính: cưới lên (đưa rể ở nhà vợ 8-12 năm), cưới xuống (đưa vợ về họ cha). Sau lễ cưới, Thái Đen búi tóc ngược cho vợ."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ đẻ ngồi, nhau bỏ vào ống tre treo trên cây. Sưởi lửa, ăn cơm lam, kiêng một tháng. Có nghi thức dạy trẻ lao động theo giới, mời Lung Ta đặt tên."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Lễ tang có hai bước: Pông (phúng viếng, chôn), Xống (gọi ma về thờ trong nhà)."
+      },
+      {
+        "tieu_de": "Nhà mới",
+        "noi_dung": "Làm lễ dẫn chủ nhân lên nhận nhà, Lung Ta châm lửa bếp mới. Cúng tổ tiên, đọc mo xua đuổi điều ác, vui chơi mừng nhà mới."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Người Thái Đen cúng tổ tiên vào tháng 7, 8 âm lịch. Người Thái Trắng ăn Tết theo âm lịch. Bản mường cúng thần đất, núi, nước và linh hồn trụ cột."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Theo hệ can chi giống âm lịch. Lịch Thái Đen lệch 6 tháng so với âm lịch."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Có mẫu tự theo hệ Sanscrit, học theo truyền khẩu. Có nhiều tác phẩm cổ viết về lịch sử, luật tục, văn học."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Có điệu xoè, sáo lam, tiêu, hát thơ, đối đáp giao duyên phong phú."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Trò chơi phổ biến: ném còn, kéo co, đua ngựa, dạo thuyền, bắn nỏ, múa xoè, chơi quay, quả mák lẹ. Có nhiều trò cho trẻ em."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "ten_dan_toc": "Người Thổ",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Thổ",
+      "ten_goi_khac": "Người Nhà làng, Mường, Con Kha, Xá Lá Vàng",
+      "nhom_dia_phuong": "Kẹo, Mọn, Cuối, Họ, Đan Lai, Ly Hà, Tày Poọng",
+      "dan_so": "91.430 người",
+      "ngon_ngu": "Tiếng nói thuộc nhóm ngôn ngữ Việt Mường (ngữ hệ Nam Á)"
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Thổ là kết quả giao thoa giữa các nhóm người Mường di cư từ phía bắc và người Việt ngược lên từ các vùng ven biển, hòa nhập với cư dân địa phương gốc Việt cổ. Họ hợp thành một cộng đồng dân tộc Thổ."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Chủ yếu làm nương rẫy, một số ít làm ruộng nước. Trình độ canh tác khá cao với kỹ thuật 'cà nộn'. Cây chính: lúa, sắn, ngô. Nhóm Kẹo, Mọn, Cuối trồng nhiều gai để lấy sợi. Nghề đánh cá phát triển, săn bắt và hái lượm bổ sung nguồn sống."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Trước kia ăn nếp là chính, nay chuyển sang gạo tẻ. Mùa giáp hạt ăn rau củ rừng. Ngày lễ, tết làm bánh chưng, bánh giầy, bánh gai."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Nam mặc như người Việt: quần trắng cạp vấn, áo dài lương đen, khăn nhiễu tím. Nữ vùng Lâm La mặc váy đen thêu chỉ màu, áo 5 thân. Vùng Quỳ Hợp dùng váy mua hoặc đổi của người Thái, váy chàm sọc ngang, áo cánh trắng cổ viền, khăn vuông trắng như người Mường."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Sống chủ yếu ở miền Tây Nghệ An, tập trung thành làng bản đông đúc. Nhà truyền thống là nhà sàn, một số vùng làm nhà theo kiểu cột ngoãm. Hiện nay chuyển sang nhà đất kiểu người Việt."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Mang, xách, gánh bằng sọt, bồ với vật nhỏ. Vật nặng dùng trâu, bò kéo xe gỗ (cả khung và bánh)."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Đơn vị hành chính nhỏ nhất là làng, do trùm làng đứng đầu. Gia đình nhỏ phụ quyền, mối quan hệ tương trợ hữu ái. Ít kết hôn với dân tộc khác, hôn nhân giữa các nhóm Thổ không phân biệt."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Tục ngủ mái phổ biến ở Nghĩa Đàn, Tân Kỳ, Quỳ Hợp. Hôn lễ có nhiều bước. Lễ vật cưới gồm trâu, bạc trắng, vải, xôi, lợn. Một số nơi có tục ở rể."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Sau sinh 3 ngày cúng bà mụ đặt tên, mẹ kiêng cữ một tháng. Trong tháng không cho người lạ vào nhà."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Tổ chức linh đình, có nơi giết đến 12 trâu. Người chết quàn trong nhà hàng tuần. Quan tài làm từ thân gỗ đục rỗng như máng, đặt theo hướng chân xuôi dòng nước. Cúng 30, 50, 100 ngày sau chôn."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Người Thổ theo âm lịch."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Thờ nhiều loại thần, ma, đặc biệt thần đánh giặc, khai khẩn. Trong gia đình thờ tổ tiên, cúng bà mụ khi trẻ em ốm, cúng vía cho người lớn dịp lễ, tết hoặc khi đau ốm."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Không có văn tự riêng, một số biết chữ Hán. Ngày nay sử dụng tiếng Việt phổ biến."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Văn nghệ dân gian phong phú: đồng dao, ca dao, tục ngữ."
+      },
+      {
+        "tieu_de": "Chơi",
+        "noi_dung": "Gồm kéo co, múa sư tử, chơi cờ tướng. Trẻ em thích đá cầu, đánh cù."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "ten_dan_toc": "Người Xinh Mun",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Xinh Mun",
+      "ten_goi_khac": "Puộc, Xá, Pnạ",
+      "nhom_dia_phuong": "Xinh, Mun Dạ, Xinh Mun Nghẹt",
+      "dan_so": "29.503 người",
+      "ngon_ngu": "Thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á). Người Xinh Mun giỏi tiếng Thái."
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Xinh Mun đã sinh sống lâu đời ở miền Tây Bắc Việt Nam."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Chủ yếu trồng lúa trên nương, một số ít làm ruộng."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Ăn cơm nếp, cơm tẻ; thích vị cay, uống rượu cần; có tập quán ăn trầu, nhuộm răng đen."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Trang phục giống người Thái."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Nhà sàn mái vòm hình mai rùa."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Dùng gùi đeo trán là phổ biến."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Gia đình nhỏ phụ quyền, song đại gia đình nhiều thế hệ vẫn phổ biến. Có nhiều họ, phổ biến là họ Vì và họ Lò."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Tục ở rể phổ biến, có thể kéo dài 8-12 năm hoặc suốt đời nếu nhà vợ không có con trai. Trong lễ cưới đổi tên đôi vợ chồng, tên do bố mẹ vợ hoặc ông cậu đặt. Sau cưới về nhà trai vài ngày rồi sang ở nhà gái. Lễ đưa dâu về nhà trai diễn ra sau khi hết thời gian ở rể, thường khi đã có con."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ đẻ ngồi cạnh bếp, được đỡ bởi người thân. Cắt rốn bằng cách kéo dài dây rốn rồi mới cắt. Nhau được đựng trong ống tre treo lên cây cao. Trẻ gần một tuổi mới làm lễ đặt tên."
+      },
+      {
+        "tieu_de": "Nhà mới",
+        "noi_dung": "Cả bản cùng giúp dựng nhà. Chọn đất theo ngày tốt, kiêng ngày hoả. Ông cậu dựng cột chính và đốt lửa bếp đầu tiên. Vật tượng trưng treo trên cột thể hiện sự no đủ."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Không dùng quan tài gỗ, chỉ bó bằng cót. Chọn huyệt bằng cách ném trứng. Nhà mồ đầy đủ vật tượng trưng. Không cải táng hay tảo mộ."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Thờ tổ tiên hai đời, có thể do anh cả hoặc các anh em trai cùng thờ. Bố mẹ vợ thờ ở lán nhỏ bên cạnh nhà. Lễ cúng bản hàng năm rất quan trọng."
+      },
+      {
+        "tieu_de": "Học",
+        "noi_dung": "Trước kia dùng chữ Thái, nay dùng chữ phổ thông."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Thích hát múa trong dịp lễ tết, hát đối nam nữ rất tự nhiên."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "ten_dan_toc": "Người Xơ Đăng",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Xơ Teng (Hđang, Xđang, Xđeng), Tơ Đrá (Xđrá, Hđrá), Mnâm, Ca Dong, Ha Lăng (Xlang), Tà Trĩ (Tà Trê), Châu",
+      "ten_goi_khac": "Hđang, Kmrâng, Con lan, Brila",
+      "nhom_dia_phuong": "Xơ Teng, Tơ Đrá, Mnâm, Ca Dong, Ha Lăng, Tà Trĩ, Châu",
+      "dan_so": "212.277 người",
+      "ngon_ngu": "Tiếng Xơ Đăng thuộc ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á), gần với tiếng Hrê, Ba Na, Gié Triêng"
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Xơ Đăng cư trú lâu đời ở Trường Sơn - Tây Nguyên và vùng núi Quảng Nam, Quảng Ngãi."
+      },
+      {
+        "tieu_de": "Hoạt động kinh tế",
+        "noi_dung": "Kinh tế rẫy là chủ đạo. Nhóm Mnâm trồng lúa nước kiểu sơ khai. Trồng lúa, kê, ngô, sắn, dưa, dứa, thuốc lá... Ca Dong trồng quế. Nuôi trâu, dê, gà... Có nghề rèn, dệt vải, đãi vàng, đan lát. Ưa trao đổi vật, nay đã dùng tiền."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Ăn cơm tẻ, nếp với muối ớt, rau rừng, món nướng, canh. Uống rượu cần, nước lã (nay đun chín). Rượu ngon làm từ kê chân vịt. Có nơi ăn trầu cau, nhai thuốc lá nghiền."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Nam đóng khố, nữ mặc váy áo. Trước dùng vỏ cây làm áo. Nay dùng vải công nghiệp, màu đen/trắng, ít hoa văn. Mùa lạnh choàng vải."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Sống tại Kon Tum, Quảng Nam, Quảng Ngãi. Ở nhà sàn, từng có nhà dài đại gia đình. Kiểu làng: quây quanh nhà rông hoặc không có nhà rông. Làm nhà bằng ngoàm và dây buộc."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Dùng gùi đeo vai: nhiều loại, có hoặc không có hoa văn, một ngăn, ba ngăn (cánh dơi), hoặc hình ốc sên."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Làng tự quản, già làng đứng đầu. Đất làng sở hữu chung, cá nhân có quyền sử dụng. Quan hệ cộng đồng chặt chẽ, từng có nô lệ nhưng không bị bóc lột."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Thường cư trú luân phiên giữa hai nhà. Nghi thức cưới gồm: đưa đùi gà, uống rượu, cùng ăn cơm. Hôn nhân không mang tính mua bán."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Cả làng chia buồn, giúp đám ma. Quan tài gỗ độc mộc. Chôn ở bãi mộ chung. Có tục chia của cho người chết. Không có tục bỏ mả như Gia Rai, Ba Na."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Tin vào thần linh siêu nhiên (Kiak, Ông, Bà, Yàng). Thờ thần nước, thần lúa, thần núi... Nhiều lễ cúng: cầu mùa, cầu an, tránh rủi ro."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Lễ thần nước (sửa máng nước), lễ trỉa lúa, thu hoạch, dựng nhà... Tết tổ chức tháng Giêng, kéo dài 3-4 ngày. Một số lễ có đâm trâu."
+      },
+      {
+        "tieu_de": "Lịch",
+        "noi_dung": "Một năm có 10 tháng theo chu kỳ làm rẫy. Mỗi tháng 30 ngày. Có cách tính ngày tốt - xấu."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Có nhiều nhạc cụ: sáo, đàn, trống, chiêng, cồng... Hát ru, hát đối. Múa nam, nữ, múa tập thể. Truyện cổ phong phú, đặc sắc."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "ten_dan_toc": "Người Xtiêng",
+    "thong_tin_chung": {
+      "ten_tu_goi": "Xtiêng",
+      "ten_goi_khac": "Xa Điêng, Xa Chiêng",
+      "nhom_dia_phuong": "Bù Lơ, Bù Đek (Bù Đêh), Bù Biêk",
+      "dan_so": "10.752 người",
+      "ngon_ngu": "Thuộc nhóm ngôn ngữ Môn - Khơ Me (ngữ hệ Nam Á), gần với tiếng Mạ, Mnông, Chơ Ro"
+    },
+    "noi_dung_chi_tiet": [
+      {
+        "tieu_de": "Lịch sử",
+        "noi_dung": "Người Xtiêng sinh sống lâu đời ở vùng Trường Sơn - Tây Nguyên và miền Đông Nam Bộ."
+      },
+      {
+        "tieu_de": "Hoạt động sản xuất",
+        "noi_dung": "Nguồn chính là lúa gạo, chủ yếu từ rẫy (80%). Nhóm Bù Lơ làm rẫy, nhóm Bù Đek làm ruộng nước. Trồng theo lối phát-đốt-chọc-trỉa. Công cụ: rìu, dao xà gạc, cào tre, gậy nhọn, cuốc con. Hái lượm, săn bắt, đánh cá góp phần quan trọng. Nuôi trâu, bò, lợn, gà, chó, có hộ nuôi voi. Có nghề dệt vải, đan lát. Trao đổi vật, nay đã dùng tiền."
+      },
+      {
+        "tieu_de": "Ăn",
+        "noi_dung": "Ăn cơm tẻ, nếp. Thực phẩm chủ yếu từ rừng, suối, nay thêm từ chợ. Uống nước lã, rượu cần. Đồ đựng làm từ vỏ bầu. Hút thuốc lá bằng tẩu (nay ít)."
+      },
+      {
+        "tieu_de": "Ở",
+        "noi_dung": "Sống ở Bình Phước, Tây Ninh, Đồng Nai. Vùng cao ở nhà trệt mái trùm thấp, vùng thấp ở nhà sàn. Xưa là nhà dài, nay chuyển sang nhà ngắn hộ riêng."
+      },
+      {
+        "tieu_de": "Mặc",
+        "noi_dung": "Nam đóng khố, ở trần. Nữ mặc áo, váy. Ưa đeo nhiều vòng, chuỗi cườm, hoa tai bằng ngà voi. Nay nam mặc như người Việt, nữ mặc áo sơ mi, váy (có vùng dùng váy Khơ Me)."
+      },
+      {
+        "tieu_de": "Phương tiện vận chuyển",
+        "noi_dung": "Dùng gùi phổ biến. Ở vùng gần người Việt, Khơ Me dùng xe gỗ hai bánh do bò kéo."
+      },
+      {
+        "tieu_de": "Quan hệ xã hội",
+        "noi_dung": "Gia đình gọi là 'bếp' (nak), nhiều bếp thành một nhà (yau), nhiều nhà thành làng. Quan hệ họ hàng và dòng họ rõ nét. Già làng và bô lão có uy tín cao. Xưa có phân biệt giàu nghèo, có nô lệ gia đình."
+      },
+      {
+        "tieu_de": "Cưới xin",
+        "noi_dung": "Nếu đủ sính lễ, cô dâu về nhà chồng. Thường phải ở rể. Ở Bình Long, rể luôn ở nhà vợ. Tục hôn nhân khác nhau giữa các nhóm (ví dụ nhóm Bù Đek cho phép hôn nhân cậu – cô)."
+      },
+      {
+        "tieu_de": "Sinh đẻ",
+        "noi_dung": "Phụ nữ kiêng từ khi mang thai. Xưa sinh một mình trong rừng. Nay sinh ở nhà phụ, tránh xúc phạm 'thần lúa', sau sinh phải cúng lợn cho thần."
+      },
+      {
+        "tieu_de": "Ma chay",
+        "noi_dung": "Quan tài gỗ độc mộc. Chôn trong bãi mộ làng, kèm theo vật dụng. Không thăm mộ. Kiêng tiếng nhạc trong 10 ngày. Chết bất thường phải cúng riêng ngoài khu dân cư, không được chôn trong mộ làng."
+      },
+      {
+        "tieu_de": "Thờ cúng",
+        "noi_dung": "Tin vạn vật có hồn. Thờ nhiều thần: thần lúa, mặt trời, núi, sấm sét... Thần lúa là phụ nữ đẹp. Hiến tế bằng rượu, gà, lợn, trâu, bò tùy theo mức độ."
+      },
+      {
+        "tieu_de": "Lễ tết",
+        "noi_dung": "Lễ đâm trâu là lớn nhất: mừng được mùa, chiến thắng, phát đạt... Tết Xtiêng gọi là lễ cúng rơm, sau khi tuốt lúa, trước khi đốt rẫy mới."
+      },
+      {
+        "tieu_de": "Văn nghệ",
+        "noi_dung": "Yêu âm nhạc, nhạc cụ chủ yếu là cồng chiêng (Bù Lơ dùng chiêng 6 chiếc, Bù Đek dùng cồng 5 chiếc), dùng 3 chiếc trong ma chay. Có tù và, trống, khèn bầu, đàn, điệu hát riêng và truyện cổ phong phú. Hiện nay cồng chiêng còn rất ít."
+      }
+    ]
+  }
 ]
 export default dataDanToc;
