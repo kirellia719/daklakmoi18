@@ -2,10 +2,14 @@ import "./style.scss";
 
 import dataTinhThanh from "./dulieumoi";
 import { useParams } from "react-router-dom";
+import { useRef } from "react";
+
+import TTSButton from "../../components/TTSButton"
 
 const ThongTinTinh = () => {
    const { id } = useParams();
    console.log(id);
+   const contentRef = useRef();
 
    const province = dataTinhThanh.find((p) => p.id == id);
    return (
@@ -16,7 +20,7 @@ const ThongTinTinh = () => {
                <div className="vr-view">
                   <div className="vr-container" dangerouslySetInnerHTML={{ __html: province.image360 }} />
                </div>
-               <div className="province-info">
+               <div className="province-info" ref={contentRef}>
                   <div className="p-container">
                      <b>Giới thiệu chung</b>
                      <ul>
@@ -67,6 +71,7 @@ const ThongTinTinh = () => {
                      </div>
                   </div>
                </div>
+               <TTSButton contentRef={contentRef} />
             </div>
          ) : (
             ""
