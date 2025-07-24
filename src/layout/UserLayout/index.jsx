@@ -1,15 +1,15 @@
 import "./style.scss"
 import Navbar from "./Navbar"
 import { Routes, Route } from "react-router-dom";
-import TrangGioiThieu from "../pages/TrangGioiThieu";
-import VietNamMapPage from "../pages/VietNamMap";
-import ThongTinTinh from "../pages/ThongTinTinh";
-import TrangDakLak from "../pages/TrangDakLak";
-import TrangPhuongXa from "../pages/TrangPhuongXa";
-import TrangChu from "../pages/TrangChu";
-import TrangDanToc from "../pages/TrangDanToc/TrangDanToc";
-import ThongTinDanToc from "../pages/ThongTinDanToc";
-import TestPage from "../pages/TestPage"
+import TrangGioiThieu from "../../pages/TrangGioiThieu";
+import VietNamMapPage from "../../pages/VietNamMap";
+import ThongTinTinh from "../../pages/ThongTinTinh";
+import TrangDakLak from "../../pages/TrangDakLak";
+import TrangPhuongXa from "../../pages/TrangPhuongXa";
+import TrangChu from "../../pages/TrangChu";
+import TrangDanToc from "../../pages/TrangDanToc/TrangDanToc";
+import ThongTinDanToc from "../../pages/ThongTinDanToc";
+import TestPage from "../../pages/TestPage"
 
 const MainLayout = () => {
     return <div className="MainLayout">

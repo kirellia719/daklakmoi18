@@ -1,8 +1,8 @@
 import { useState } from "react";
 import "./style.scss"
 import { RiCloseLine, RiMenu3Line } from "@remixicon/react";
-import Logo from "../../components/Logo"
-import BackgroundMusic from "../../components/BackgroundMusic"
+import Logo from "../../../components/Logo"
+import BackgroundMusic from "../../../components/BackgroundMusic"
 import { NavLink } from "react-router-dom";
 
 const Navbar = () => {

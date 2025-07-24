@@ -1,9 +1,14 @@
 
-import MainLayout from "./layout";
+import { Route, Routes } from "react-router-dom";
+import MainLayout from "./layout/UserLayout";
+import Admin from "./layout/AdminLayout/AdminDashboard";
 const App = () => {
 
   return (
-    <MainLayout />
+    <Routes>
+      <Route path="/admin" element={<Admin />} />
+      <Route path="/*" element={<MainLayout />} />
+    </Routes>
   )
 }
 
