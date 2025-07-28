@@ -1,0 +1,82 @@
+.KhaoSat {
+   display: flex;
+   justify-content: center;
+   .contact-info {
+      max-width: 640px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 24px;
+      border-radius: 8px;
+      border: 1px solid rgb(218, 220, 224);
+      border-top: 10px solid #673ab7;
+      font-family: "Segoe UI", sans-serif;
+
+      &__title {
+         font-size: 24px;
+         font-weight: bold;
+         color: #2a71d0;
+         margin-bottom: 24px;
+         text-align: center;
+      }
+
+      &__columns {
+         display: flex;
+         justify-content: space-between;
+         gap: 40px;
+         margin-bottom: 20px;
+         flex-wrap: wrap;
+
+         @media (max-width: 600px) {
+            flex-direction: column;
+            gap: 16px;
+         }
+      }
+
+      &__column {
+         flex: 1;
+         min-width: 250px;
+
+         .label {
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #333;
+         }
+
+         p,
+         li {
+            color: #444;
+         }
+      }
+
+      &__list {
+         padding-left: 20px;
+         margin-top: 4px;
+
+         li {
+            list-style: disc;
+            margin-bottom: 4px;
+         }
+      }
+
+      &__section {
+         border-top: 1px solid #ddd;
+         padding-top: 16px;
+
+         p {
+            margin: 6px 0;
+            color: #444;
+
+            .label {
+               font-weight: 600;
+               color: #333;
+            }
+         }
+      }
+   }
+
+   .form-container {
+      width: 100%;
+      max-width: var(--max-width);
+      height: calc(100dvh - 68px);
+   }
+}

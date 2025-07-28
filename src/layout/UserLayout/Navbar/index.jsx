@@ -4,6 +4,7 @@ import { RiCloseLine, RiMenu3Line } from "@remixicon/react";
 import Logo from "../../../components/Logo"
 import BackgroundMusic from "../../../components/BackgroundMusic"
 import { NavLink } from "react-router-dom";
+import list from "../list-nav";
 
 const Navbar = () => {
 
@@ -22,18 +23,9 @@ const Navbar = () => {
             <NavLink to={"/"}><Logo /></NavLink>
             <div className="redirect-container">
                 <div className="nav-list">
-                    <div className="nav-item">
-                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/gioi-thieu">Giới thiệu</NavLink>
-                    </div>
-                    <div className="nav-item">
-                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/tinh">Việt Nam</NavLink>
-                    </div>
-                    <div className="nav-item">
-                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/dak-lak">Đăk Lăk</NavLink>
-                    </div>
-                    <div className="nav-item">
-                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/dan-toc">Dân tộc</NavLink>
-                    </div>
+                    {list.map(l => <div className="nav-item" key={`${l.to}-desktop`}>
+                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to={l.to} >{l.title}</NavLink>
+                    </div>)}
                 </div>
             </div>
             <div className="do-container">
@@ -52,10 +44,10 @@ const Navbar = () => {
                     <div className="close-btn" onClick={() => setOpen(false)}><RiCloseLine /></div>
                 </div>
                 <div className="nav-list">
-                    <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/gioi-thieu" onClick={() => setOpen(false)}>Giới thiệu</NavLink>
-                    <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/viet-nam" onClick={() => setOpen(false)}>Việt Nam</NavLink>
-                    <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/dak-lak" onClick={() => setOpen(false)}>Đăk Lăk</NavLink>
-                    <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to="/dan-toc" onClick={() => setOpen(false)}>Dân tộc</NavLink>
+                    {list.map(l => <div className="nav-item" key={l.to + "mobile"} >
+                        <NavLink className={({ isActive }) => `nav-link ${isActive ? "nav-active" : ""}`} to={l.to} onClick={() => setOpen(false)}>{l.title}</NavLink>
+                    </div>)}
+
                 </div>
             </div>
 
