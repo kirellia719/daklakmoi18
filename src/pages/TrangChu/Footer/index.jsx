@@ -17,7 +17,7 @@ const Footer = () => {
 
   return (
     <footer className="footer">
-      <div className="footer__container">
+      {/* <div className="footer__container">
         <div className="footer__contact">
           <h3>Thông tin liên hệ</h3>
           <p>📍 Địa chỉ: 123 Đường DEF, Phường Buôn Ma Thuột, tỉnh Đắk Lắk</p>
@@ -47,7 +47,7 @@ const Footer = () => {
             <button type="submit">Gửi phản hồi</button>
           </form>
         </div>
-      </div>
+      </div> */}
 
       <div className="footer__bottom">
         © {new Date().getFullYear()} Vali 360. Mọi quyền được bảo lưu.
