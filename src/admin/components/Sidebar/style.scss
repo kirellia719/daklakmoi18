@@ -1,0 +1,113 @@
+.admin-sidebar {
+   width: 240px;
+   height: 100vh;
+   background: #167e79; // Teal nền
+   color: #fff;
+   padding: 20px;
+   z-index: 1000;
+   position: fixed;
+   top: 0;
+   left: 0;
+   transform: translateX(-100%);
+   transition: transform 0.3s ease-in-out;
+
+   display: flex;
+   flex-direction: column;
+
+   h2 {
+      margin-bottom: 24px;
+      font-size: 24px;
+      font-family: "Pacifico", cursive; // dùng Google Font nếu cần
+      color: #fff;
+   }
+
+   nav {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+
+      a {
+         display: flex;
+         align-items: center;
+         gap: 8px;
+         padding: 10px 12px;
+         border-radius: 12px;
+         font-size: 16px;
+         color: #fff;
+         text-decoration: none;
+         transition: background 0.2s ease;
+
+         &.active {
+            background-color: #4aa7a2; // Màu highlight
+            font-weight: bold;
+         }
+
+         &:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+         }
+      }
+   }
+
+   button {
+      margin-top: auto;
+      padding: 10px 14px;
+      background: rgba(255, 255, 255, 0.1);
+      border: none;
+      color: #fff;
+      font-size: 14px;
+      cursor: pointer;
+      border-radius: 6px;
+
+      &:hover {
+         background: rgba(255, 255, 255, 0.2);
+      }
+   }
+
+   &.open {
+      transform: translateX(0);
+   }
+}
+
+// Toggle (mobile)
+.sidebar-toggle {
+   display: none;
+   position: fixed;
+   top: 15px;
+   left: 15px;
+   z-index: 1100;
+   font-size: 24px;
+   background: #167e79;
+   color: white;
+   border: none;
+   padding: 6px 10px;
+   border-radius: 4px;
+
+   @media (max-width: 768px) {
+      display: block;
+   }
+}
+
+// Overlay
+.sidebar-backdrop {
+   display: block;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background: rgba(0, 0, 0, 0.4);
+   z-index: 900;
+}
+
+// Desktop fix
+@media (min-width: 769px) {
+   .admin-sidebar {
+      transform: translateX(0) !important;
+      position: relative;
+   }
+
+   .sidebar-toggle,
+   .sidebar-backdrop {
+      display: none !important;
+   }
+}

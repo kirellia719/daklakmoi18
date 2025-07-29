@@ -1,0 +1,72 @@
+.image-module {
+   padding: 32px;
+   max-width: 800px;
+   margin: 0 auto;
+
+   h2 {
+      font-size: 24px;
+      margin-bottom: 20px;
+   }
+
+   .image-form {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+
+      label {
+         font-weight: 500;
+         display: flex;
+         flex-direction: column;
+
+         input {
+            margin-top: 8px;
+         }
+      }
+   }
+
+   .image-list {
+      margin-top: 40px;
+
+      h3 {
+         font-size: 20px;
+         margin-bottom: 16px;
+      }
+   }
+}
+
+.image-grid,
+.image-preview {
+   display: flex;
+   flex-wrap: wrap;
+   gap: 16px;
+   justify-content: flex-start;
+
+   .image-item,
+   .preview-item {
+      position: relative;
+      height: 200px; // ✅ tăng chiều cao
+
+      img {
+         height: 100%;
+         width: auto;
+         display: block;
+         border-radius: 8px;
+         border: 1px solid #ccc;
+      }
+
+      .delete-btn,
+      .remove-btn {
+         position: absolute;
+         top: 6px;
+         right: 6px;
+         background: rgba(0, 0, 0, 0.5);
+         color: #fff;
+         border: none;
+         border-radius: 50%;
+         width: 24px;
+         height: 24px;
+         font-size: 14px;
+         cursor: pointer;
+      }
+   }
+}

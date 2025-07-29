@@ -1,0 +1,24 @@
+.admin-layout {
+   display: flex;
+   flex-direction: row;
+
+   // Chiều cao tối thiểu để layout không bị co
+   min-height: 100vh;
+
+   @media (max-width: 768px) {
+      flex-direction: column;
+   }
+}
+
+.admin-main {
+   flex: 1;
+   padding: 20px;
+   transition: all 0.3s ease;
+
+   // Trên mobile: có header => cần padding-top
+   @media (max-width: 768px) {
+      padding-top: 60px;
+      padding-left: 20px;
+      padding-right: 20px;
+   }
+}

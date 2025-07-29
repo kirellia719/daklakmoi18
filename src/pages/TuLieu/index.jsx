@@ -1,10 +1,10 @@
 import "./style.scss"
-import VideoGallery from "./VideoGallery";
+import UserLibrary from "./UserLibrary";
 
 const TuLieu = () => {
   return <div className="TuLieu">
     <div className="document-container">
-      <VideoGallery />
+      <UserLibrary />
     </div>
   </div>
 }
