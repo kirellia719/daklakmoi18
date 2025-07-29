@@ -38,7 +38,7 @@ const AlbumModule = () => {
   return (
     <div className="album-module">
       <Modal open={showModal} backdrop={true} onClose={() => setShowModal(false)}>
-        <div className="form-container">
+        <div className="album-container">
           <h2>Tạo Album Ảnh</h2>
           <form onSubmit={handleSubmit}>
             <label>

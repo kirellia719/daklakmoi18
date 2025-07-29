@@ -11,6 +11,7 @@ import TrangDanToc from "../../pages/TrangDanToc/TrangDanToc";
 import ThongTinDanToc from "../../pages/ThongTinDanToc";
 import TestPage from "../../pages/TestPage"
 import KhaoSat from "../../pages/KhaoSat";
+import TuLieu from "../../pages/TuLieu";
 
 const MainLayout = () => {
     return <div className="MainLayout">
@@ -26,6 +27,7 @@ const MainLayout = () => {
                 <Route path="/dan-toc" element={<TrangDanToc />} />
                 <Route path="/test" element={<TestPage />} />
                 <Route path="/khao-sat" element={<KhaoSat />} />
+                <Route path="/tu-lieu" element={<TuLieu />} />
                 <Route path="/" index element={<TrangChu />} />
             </Routes>
         </div>

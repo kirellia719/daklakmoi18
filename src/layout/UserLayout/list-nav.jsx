@@ -3,6 +3,7 @@ const list = [
   { to: "/tinh", title: "Việt Nam" },
   { to: "/dak-lak", title: "Đăk Lăk" },
   { to: "/dan-toc", title: "Dân tộc" },
+  { to: "/tu-lieu", title: "Tư liệu" },
   { to: "/khao-sat", title: "Liên Hệ - Góp ý" },
 ]
 

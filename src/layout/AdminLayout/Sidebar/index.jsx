@@ -6,7 +6,7 @@ const Sidebar = ({ active, onSelect, isOpen, onClose }) => {
     <div className={`sidebar ${isOpen ? 'open' : ''}`}>
 
 
-      <div className="sidebar-logo logo" style={{ color: "white" }}>Upstream</div>
+      <div className="sidebar-logo logo" style={{ color: "white" }}>Vali 360</div>
 
       <div className="menu">
         <div

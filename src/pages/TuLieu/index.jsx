@@ -1,9 +1,11 @@
 import "./style.scss"
+import YoutubeEmbed from "../../components/YoutubeEmbed"
+import VideoGallery from "./VideoGallery";
 
 const TuLieu = () => {
   return <div className="TuLieu">
-    <div className="form-container">
-
+    <div className="document-container">
+      <VideoGallery />
     </div>
   </div>
 }

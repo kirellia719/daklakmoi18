@@ -48,10 +48,10 @@
                      content: "";
                      position: absolute;
                      width: calc(100% - 20px);
-                     height: 2px;
+                     height: 4px;
                      bottom: 0px;
                      left: 10px;
-                     background: currentcolor;
+                     background: rgb(7, 73, 160);
                   }
 
                   &:not(.nav-active)::before {
@@ -61,10 +61,10 @@
                      -webkit-transform: scaleX(0);
                      transform: scaleX(0);
                      border-radius: 5px;
-                     height: 2px;
+                     height: 4px;
                      bottom: 0px;
                      left: 10px;
-                     background: currentcolor;
+                     background: rgb(35, 118, 226);
                      transition: transform 0.35s ease-out;
                      -webkit-transform-origin: bottom right;
                      transform-origin: bottom right;
