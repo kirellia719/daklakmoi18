@@ -1,6 +1,7 @@
 import './style.scss';
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+const ADMIN_PASS = import.meta.env.VITE_ADMIN_PASSWORD;
 
 const Login = () => {
   const [password, setPassword] = useState('');
@@ -9,7 +10,7 @@ const Login = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const correctPassword = 'admin123';
+    const correctPassword = ADMIN_PASS;
 
     if (password === correctPassword) {
       localStorage.setItem('admin_auth', 'true');
