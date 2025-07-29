@@ -14,6 +14,8 @@
    flex: 1;
    padding: 20px;
    transition: all 0.3s ease;
+   height: 100dvh;
+   overflow-y: scroll;
 
    // Trên mobile: có header => cần padding-top
    @media (max-width: 768px) {

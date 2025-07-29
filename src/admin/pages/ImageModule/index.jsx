@@ -63,15 +63,17 @@ const ImageModule = () => {
         toaster.push(<Message type="error">{data.error || 'Upload thất bại'}</Message>);
         return;
       }
-
-      toaster.push(<Message type="success">Đã upload ảnh!</Message>);
       setSelectedFiles([]);
       setPreviewUrls([]);
       fileInputRef.current.value = null; // ✅ Reset input sau khi upload
-      fetchImages();
+      setTimeout(() => {
+        fetchImages();
+      }, 2000);
     } catch (err) {
-      console.error(err);
-      toaster.push(<Message type="error">Lỗi khi upload</Message>);
+      console.error("Lỗi upload", err);
+      setTimeout(() => {
+        window.location.reload();
+      }, 2000);
     }
   };
 
@@ -98,6 +100,9 @@ const ImageModule = () => {
     } catch (err) {
       console.error(err);
       toaster.push(<Message type="error">Lỗi khi xoá ảnh</Message>);
+      setTimeout(() => {
+        window.location.reload();
+      }, 2000);
     }
   };
 
