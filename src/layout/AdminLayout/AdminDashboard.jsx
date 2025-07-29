@@ -32,6 +32,7 @@ const AdminDashboard = () => {
   };
 
   return (
+
     <div className="admin-dashboard">
       <Sidebar
         active={activeModule}

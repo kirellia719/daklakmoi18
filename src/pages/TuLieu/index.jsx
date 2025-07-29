@@ -1,5 +1,4 @@
 import "./style.scss"
-import YoutubeEmbed from "../../components/YoutubeEmbed"
 import VideoGallery from "./VideoGallery";
 
 const TuLieu = () => {
