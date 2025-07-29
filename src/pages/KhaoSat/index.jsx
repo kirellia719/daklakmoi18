@@ -1,11 +1,10 @@
 import "./style.scss"
 const contactData = {
-  teacher: 'Cô Nguyễn Thị D',
+  teacher: 'Cô Trần Thị Như Trâm',
   members: ['Đặng Hoàng Anh Quân', 'Hồ Phạm Hà Như'],
-  class: 'A1',
   school: 'Trường THCS Hàm Nghi',
-  address: 'Số ... Đường ..., Phường Buôn Ma Thuột, Tỉnh Đắk Lắk',
-  phone: '0123 456 789',
+  address: 'Phường Buôn Ma Thuột, Tỉnh Đắk Lắk',
+  phone: '0905 696 139',
 };
 const KhaoSat = () => {
   return <div className="KhaoSat">
@@ -30,7 +29,6 @@ const KhaoSat = () => {
         </div>
 
         <div className="contact-info__section">
-          <p><span className="label">Lớp:</span> {contactData.class}</p>
           <p><span className="label">Trường:</span> {contactData.school}</p>
           <p><span className="label">Địa chỉ:</span> {contactData.address}</p>
           <p><span className="label">Số điện thoại:</span> {contactData.phone}</p>
