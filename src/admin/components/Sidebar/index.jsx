@@ -15,7 +15,7 @@ const Sidebar = ({ open, onClose }) => {
       <div className={`admin-sidebar ${open ? 'open' : ''}`}>
         <h2>Admin</h2>
         <nav>
-          <NavLink to="/admin" end onClick={onClose}>Dashboard</NavLink>
+          {/* <NavLink to="/admin" end onClick={onClose}>Dashboard</NavLink> */}
           <NavLink to="/admin/videos" onClick={onClose}>Video</NavLink>
           <NavLink to="/admin/images" onClick={onClose}>Ảnh</NavLink>
           {/* <NavLink to="/admin/provinces" onClick={onClose}>Tỉnh</NavLink> */}
