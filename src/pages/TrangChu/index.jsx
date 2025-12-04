@@ -14,7 +14,7 @@ const TrangChu = () => {
     <section className="hero-wrapper">
       <div className="hero-container">
         <div className="hero-left">
-          <div className="hero-tag">Vali thông minh 360 </div>
+          <div className="hero-tag">Hộp tri thức 360 </div>
           <div className="hero-des">Hành trình khám phá Tổ quốc trong kỷ nguyên vươn mình của dân tộc</div>
           <div className="hero-cta">
             <NavLink className="cta-btn" to={"/gioi-thieu"}>
