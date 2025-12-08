@@ -3,7 +3,7 @@ import "./style.scss";
 import anhVN from "./vn.jpg";
 import anhDL from "./daklak.jpg";
 import anhDT from "./dantoc.jpg";
-import anh from "./vali.png";
+import anh from "./hoptrithuc.png";
 import { NavLink } from "react-router-dom";
 
 import TiltImage from "../../components/TiltImage"
