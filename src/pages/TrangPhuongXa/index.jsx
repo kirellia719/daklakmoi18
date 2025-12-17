@@ -2,6 +2,8 @@ import "./style.scss";
 
 import dataPhuongXa from "../TrangDakLak/phuongxaData";
 import { useParams } from "react-router-dom";
+import { useRef } from "react";
+import TTSButton from "../../components/TTSButton";
 
 function isObject(value) {
    return typeof value === "object" && value !== null && !Array.isArray(value);
@@ -23,6 +25,8 @@ const renderWardInfo = (info) => {
 const TrangPhuongXa = () => {
    const { id } = useParams();
 
+   const contentRef = useRef();
+
    const ward = dataPhuongXa.find((p) => p.id == id);
    return (
       <div className="TrangPhuongXa">
@@ -39,7 +43,7 @@ const TrangPhuongXa = () => {
                      ))}
                   </div>
                }
-               <div className="ward-info">
+               <div className="ward-info" ref={contentRef}>
                   <div className="w-container">
                      <div>
                         <b>Giới thiệu chung</b>
@@ -111,6 +115,7 @@ const TrangPhuongXa = () => {
                      </div> : ``
                   }
                </div>
+               <TTSButton contentRef={contentRef} />
             </div>
          ) : (
             ""
