@@ -1,6 +1,6 @@
 import "./style.scss";
 
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import { Button, Whisper, Tooltip, IconButton } from "rsuite";
 import Play from '@rsuite/icons/PauseRound';
 import SpeakerIcon from '@rsuite/icons/Speaker';
@@ -70,6 +70,14 @@ const TTSButton = ({ contentRef }) => {
     if (!isLoaded) return <IconButton appearance="primary" size="lg" circle icon={<SpeakerIcon />} />;
     return isPlaying ? <IconButton appearance="primary" size="lg" color="green" circle icon={<Play />} /> : <IconButton circle size="lg" color="red" appearance="primary" icon={<Pause />} />;
   }
+
+  useEffect(() => {
+
+    return () => {
+      if (audioRef && audioRef.current) audioRef.current.pause();
+      setIsPlaying(false);
+    }
+  }, [])
 
   return <div className="btn-container" onClick={handleClick}>
     <Whisper placement="top" trigger="hover" speaker={<Tooltip>{getTooltipText()}</Tooltip>}>

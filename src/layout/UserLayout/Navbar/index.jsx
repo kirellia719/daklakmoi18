@@ -30,7 +30,7 @@ const Navbar = () => {
             </div>
             <div className="do-container">
                 <div className="music-btn">
-                    <BackgroundMusic />
+                    {/* <BackgroundMusic /> */}
                 </div>
                 <div className="menu-btn">
                     <RiMenu3Line onClick={handleToggle} />
