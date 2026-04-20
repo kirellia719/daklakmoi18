@@ -1,8 +1,9 @@
 import "./style.scss"
-
+import LogoIMG from "./logo.png";
 const Logo = () => {
     return <div className="logo">
-        <span>Hộp tri thức</span> <strong>360</strong>
+        {/* <strong>TNTM</strong> */}
+        <img src={LogoIMG} alt="" />
     </div>
 }
 
