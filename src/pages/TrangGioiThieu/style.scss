@@ -22,7 +22,9 @@
       max-width: var(--max-width);
       font-size: 1rem;
       padding: var(--padding-var);
-      box-shadow: 0 4px 4px rgba(0, 0, 0, 0.18), 0 0 10px rgba(0, 0, 0, 0.18);
+      box-shadow:
+         0 4px 4px rgba(0, 0, 0, 0.18),
+         0 0 10px rgba(0, 0, 0, 0.18);
       // font-family: "Times New Roman", Times, serif;
 
       @media (width < 835px) {
@@ -68,8 +70,13 @@
             border: 1px solid #ddd;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             position: relative;
+            transition: 1s ease;
             @media (width < 705px) {
                transform: none;
+            }
+
+            &:hover {
+               transform: rotate(7deg);
             }
 
             &::after {

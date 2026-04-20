@@ -20,9 +20,9 @@ const HomePage = () => {
                 <div className="photo-wrapper">
                     <img src={anh1} alt="Tôi yêu Việt Nam" />
                 </div>
-                <div className="frame">
+                {/* <div className="frame">
                     <img src={anh2} alt="" />
-                </div>
+                </div> */}
             </div>
             <p>Kính chào quý thầy cô, các bạn và mọi người!</p>
             <div className="tieu-de">
